@@ -1,6 +1,6 @@
 {
-  "phien_ban": "1.0.0",
-  "ghi_chu": "Phiên bản 1.0.0 cho Windows",
-  "tai_ve_exe": "https://github.com/HoangTran4869/DichPhuDeGame/releases/download/V1.0.0/DichPhuDeGame_Windows_Setup_v1.0.0.exe",
-  "sha256_exe": "4b84a05921e39ad5b6b9a61ce8e3612987a4e38028672c995764545a0177b44c"
+  "phien_ban": "1.0.1",
+  "ghi_chu": "Chữ tiếng Việt ĐÈ lên phụ đề ngay trong game PC/Steam (nền mờ sau chữ, đúng từng dòng, Ctrl+Shift+H ẩn/hiện). Giọng đọc kịp thoại, ngắt nghỉ theo dấu câu, cảm thán to hơn. Thêm bộ dịch dự phòng Groq, báo lỗi dễ hiểu, cài đặt gọn, hướng dẫn 4 bước, phong cách dịch theo game.",
+  "tai_ve_exe": "https://github.com/HoangTran4869/DichPhuDeGame/releases/download/v1.0.1/DichPhuDeGame_Windows_Setup_v1.0.1.exe",
+  "sha256_exe": "b522ab18b3714a76ebf86230e5637ec3ee8d4a18989a79b25cc9267b66588d36"
 }
