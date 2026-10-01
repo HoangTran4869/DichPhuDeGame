@@ -1,6 +1,6 @@
 {
-  "phien_ban": "1.0.1",
-  "ghi_chu": "Giọng đọc mới đọc ngay khi phụ đề hiện, kịp thoại, không bỏ câu; ngắt nghỉ theo dấu câu, cảm thán to và gấp hơn, câu dài có nhanh chậm tự nhiên. Thêm bộ dịch dự phòng Groq (rất nhanh). Báo lỗi dễ hiểu, cài đặt gọn, hướng dẫn 4 bước, chọn phong cách dịch theo thể loại game.",
-  "tai_ve_dmg": "https://github.com/HoangTran4869/DichPhuDeGame/releases/download/v1.0.1/DichPhuDeGame_v1.0.1.dmg",
-  "sha256_dmg": "dcb0946eb2c6a9928425522f146aeb6fdf0f50cd4ba29e4b7391b184ca5041f5"
+  "phien_ban": "2.0",
+  "ghi_chu": "Bản lớn 2.0: dịch được cả MÀN HÌNH Mac (YouTube, phim, game Mac) với chữ dịch đè ngay lên phụ đề, 3 chế độ Tiếng Việt / Việt + Anh / Chỉ đọc thoại, chỉ dịch phụ đề (bỏ qua menu, kho đồ), xưng hô nhất quán hơn, chỉnh âm lượng đọc, chọn tai nghe, giao diện tối.",
+  "tai_ve_dmg": "https://github.com/HoangTran4869/DichPhuDeGame/releases/download/v2.0/DichPhuDeGame_v2.0.dmg",
+  "sha256_dmg": "43e7f4c7101242a3c50377d05981a881686b8471f7a2df4efca86430dd132e2b"
 }
