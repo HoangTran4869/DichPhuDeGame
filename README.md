@@ -3,16 +3,24 @@
 Đọc phụ đề tiếng Anh trong game và dịch sang tiếng Việt bằng AI (miễn phí), hiện chữ to, đè lên phụ đề game (Windows) và đọc bằng giọng Việt.
 Có bản cho **Windows** và **macOS**.
 
-## ⬇️ Tải app — v1.0.1
-**[Bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v1.0.1)**, rồi chọn file:
-- **🪟 Windows 10/11:** `DichPhuDeGame_Windows_Setup_v1.0.1.exe` (khoảng 94 MB)
-- **🍎 macOS (chip Apple M1 trở lên):** `DichPhuDeGame_v1.0.1.dmg`
+## ⬇️ Tải app
+- **🪟 Windows 10/11 — v1.0.1b:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v1.0.1) → chọn file `DichPhuDeGame_Windows_Setup_v1.0.1b.exe` (khoảng 94 MB)
+- **🍎 macOS (chip Apple M1 trở lên) — v1.0.1:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v1.0.1) → chọn file `DichPhuDeGame_v1.0.1.dmg`
 
 ---
 
-## 🆕 Có gì mới ở v1.0.1
+## 🆕 Có gì mới
 
 ## 🪟 Windows
+### 🛠 v1.0.1b (Windows) — sửa lỗi chữ đè làm dịch đứng lại
+- Sửa lỗi khi bật **🎯 Đè lên phụ đề**: app đọc nhầm chữ tiếng Việt của chính nó → câu thoại mới không được dịch, dịch ra chữ lẫn lộn.
+
+### 🛠 v1.0.1a (Windows) — sửa lỗi capture card
+- Sửa lỗi bản cài đặt **không nhận capture card** (chọn Capture card nhưng không có hình, chế độ Màn hình PC vẫn chạy).
+- App tự dò đúng capture card, tự thử nhiều cách mở hình cho hợp từng loại capture card.
+- Thêm nút **⚙️ Cài đặt → 🎛 Chọn thiết bị** để tự chọn đúng capture card nếu app chọn nhầm webcam / camera ảo.
+- Nhật ký ghi rõ lỗi thiết bị hình (gửi file `%APPDATA%\DichPhuDeGame\nhat_ky.txt` cho tác giả khi cần hỗ trợ).
+
 ### 🎯 Chữ tiếng Việt ĐÈ lên phụ đề trong game (Windows, game PC / Steam)
 - Chọn nguồn **🖥 Màn hình máy tính** → bấm nút **🎯 Đè lên phụ đề**: bản dịch hiện **ngay trên phụ đề tiếng Anh**, đúng từng dòng (phụ đề 2 dòng → dịch 2 dòng), cỡ chữ bằng phụ đề gốc.
 - Nền **trong suốt**, chỉ có dải **nền mờ** sau chữ Việt cho dễ đọc; chuột bấm xuyên qua, không vướng game.
@@ -30,7 +38,7 @@ Có bản cho **Windows** và **macOS**.
 - **Hướng dẫn 4 bước**, **đèn trạng thái**, **⚙️ Cài đặt** gọn; **Game + Sổ ghi chú** chung 1 cửa sổ; **phong cách dịch theo thể loại game**.
 - Thanh nút **dàn đều, tự xuống hàng** khi thu nhỏ cửa sổ.
 
-## 🍎 macOS
+## 🍎 macOS (v1.0.1)
 ### 🎙 Giọng đọc (macOS) — làm lại hoàn toàn
 - Dùng bộ đọc giọng của Apple ngay trong app: **phụ đề hiện là đọc ngay**, không còn khựng chờ.
 - Tự chọn giọng hay nhất trên máy (Linh Nâng cao/Enhanced); chưa có thì app hướng dẫn tải miễn phí.
@@ -65,7 +73,7 @@ Có bản cho **Windows** và **macOS**.
 - Chơi PS5/console: cần **capture card** cắm vào máy tính. Game PC, YouTube, phim trên máy tính thì không cần.
 
 ### Cài đặt
-1. Bấm đúp file **DichPhuDeGame_Windows_Setup_v1.0.1.exe**.
+1. Bấm đúp file **DichPhuDeGame_Windows_Setup_v1.0.1b.exe**.
 2. Nếu Windows hiện màn hình xanh **"Windows protected your PC"**: bấm **More info** → **Run anyway**.
    (Windows cảnh báo vì app chưa mua chứng chỉ, chỉ cần làm 1 lần.)
 3. Bấm **Next** → **Install**, xong bấm **Finish** là app mở lên. Trên Desktop có biểu tượng app.
