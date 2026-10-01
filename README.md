@@ -4,7 +4,7 @@
 Có bản cho **Windows** và **macOS**.
 
 ## ⬇️ Tải app
-- **🪟 Windows 10/11 — v1.0.1c:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v1.0.1) → chọn file `DichPhuDeGame_Windows_Setup_v1.0.1c.exe` (khoảng 94 MB)
+- **🪟 Windows 10/11 — v1.0.1d:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v1.0.1) → chọn file `DichPhuDeGame_Windows_Setup_v1.0.1d.exe` (khoảng 94 MB)
 - **🍎 macOS (chip Apple M1 trở lên) — v1.0.1:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v1.0.1) → chọn file `DichPhuDeGame_v1.0.1.dmg`
 
 ---
@@ -12,6 +12,15 @@ Có bản cho **Windows** và **macOS**.
 ## 🆕 Có gì mới
 
 ## 🪟 Windows
+### 🛠 v1.0.1d (Windows) — nhẹ máy hơn, bớt "Not responding"
+- Chế độ Màn hình máy tính: chỉ chụp **đúng vùng khung phụ đề** thay vì cả màn hình (nhẹ hơn nhiều lần).
+- Bộ đọc chữ không còn chiếm hết CPU → máy yếu đỡ giật, app ít bị "Not responding".
+- Sửa lỗi bản 1.0.1c: xem YouTube/phim trong cửa sổ trình duyệt **không phóng to** thì app đứng ở 1 câu, không dịch tiếp.
+- Không dịch nhầm cửa sổ của công cụ chụp màn hình (Win+Shift+S).
+- Kiểu **Việt + Anh**: chữ tiếng Anh và tiếng Việt trên màn hình **cùng cỡ**.
+- **⚙️ Cài đặt → Chữ đè** có lại **nền đen mờ** (nhìn xuyên thấy game), bên cạnh nền sáng / xám đen / đen tuyền.
+- **🔊 Chỉ đọc thoại** (trước là "Đọc sub tiếng Anh"): đọc đúng ngôn ngữ của phụ đề — phụ đề Anh đọc giọng Anh, game có sẵn phụ đề **tiếng Việt** thì đọc giọng Việt (không cần dịch), vẫn ngắt nghỉ, nhấn câu cảm thán như khi dịch.
+
 ### ✨ v1.0.1c (Windows) — chữ đè đẹp hơn + chế độ Đọc sub tiếng Anh
 - Chữ đè có **1 khung nền gọn, bo góc** sau cả khối chữ (kiểu Google Dịch) cho dễ đọc.
 - Nút ngôn ngữ có 3 kiểu: **🇻🇳 Tiếng Việt** (bản dịch đè lên phụ đề) → **Việt + Anh** (giữ câu tiếng Anh, bản dịch màu xanh nhạt nằm ngay bên dưới) → **🇬🇧 Đọc sub tiếng Anh** (không dịch, chỉ đọc to phụ đề gốc bằng giọng tiếng Anh, không tốn lượt).
@@ -81,7 +90,7 @@ Có bản cho **Windows** và **macOS**.
 - Chơi PS5/console: cần **capture card** cắm vào máy tính. Game PC, YouTube, phim trên máy tính thì không cần.
 
 ### Cài đặt
-1. Bấm đúp file **DichPhuDeGame_Windows_Setup_v1.0.1c.exe**.
+1. Bấm đúp file **DichPhuDeGame_Windows_Setup_v1.0.1d.exe**.
 2. Nếu Windows hiện màn hình xanh **"Windows protected your PC"**: bấm **More info** → **Run anyway**.
    (Windows cảnh báo vì app chưa mua chứng chỉ, chỉ cần làm 1 lần.)
 3. Bấm **Next** → **Install**, xong bấm **Finish** là app mở lên. Trên Desktop có biểu tượng app.
