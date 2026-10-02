@@ -1,7 +1,7 @@
 {
-  "phien_ban": "1.0.1.4",
-  "ten_phien_ban": "1.0.1d",
-  "ghi_chu": "v1.0.1d: sửa lỗi xem video trong cửa sổ trình duyệt nhỏ không dịch; Việt + Anh cùng cỡ chữ; Chỉ đọc thoại đọc cả phụ đề tiếng Việt có sẵn; nhẹ máy hơn (chỉ chụp vùng khung phụ đề, bộ đọc chữ không chiếm hết CPU). v1.0.1c: chữ đè nền mờ gọn; kiểu Việt + Anh (bản dịch nằm dưới câu Anh); thêm chế độ Đọc sub tiếng Anh (không dịch); chọn kiểu nền chữ đè; cửa sổ app kéo nhỏ tùy ý. v1.0.1b: sửa lỗi chữ đè làm dịch đứng lại. v1.0.1a: sửa lỗi không nhận capture card; thêm Cài đặt → Chọn thiết bị. Chữ tiếng Việt ĐÈ lên phụ đề ngay trong game PC/Steam (nền mờ sau chữ, đúng từng dòng, Ctrl+Shift+H ẩn/hiện). Giọng đọc kịp thoại, ngắt nghỉ theo dấu câu, cảm thán to hơn. Thêm bộ dịch dự phòng Groq, báo lỗi dễ hiểu, cài đặt gọn, hướng dẫn 4 bước, phong cách dịch theo game.",
-  "tai_ve_exe": "https://github.com/HoangTran4869/DichPhuDeGame/releases/download/v1.0.1/DichPhuDeGame_Windows_Setup_v1.0.1d.exe",
-  "sha256_exe": "5a6fbc2dea730c639d4d5f692edaf335cf2774d562f106f5e8f7c841add50742"
+  "phien_ban": "2.0",
+  "ten_phien_ban": "2.0",
+  "ghi_chu": "Bản 2.0: chữ đè có nền sát từng dòng chữ; sửa lỗi chữ đè làm game thoát toàn màn hình; chỉ dịch phụ đề (bỏ qua menu, kho đồ, nút bấm); xưng hô nhất quán hơn; game có sẵn phụ đề Việt thì tự chuyển Chỉ đọc thoại; chỉnh âm lượng đọc, chọn tai nghe riêng; giao diện tối; mở app tự báo bản mới.",
+  "tai_ve_exe": "https://github.com/HoangTran4869/DichPhuDeGame/releases/download/v2.0/DichPhuDeGame_Windows_Setup_v2.0.exe",
+  "sha256_exe": "085889af4155cdbb30fb6a3661928f5930581a1b69d349c6f9cd7a9afc7bf877"
 }
