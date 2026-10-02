@@ -1,6 +1,7 @@
 {
-  "phien_ban": "2.0",
-  "ghi_chu": "Bản lớn 2.0: dịch được cả MÀN HÌNH Mac (YouTube, phim, game Mac) với chữ dịch đè ngay lên phụ đề, 3 chế độ Tiếng Việt / Việt + Anh / Chỉ đọc thoại, chỉ dịch phụ đề (bỏ qua menu, kho đồ), xưng hô nhất quán hơn, chỉnh âm lượng đọc, chọn tai nghe, giao diện tối.",
-  "tai_ve_dmg": "https://github.com/HoangTran4869/DichPhuDeGame/releases/download/v2.0/DichPhuDeGame_v2.0.dmg",
-  "sha256_dmg": "43e7f4c7101242a3c50377d05981a881686b8471f7a2df4efca86430dd132e2b"
+  "phien_ban": "2.0.1",
+  "ten_phien_ban": "2.0a",
+  "ghi_chu": "2.0a: sửa lỗi chữ dịch hiện lên làm game mất điều khiển (tay cầm); 2 dòng chữ đè cùng cỡ, nền ôm sát chữ; mở app tự báo bản mới. Bản lớn 2.0: dịch được cả MÀN HÌNH Mac (YouTube, phim, game Mac) với chữ dịch đè ngay lên phụ đề, 3 chế độ Tiếng Việt / Việt + Anh / Chỉ đọc thoại, chỉ dịch phụ đề (bỏ qua menu, kho đồ), xưng hô nhất quán hơn, chỉnh âm lượng đọc, chọn tai nghe, giao diện tối.",
+  "tai_ve_dmg": "https://github.com/HoangTran4869/DichPhuDeGame/releases/download/v2.0/DichPhuDeGame_v2.0a.dmg",
+  "sha256_dmg": "fe19f1b755bb27f137eed8e2cc5e49135a3cdabcd795375bd80773b31a615567"
 }
