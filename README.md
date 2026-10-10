@@ -1,20 +1,67 @@
 # 🎮 Dịch Phụ Đề Game
 
-Đọc phụ đề tiếng Anh trong game và dịch sang tiếng Việt bằng AI (miễn phí), hiện chữ to và đọc bằng giọng Việt.
-Có bản cho **macOS** và **Windows**.
+Đọc phụ đề tiếng Anh trong game và dịch sang tiếng Việt bằng AI (miễn phí), hiện chữ to, đè lên phụ đề game (Windows) và đọc bằng giọng Việt.
+Có bản cho **Windows** và **macOS**.
 
 ## ⬇️ Tải app
-- **🍎 macOS — v2.0a (mới):** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v2.0) → chọn file **DichPhuDeGame_v2.0a.dmg** (khoảng 74 MB)
-- **🪟 Windows 10/11 — v2.0:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v2.0) → chọn file `DichPhuDeGame_Windows_Setup_v2.0.exe`
+- **🪟 Windows 10/11 — v2.1:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v2.1) → chọn file `DichPhuDeGame_Windows_Setup_v2.1.exe` (khoảng 156 MB)
+- **🍎 macOS (chip Apple M1 trở lên) — v2.0:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v2.0) → chọn file `DichPhuDeGame_v2.0.dmg`
 
-## 🆕 Có gì mới ở v2.0a (macOS)
-### 🛠 v2.0a — sửa lỗi
-- **Sửa lỗi nặng:** mỗi lần chữ dịch đè lên phụ đề hiện ra thì game **mất điều khiển (tay cầm ngắt)**, phải bấm lại vào game. Giờ chữ dịch hiện lên mà game vẫn giữ điều khiển.
-- Chữ đè 2 dòng **cùng một cỡ chữ**; ô nền **ôm sát chữ**, A+ / A− thì ô to nhỏ theo chữ.
-- Mở app **tự kiểm tra bản mới**: có bản mới thì hiện bảng **Cập nhật ngay / Bỏ qua**; bỏ qua thì nút ⚙️ Cài đặt nhấp nháy để nhắc.
-- Bảng **Ủng hộ** tự hiện sau mỗi 1 giờ dùng app — muốn tắt vĩnh viễn: bấm **🔕 Tắt vĩnh viễn** và nhập mã (liên hệ **08888 68086 – Zalo**). Cập nhật bản sau không phải nhập lại.
+---
 
-### 🖥 Dịch cả MÀN HÌNH Mac (mới ở 2.0)
+## 🆕 Có gì mới
+
+## 🪟 Windows
+### 🛠 Sửa lỗi (Windows)
+- Một số máy **không nghe thấy giọng đọc** (file âm thanh vẫn tạo được nhưng không ra loa) → đổi cách phát tiếng, tự thử lần lượt loa đã chọn → loa mặc định → cách cũ.
+- **▶ Nghe thử** luôn đọc (trước đây bấm 2 lần liền thì lần sau im).
+- Mở Ứng dụng lúc Windows chưa nạp xong giọng đọc → Ứng dụng tự tìm lại giọng, không phải mở lại.
+- Game để **Fullscreen độc quyền** (Exclusive Fullscreen) bị thu nhỏ khi chữ đè hiện lên → Ứng dụng tự nhận ra, tạm tắt chữ đè và hướng dẫn chuyển sang **Borderless**.
+
+### 🔍 Dịch màn hình (MỚI)
+- Bấm **Ctrl + Shift + Alt** (nhấn đủ 3 phím rồi thả), **L3 + R3** trên tay cầm, hoặc nút **🔍 Dịch màn hình**: Ứng dụng dịch **nội dung** đang hiện — mô tả vật phẩm, nhiệm vụ, hướng dẫn, thư, ghi chép. Chữ giao diện cơ bản (Menu, Settings, Equip…) giữ nguyên.
+- Chữ Việt **đè thẳng lên game** đúng chỗ chữ gốc. Rê chuột vào ô nào → ô đó ẩn để bấm nút gốc. Di tay cầm chọn mục khác → ô ở đó tự ẩn rồi dịch lại nội dung mới. Đóng menu → bản dịch tự tắt. Bấm phím lần nữa cũng tắt.
+- Đọc chữ kỹ: chia màn hình 4 vùng giữ nguyên độ nét chữ nhỏ, chữ vắt qua 2 vùng tự nối lại.
+- **🧭 Tự dịch menu** (công tắc trong ⚙️ Cài đặt, mặc định Tắt): mở menu / túi đồ / bản đồ là tự dịch nội dung, khỏi bấm phím. Ai chỉ cần dịch thoại thì để Tắt.
+- **📜 Chữ nhiệm vụ khi chơi**: lúc đang chơi, Ứng dụng tự tìm chữ **đứng yên** trên màn hình (nhiệm vụ, mô tả, hướng dẫn) ở bất kỳ chỗ nào game đặt và dịch; chữ không đổi thì không dịch lại. Tự học game nào hay đặt chữ ở đâu.
+- **Nhận biết 3 trạng thái**: 🏃 Đang chơi · 💬 Hội thoại · 📋 Menu (dựa vào con trỏ chuột, chuyển động màn hình, phụ đề). Ở Menu thì khung phụ đề không gửi chữ menu đi dịch (đỡ tốn lượt) nhưng vẫn dịch ngay khi có lời thoại.
+- Không đọc to. Cả màn hình thường chỉ tốn 1 lượt dịch; chữ đã dịch được nhớ lại. Capture card (PS5): hiện ảnh đã dịch trong cửa sổ Ứng dụng.
+
+### 🎭 Nhiều giọng đọc — mỗi nhân vật 1 giọng
+- **4 giọng có sẵn** (2 nam, 2 nữ), không cần mạng. Thêm **5 giọng đọc hay** (2 nữ, 3 nam, tự nhiên như người thật): Ứng dụng hỏi tải khi mở, hoặc **⚙️ Cài đặt → Giọng đọc → ⬇ Tải thêm 5 giọng đọc hay** (tải 1 lần, khoảng 350 MB).
+- ⚙️ Cài đặt → Giọng đọc: chọn **Vị trí** cho từng giọng, mỗi giọng có ▶ Nghe thử. Các giọng được cân âm lượng to ngang nhau.
+- Nhân vật nam đầu tiên đọc giọng nam đứng trên cùng, nam thứ 2 đọc giọng nam kế tiếp (nữ cũng vậy); nhân vật chưa rõ giới tính đọc giọng đứng đầu. Nhân vật chung (Stranger, Guard…) đổi giọng luân phiên. Ứng dụng nhớ riêng cho từng game.
+- Game phải hiện **tên người nói** (vd "Kratos: …"). Tên vẫn gửi đi dịch để AI hiểu ngữ cảnh nhưng **không đọc tên**.
+- Giới tính lấy từ sổ ghi chú, chưa ghi thì AI tự cho biết. **👥 Giọng nhân vật** để tự chọn giọng cho từng nhân vật.
+- Chỉnh **tốc độ đọc** bằng tay. Mở Ứng dụng có lời chào.
+
+### 🎮 Tay cầm, phím tắt, báo lỗi
+- Dịch màn hình bằng tay cầm: **L3 + R3**, **D-pad Xuống + R3** hoặc **LB + R3** → phím mũi tên di chuyển, **A / ▢ Vuông** chọn điểm đầu – điểm cuối, **B / ○** huỷ. Thêm phím **Ctrl+Shift+Z / X**.
+- Nút **🐞 Báo lỗi**: tạo file nhật ký (đã che mã) và mở nhóm Telegram để gửi.
+- Game có sẵn phụ đề tiếng Việt → tự chuyển **Chỉ đọc thoại** (không tốn lượt dịch), thấy lại phụ đề tiếng Anh thì tự quay về.
+- Bỏ qua chữ hướng dẫn phím của menu ("WASD Move", "Esc Back"…), không đọc đi đọc lại.
+
+### 📒 Sổ ghi chú hiểu game hơn
+- **Thư viện 72 game** có sẵn nhân vật, giới tính, quan hệ (tự cập nhật qua mạng). Mở Ứng dụng hỏi đang chơi game nào.
+- Mỗi tên riêng có ô **Mô tả thêm** + **giới tính** (vd "Atreus — cậu bé, con trai Kratos") → xưng hô đúng hơn. Bấm vào 1 dòng để sửa.
+- Ô **Mô tả game** (bối cảnh, nhân vật chính) gửi kèm AI.
+- Thể loại mới tách riêng: **Thần thoại phương Tây / Fantasy** (God of War, Elden Ring… — cấm "huynh đài", "tại hạ", "cô nương") và **Kiếm hiệp / Cổ trang Á Đông** (Black Myth: Wukong…).
+
+### 🧹 Chữ gửi dịch sạch hơn
+- Sửa tên nhân vật OCR đọc lệch ("Mimit" → "Mimir"), tự thêm dấu ":" bị mất sau tên.
+- Bỏ mẩu rác ("15", "1R", "Tyr:", "Durlin >"), chữ chỉ đọc được 1 lần lúc mờ dần, chờ câu **hiện dần từng chữ** hiện xong mới dịch.
+- Nhiều lần đọc cùng 1 câu → chọn bản đọc đúng nhất; câu cụt "Oh!" gộp vào câu sau; câu dịch giống hệt trong 20 giây không đọc lại.
+
+### 🔊 Đọc tự nhiên hơn
+- Thêm nhiều từ cảm thán ("Ôi không", "Cút đi", "Coi chừng đấy"…) và từ nối ("Thật ra", "Hóa ra", "Dù sao"…) để ngắt nhịp đúng chỗ. Không đọc tiếng đệm "À", "Ừ", "Ồ", "Hì".
+- Nút đọc thoại dạng sổ danh sách **🔊 Đọc thoại / 🔇 Tắt đọc ▾**. Loa Bluetooth hay "ngủ": ⚙️ Cài đặt → **Giữ loa thức**.
+
+### 🎯 Chữ đè
+- Kiểu mới **🔤 Không nền, chữ viền bóng** (như phụ đề phim) và **chọn màu chữ** (trắng, vàng, xanh…).
+- Bỏ phím tắt Ctrl+Shift+H (hay trùng phím của trình duyệt / game). Chỉ còn phím riêng cho Dịch màn hình.
+
+## 🍎 macOS (v2.0)
+### 🖥 Dịch cả MÀN HÌNH Mac (mới)
 - Ngoài capture card (PS5), giờ chọn được **nguồn Màn hình máy tính**: dịch phụ đề YouTube, phim, game chạy trên Mac.
 - Đổi nguồn trong **⚙️ Cài đặt → Nguồn hình**. Lần đầu macOS hỏi quyền **Ghi màn hình (Screen Recording)** → bật cho app rồi mở lại app.
 - App tự bỏ qua cửa sổ của chính nó khi chụp màn hình → không đọc nhầm chữ dịch của mình.
@@ -50,38 +97,35 @@ Có bản cho **macOS** và **Windows**.
 
 ---
 
-## 🍎 macOS
+## 🪟 Windows — cài đặt
 
 ### Cần có
-- Máy Mac chip Apple (M1/M2/M3/M4…), macOS 12 trở lên
-- **Capture card** cắm vào Mac (PS5 → capture card → Mac) **hoặc** dùng **màn hình Mac** (YouTube, phim, game trên Mac)
-- Tài khoản Google để lấy **mã Gemini** miễn phí
-- Nên có thêm **mã Groq** miễn phí (dịch dự phòng, rất nhanh) — app có hướng dẫn
+- Windows 10 hoặc 11 (64-bit)
+- Tài khoản Google để lấy **mã Gemini** miễn phí; nên có thêm **mã Groq** miễn phí (app có hướng dẫn)
+- Chơi PS5/console: cần **capture card** cắm vào máy tính. Game PC, YouTube, phim trên máy tính thì không cần.
 
 ### Cài đặt
-1. Mở file **.dmg** vừa tải.
-2. **Kéo biểu tượng app** vào thư mục **Applications**.
-3. Lần đầu mở: vào **Applications**, **chuột phải** vào app → chọn **Mở (Open)** → bấm **Mở** lần nữa.
-   (macOS cảnh báo vì app chưa đăng ký với Apple, chỉ cần làm 1 lần.)
-   Nếu vẫn không mở được: vào **Cài đặt hệ thống → Quyền riêng tư & Bảo mật**, kéo xuống bấm **Vẫn mở (Open Anyway)**.
+1. Bấm đúp file **DichPhuDeGame_Windows_Setup_v2.1.exe**.
+2. Nếu Windows hiện màn hình xanh **"Windows protected your PC"**: bấm **More info** → **Run anyway**.
+   (Windows cảnh báo vì app chưa mua chứng chỉ, chỉ cần làm 1 lần.)
+3. Bấm **Next** → **Install**, xong bấm **Finish** là app mở lên. Trên Desktop có biểu tượng app.
 
 ### Lần đầu dùng
-App có **hướng dẫn 4 bước**:
-1. Nhập **mã Gemini** (nên có 2–3 mã, mỗi mã 1 dự án riêng).
-2. Nhập **mã Groq** (nên có 2 mã từ 2 tài khoản Groq). Có thể bỏ qua nhưng dịch sẽ chậm hơn khi Gemini quá tải.
-3. Nguồn hình:
-   - **Capture card:** macOS hỏi quyền **Camera** → bấm **Cho phép** (capture card được coi như camera).
-   - **Màn hình máy tính:** macOS hỏi quyền **Ghi màn hình** → vào **Cài đặt hệ thống → Quyền riêng tư & Bảo mật → Ghi màn hình**, bật cho **Dịch Phụ Đề Game**, rồi mở lại app.
-4. **Chọn khung:** đợi phụ đề hiện → bấm **⏸ Dừng hình** → kéo khung quanh phụ đề → nhấn **Enter**.
-
-💡 Giọng đọc hay nhất: tải giọng **Linh (Nâng cao / Enhanced)** miễn phí trong Cài đặt hệ thống → Trợ năng → Nội dung được đọc. App có mẹo hướng dẫn.
+App có **hướng dẫn 4 bước**: mã Gemini → mã Groq → nguồn hình → chọn khung.
+- **🎮 Capture card (PS5, console)** hoặc **🖥 Màn hình máy tính** (game PC, YouTube, phim).
+- **Chọn khung:** đợi phụ đề hiện → **⏸ Dừng hình** → kéo khung quanh phụ đề → **Enter**.
+- Game PC: bấm **🎯 Đè lên phụ đề** để chữ Việt hiện ngay trong game.
+- Nghe đọc tiếng Việt: bấm **🔇 Tắt đọc ▾** → chọn **🔊 Đọc thoại**. Giọng có sẵn trong Ứng dụng; muốn giọng tự nhiên hơn thì tải thêm **5 giọng đọc hay** khi Ứng dụng hỏi. Giọng nam Microsoft An cần cài: **Settings → Time & language → Speech → Add voices → Vietnamese**.
 
 ---
 
-## 🪟 Windows (v2.0)
-1. Bấm đúp file Setup `.exe`. Nếu Windows hiện **"Windows protected your PC"**: bấm **More info** → **Run anyway**.
-2. Bấm **Next** → **Install** → **Finish**.
-3. Nhập mã Gemini, chọn nguồn hình (capture card hoặc màn hình máy tính), kéo khung quanh phụ đề → **Enter**.
+## 🍎 macOS — cài đặt
+1. Mở file **.dmg**, **kéo biểu tượng app** vào thư mục **Applications**.
+2. Lần đầu mở: vào **Applications**, **chuột phải** vào app → **Mở (Open)** → bấm **Mở** lần nữa.
+   Nếu vẫn không mở được: **Cài đặt hệ thống → Quyền riêng tư & Bảo mật** → bấm **Vẫn mở (Open Anyway)**.
+3. Làm theo hướng dẫn 4 bước:
+   - **Capture card:** macOS hỏi quyền **Camera** (capture card được coi như camera) → bấm **Cho phép**.
+   - **Màn hình Mac** (YouTube, phim, game trên Mac): macOS hỏi quyền **Ghi màn hình** → bật cho **Dịch Phụ Đề Game** trong **Cài đặt hệ thống → Quyền riêng tư & Bảo mật → Ghi màn hình**, rồi mở lại app.
 
 ---
 
