@@ -4,7 +4,7 @@
 Có bản cho **Windows** và **macOS**.
 
 ## ⬇️ Tải app
-- **🪟 Windows 10/11 — v2.1a:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v2.1a) → chọn file `DichPhuDeGame_Windows_Setup_v2.1a.exe` (khoảng 156 MB)
+- **🪟 Windows 10/11 — v2.1b:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v2.1b) → chọn file `DichPhuDeGame_Windows_Setup_v2.1b.exe` (khoảng 156 MB)
 - **🍎 macOS (chip Apple M1 trở lên) — v2.0:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v2.0) → chọn file `DichPhuDeGame_v2.0.dmg`
 
 ---
@@ -13,6 +13,8 @@ Có bản cho **Windows** và **macOS**.
 
 ## 🪟 Windows
 ### 🛠 Sửa lỗi (Windows)
+- **v2.1b (mới):** ⚙️ Cài đặt → Giọng đọc → **🗣 Chỉ 1 giọng đọc: Bật** → chọn 1 giọng ở ô bên cạnh: mọi nhân vật đều đọc bằng giọng đó.
+- **v2.1b (mới):** ⚙️ Cài đặt → Chữ đè → kiểu **🔠 Không nền, chữ viền rộng**: chữ trắng viền xám đậm dày, dễ đọc trên mọi cảnh game.
 - **v2.1a:** tay cầm **PS5 (DualSense) / PS4** cắm dây hoặc Bluetooth giờ dùng được phím tắt **dịch theo vùng chọn** (L3 + R3…), không cần Steam / DS4Windows.
 - **v2.1a:** bấm **Cập nhật** khi app đang mở không còn báo lỗi "DeleteFile failed" / app hỏng "init.tcl" — bộ cài tự tắt app trước khi cài.
 - Một số máy **không nghe thấy giọng đọc** (file âm thanh vẫn tạo được nhưng không ra loa) → đổi cách phát tiếng, tự thử lần lượt loa đã chọn → loa mặc định → cách cũ.
@@ -107,7 +109,7 @@ Có bản cho **Windows** và **macOS**.
 - Chơi PS5/console: cần **capture card** cắm vào máy tính. Game PC, YouTube, phim trên máy tính thì không cần.
 
 ### Cài đặt
-1. Bấm đúp file **DichPhuDeGame_Windows_Setup_v2.1a.exe**.
+1. Bấm đúp file **DichPhuDeGame_Windows_Setup_v2.1b.exe**.
 2. Nếu Windows hiện màn hình xanh **"Windows protected your PC"**: bấm **More info** → **Run anyway**.
    (Windows cảnh báo vì app chưa mua chứng chỉ, chỉ cần làm 1 lần.)
 3. Bấm **Next** → **Install**, xong bấm **Finish** là app mở lên. Trên Desktop có biểu tượng app.
