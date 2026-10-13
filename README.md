@@ -1,11 +1,12 @@
 # 🎮 Dịch Phụ Đề Game
 
 Đọc phụ đề tiếng Anh trong game và dịch sang tiếng Việt bằng AI (miễn phí), hiện chữ to, đè lên phụ đề game (Windows) và đọc bằng giọng Việt.
-Có bản cho **Windows** và **macOS**.
+Có bản cho **Windows**, **macOS** và bản **PS5** (chữ Việt hiện thẳng trên TV).
 
 ## ⬇️ Tải app
 - **🪟 Windows 10/11 — v2.1b:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v2.1b) → chọn file `DichPhuDeGame_Windows_Setup_v2.1b.exe` (khoảng 156 MB)
 - **🍎 macOS (chip Apple M1 trở lên) — v2.0:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v2.0) → chọn file `DichPhuDeGame_v2.0.dmg`
+- **🎮 PS5 (Windows 10/11, chơi trên TV) — PS5 v1.0 (MỚI):** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v2.1b) → chọn file `DichPhuDeGame_PS5_Setup_v1.0.exe` (máy tính) + `DichGameTV.apk` (app cho Android TV)
 
 ---
 
@@ -63,6 +64,16 @@ Có bản cho **Windows** và **macOS**.
 ### 🎯 Chữ đè
 - Kiểu mới **🔤 Không nền, chữ viền bóng** (như phụ đề phim) và **chọn màu chữ** (trắng, vàng, xanh…).
 - Bỏ phím tắt Ctrl+Shift+H (hay trùng phím của trình duyệt / game). Chỉ còn phím riêng cho Dịch màn hình.
+
+## 🎮 PS5 (bản riêng, v1.0 — MỚI)
+Bản dành cho người chơi **PS5 trên TV**: máy tính lấy hình PS5 qua **Chơi từ xa (Remote Play)** — **không cần capture card** — đọc + dịch phụ đề, rồi gửi chữ Việt và giọng đọc sang **TV Android**. Hình PS5 vẫn đi thẳng HDMI vào TV nên **không trễ tay**.
+- **Phụ đề Việt đè đúng từng dòng** phụ đề tiếng Anh trên TV (chữ trắng viền xám, chỉnh to nhỏ bằng A− / A+), tự ẩn tên người nói.
+- **Giọng đọc phát ra loa TV.** Mẹo: vào cài đặt âm thanh của game, giảm **Voice Volume** để nghe rõ giọng Việt, vẫn giữ nhạc và hiệu ứng.
+- **Dịch cả màn hình bằng nút 🎙 Mic trên tay cầm** (đổi được sang nút Create): menu, túi đồ, kỹ năng, hướng dẫn → bong bóng dịch đặt cạnh chữ gốc, không che lời thoại. Thoát menu / di chuyển → tự tắt.
+- **Dịch bằng chuột** trên cửa sổ máy tính: kéo khung chỗ nào dịch chỗ đó.
+- **Đăng nhập PSN + ghép đôi PS5 ngay trong app** (làm 1 lần, app không lưu mật khẩu).
+- Có card đồ hoạ thì đọc chữ bằng card (nhanh hơn nhiều), không có thì dùng CPU.
+- Cài **song song** với bản Windows thường được, 2 bản không đè dữ liệu của nhau.
 
 ## 🍎 macOS (v2.0)
 ### 🖥 Dịch cả MÀN HÌNH Mac (mới)
@@ -123,6 +134,32 @@ App có **hướng dẫn 4 bước**: mã Gemini → mã Groq → nguồn hình 
 
 ---
 
+## 🎮 PS5 — cài đặt
+
+### Cần có
+- **PS5** + **máy tính Windows 10/11** cùng mạng nhà (nên cắm dây mạng hoặc Wi-Fi 5 GHz).
+- **2 tài khoản PSN trên PS5**: bạn chơi bằng tài khoản 1, tài khoản 2 dùng để máy tính "Chơi từ xa" xem hình.
+- **TV Android** (Android TV / Google TV) có cổng HDMI nối PS5. Tài khoản Google (mã Gemini) + mã Groq như bản Windows.
+
+### Cài trên máy tính
+1. Bấm đúp **DichPhuDeGame_PS5_Setup_v1.0.exe** (Windows cảnh báo màu xanh: **More info → Run anyway**) → **Next → Install → Finish**.
+2. Mở app: nhập mã Gemini / Groq, rồi cửa sổ **Kết nối PS5** hiện ra:
+   - **Bước 1:** bấm **Đăng nhập PSN** → đăng nhập **tài khoản 2**.
+   - **Bước 2:** trên PS5 vào **Cài đặt → Hệ thống → Chơi từ xa → Liên kết thiết bị** → nhập **mã 8 số** vào app → **Ghép đôi**.
+3. Trên PS5: **Cài đặt → Hệ thống → Chơi từ xa** → bật **"Ẩn trạng thái kết nối Chơi từ xa"** để TV không hiện dòng thông báo.
+
+### Cài app trên TV
+1. Trên TV cài app **Downloader** (của AFTVnews) từ Google Play.
+2. Mở Downloader → nhập mã **1314378** → cài **Dịch Game TV** (hoặc chép file `DichGameTV.apk` bằng USB).
+3. Mở app Dịch Game TV → bấm **Cấp quyền hiện chữ trên hình HDMI**. Chuyển TV sang cổng HDMI của PS5.
+4. Lần đầu máy tính kết nối, TV hỏi **Đồng ý** → bấm OK trên remote.
+
+### Dùng
+- Chọn khung phụ đề (⚙️ / nút **Chọn khung** trên app) quanh chỗ game hiện phụ đề.
+- Bấm **🎙 Mic** trên tay cầm để dịch cả màn hình (menu, túi đồ…). Lần đầu: ⚙️ Cài đặt → PS5 → **🎙 Học nút mic**.
+
+---
+
 ## 🍎 macOS — cài đặt
 1. Mở file **.dmg**, **kéo biểu tượng app** vào thư mục **Applications**.
 2. Lần đầu mở: vào **Applications**, **chuột phải** vào app → **Mở (Open)** → bấm **Mở** lần nữa.
@@ -134,7 +171,7 @@ App có **hướng dẫn 4 bước**: mã Gemini → mã Groq → nguồn hình 
 ---
 
 ## 🔄 Cập nhật
-Bấm **⚙️ Cài đặt → ⬆️ Cập nhật** trong app. Dữ liệu của bạn (mã, sổ ghi chú, cài đặt) được giữ nguyên.
+Bấm **⚙️ Cài đặt → ⬆️ Cập nhật** trong app (bản PS5: tải bản mới ở trang này rồi cài đè). Dữ liệu của bạn (mã, sổ ghi chú, cài đặt) được giữ nguyên.
 
 ---
 App tạo bởi Hoàng Trần. Nếu thấy hữu ích, bạn có thể ủng hộ qua nút ⭐ Ủng hộ trong app. Cảm ơn bạn! 💛
