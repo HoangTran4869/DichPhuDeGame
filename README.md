@@ -1,12 +1,12 @@
 # 🎮 Dịch Phụ Đề Game
 
 Đọc phụ đề tiếng Anh trong game và dịch sang tiếng Việt bằng AI (miễn phí), hiện chữ to, đè lên phụ đề game (Windows) và đọc bằng giọng Việt.
-Có bản cho **Windows**, **macOS** và bản **PS5** (chữ Việt hiện thẳng trên TV).
+Có bản cho **Windows** (gồm cả chế độ **chơi PS5 dịch trên TV**) và **macOS**.
 
-## ⬇️ Tải app
-- **🪟 Windows 10/11 — v2.1b:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v2.1b) → chọn file `DichPhuDeGame_Windows_Setup_v2.1b.exe` (khoảng 156 MB)
+## ⬇️ Tải ứng dụng
+- **🪟 Windows 10/11 — v2.2:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v2.2) → chọn file `DichPhuDeGame_Windows_Setup_v2.2.exe` (khoảng 217 MB)
+- **📺 Ứng dụng TV (Android TV / Google TV):** cùng trang trên → file `DichGameTV.apk`, hoặc ứng dụng **Downloader** trên TV nhập mã **1314378**
 - **🍎 macOS (chip Apple M1 trở lên) — v2.0:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v2.0) → chọn file `DichPhuDeGame_v2.0.dmg`
-- **🎮 PS5 (Windows 10/11, chơi trên TV) — PS5 v1.0 (MỚI):** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v2.1b) → chọn file `DichPhuDeGame_PS5_Setup_v1.0.exe` (máy tính) + `DichGameTV.apk` (app cho Android TV)
 
 ---
 
@@ -14,16 +14,33 @@ Có bản cho **Windows**, **macOS** và bản **PS5** (chữ Việt hiện th�
 
 ## 🪟 Windows
 ### 🛠 Sửa lỗi (Windows)
+- **v2.2 (mới):** game có font chữ nghiêng (vd The Longest Journey) không còn bị tưởng nhầm là phụ đề tiếng Việt rồi ngừng dịch.
+- **v2.2 (mới):** chưa kết nối PS5 / chưa thấy capture card → Ứng dụng đứng chờ, không còn tự đọc các câu mẫu khi vừa mở.
+- **v2.2 (mới):** mở Ứng dụng là **🔊 Đọc thoại BẬT** sẵn; cửa sổ mở nhỏ giữa màn hình (không còn bung toàn màn hình).
+- **v2.2 (mới):** bấm **Bỏ qua** ở bảng chọn game → không gắn game nào, dịch tự nhiên (trước đây giữ game cũ, dễ sai thể loại).
+- **v2.2 (mới):** phụ đề tắt sau 2 giây khi câu tiếng Anh đang hiện không còn trong khung (không còn câu dịch "kẹt" khi vào menu / kho đồ).
+- **v2.2 (mới):** Gemini chậm liên tục → tự ưu tiên Groq 5 phút rồi thử lại Gemini.
+- **v2.2 (mới):** đăng nhập PSN ra trang trắng → có nút **📋 Dán địa chỉ trang trắng**.
 - **v2.1b (mới):** ⚙️ Cài đặt → Giọng đọc → **🗣 Chỉ 1 giọng đọc: Bật** → chọn 1 giọng ở ô bên cạnh: mọi nhân vật đều đọc bằng giọng đó.
 - **v2.1b (mới):** ⚙️ Cài đặt → Chữ đè → kiểu **🔠 Không nền, chữ viền rộng**: chữ trắng viền xám đậm dày, dễ đọc trên mọi cảnh game.
 - **v2.1a:** tay cầm **PS5 (DualSense) / PS4** cắm dây hoặc Bluetooth giờ dùng được phím tắt **dịch theo vùng chọn** (L3 + R3…), không cần Steam / DS4Windows.
-- **v2.1a:** bấm **Cập nhật** khi app đang mở không còn báo lỗi "DeleteFile failed" / app hỏng "init.tcl" — bộ cài tự tắt app trước khi cài.
+- **v2.1a:** bấm **Cập nhật** khi ứng dụng đang mở không còn báo lỗi "DeleteFile failed" / ứng dụng hỏng "init.tcl" — bộ cài tự tắt ứng dụng trước khi cài.
 - Một số máy **không nghe thấy giọng đọc** (file âm thanh vẫn tạo được nhưng không ra loa) → đổi cách phát tiếng, tự thử lần lượt loa đã chọn → loa mặc định → cách cũ.
 - **▶ Nghe thử** luôn đọc (trước đây bấm 2 lần liền thì lần sau im).
 - Mở Ứng dụng lúc Windows chưa nạp xong giọng đọc → Ứng dụng tự tìm lại giọng, không phải mở lại.
 - Game để **Fullscreen độc quyền** (Exclusive Fullscreen) bị thu nhỏ khi chữ đè hiện lên → Ứng dụng tự nhận ra, tạm tắt chữ đè và hướng dẫn chuyển sang **Borderless**.
 
-### 🔍 Dịch màn hình (MỚI)
+### 🎮 v2.2: GỘP BẢN PS5 — 2 chế độ
+- Mở ứng dụng hiện **2 thẻ**: **🖥 Dịch trên máy tính** (game PC, PS5 Chơi từ xa về máy tính, capture card) và **📺 Chơi PS5 – dịch trên TV**. Đổi lại trong **⚙️ Cài đặt → Chế độ**.
+- **Nguồn mới: 📡 PS5 Chơi từ xa** — máy tính tự lấy hình PS5 qua mạng nhà, **không cần capture card**. Làm 1 lần: **🔑 Đăng nhập PSN** (tài khoản thứ 2 có trên PS5) + nhập **mã 8 số** (PS5: Cài đặt → Hệ thống → Chơi từ xa → Liên kết thiết bị).
+- **Chế độ TV:** phụ đề Việt đè đúng từng dòng phụ đề Anh trên TV, **giọng đọc ra loa TV**, PS5 vẫn cắm HDMI vào TV nên **không trễ tay**. Cần ứng dụng **Dịch Game TV** (Android TV / Google TV): tải `DichGameTV.apk` bên dưới hoặc ứng dụng **Downloader** mã **1314378**. Không tự tìm thấy TV: **Cài đặt → TV → Nhập IP TV**.
+- **🎙 Nút Mic trên tay cầm = dịch cả màn hình** (menu, túi đồ, kỹ năng): bong bóng dịch đặt cạnh chữ gốc, không che lời thoại; thoát menu / di chuyển là tự tắt. Lần đầu: Cài đặt → PS5 → **Học nút mic**.
+- **🖱 Dịch bằng chuột** (PS5 / capture card): hình game hiện trong cửa sổ ứng dụng (**30 hoặc 60 hình/giây**, chọn trong Cài đặt), kéo chuột chỗ nào dịch chỗ đó.
+- **Thư viện game: 87 game** (thêm Onimusha: Dawn of Dreams, Diablo IV, Final Fantasy VII Remake, Marvel's Spider-Man, Lies of P, Dragon Age: The Veilguard, Star Wars Jedi: Fallen Order, Star Wars Outlaws, Dead Space, Devil May Cry 5, Like a Dragon: Infinite Wealth, Hellblade II, Assassin's Creed Mirage, Resident Evil 3, Batman: Arkham Knight).
+- Có card đồ hoạ thì đọc chữ bằng card (nhanh hơn nhiều).
+- **👥 Nhóm Facebook**: https://www.facebook.com/groups/1617718573193579 — nhận bản cập nhật, báo lỗi, góp ý.
+
+### 🔍 Dịch màn hình
 - Bấm **Ctrl + Shift + Alt** (nhấn đủ 3 phím rồi thả), **L3 + R3** trên tay cầm, hoặc nút **🔍 Dịch màn hình**: Ứng dụng dịch **nội dung** đang hiện — mô tả vật phẩm, nhiệm vụ, hướng dẫn, thư, ghi chép. Chữ giao diện cơ bản (Menu, Settings, Equip…) giữ nguyên.
 - Chữ Việt **đè thẳng lên game** đúng chỗ chữ gốc. Rê chuột vào ô nào → ô đó ẩn để bấm nút gốc. Di tay cầm chọn mục khác → ô ở đó tự ẩn rồi dịch lại nội dung mới. Đóng menu → bản dịch tự tắt. Bấm phím lần nữa cũng tắt.
 - Đọc chữ kỹ: chia màn hình 4 vùng giữ nguyên độ nét chữ nhỏ, chữ vắt qua 2 vùng tự nối lại.
@@ -47,7 +64,7 @@ Có bản cho **Windows**, **macOS** và bản **PS5** (chữ Việt hiện th�
 - Bỏ qua chữ hướng dẫn phím của menu ("WASD Move", "Esc Back"…), không đọc đi đọc lại.
 
 ### 📒 Sổ ghi chú hiểu game hơn
-- **Thư viện 72 game** có sẵn nhân vật, giới tính, quan hệ (tự cập nhật qua mạng). Mở Ứng dụng hỏi đang chơi game nào.
+- **Thư viện 87 game** có sẵn nhân vật, giới tính, quan hệ (tự cập nhật qua mạng). Mở Ứng dụng hỏi đang chơi game nào.
 - Mỗi tên riêng có ô **Mô tả thêm** + **giới tính** (vd "Atreus — cậu bé, con trai Kratos") → xưng hô đúng hơn. Bấm vào 1 dòng để sửa.
 - Ô **Mô tả game** (bối cảnh, nhân vật chính) gửi kèm AI.
 - Thể loại mới tách riêng: **Thần thoại phương Tây / Fantasy** (God of War, Elden Ring… — cấm "huynh đài", "tại hạ", "cô nương") và **Kiếm hiệp / Cổ trang Á Đông** (Black Myth: Wukong…).
@@ -64,16 +81,6 @@ Có bản cho **Windows**, **macOS** và bản **PS5** (chữ Việt hiện th�
 ### 🎯 Chữ đè
 - Kiểu mới **🔤 Không nền, chữ viền bóng** (như phụ đề phim) và **chọn màu chữ** (trắng, vàng, xanh…).
 - Bỏ phím tắt Ctrl+Shift+H (hay trùng phím của trình duyệt / game). Chỉ còn phím riêng cho Dịch màn hình.
-
-## 🎮 PS5 (bản riêng, v1.0 — MỚI)
-Bản dành cho người chơi **PS5 trên TV**: máy tính lấy hình PS5 qua **Chơi từ xa (Remote Play)** — **không cần capture card** — đọc + dịch phụ đề, rồi gửi chữ Việt và giọng đọc sang **TV Android**. Hình PS5 vẫn đi thẳng HDMI vào TV nên **không trễ tay**.
-- **Phụ đề Việt đè đúng từng dòng** phụ đề tiếng Anh trên TV (chữ trắng viền xám, chỉnh to nhỏ bằng A− / A+), tự ẩn tên người nói.
-- **Giọng đọc phát ra loa TV.** Mẹo: vào cài đặt âm thanh của game, giảm **Voice Volume** để nghe rõ giọng Việt, vẫn giữ nhạc và hiệu ứng.
-- **Dịch cả màn hình bằng nút 🎙 Mic trên tay cầm** (đổi được sang nút Create): menu, túi đồ, kỹ năng, hướng dẫn → bong bóng dịch đặt cạnh chữ gốc, không che lời thoại. Thoát menu / di chuyển → tự tắt.
-- **Dịch bằng chuột** trên cửa sổ máy tính: kéo khung chỗ nào dịch chỗ đó.
-- **Đăng nhập PSN + ghép đôi PS5 ngay trong app** (làm 1 lần, app không lưu mật khẩu).
-- Có card đồ hoạ thì đọc chữ bằng card (nhanh hơn nhiều), không có thì dùng CPU.
-- Cài **song song** với bản Windows thường được, 2 bản không đè dữ liệu của nhau.
 
 ## 🍎 macOS (v2.0)
 ### 🖥 Dịch cả MÀN HÌNH Mac (mới)
@@ -116,53 +123,30 @@ Bản dành cho người chơi **PS5 trên TV**: máy tính lấy hình PS5 qua 
 
 ### Cần có
 - Windows 10 hoặc 11 (64-bit)
-- Tài khoản Google để lấy **mã Gemini** miễn phí; nên có thêm **mã Groq** miễn phí (app có hướng dẫn)
-- Chơi PS5/console: cần **capture card** cắm vào máy tính. Game PC, YouTube, phim trên máy tính thì không cần.
+- Tài khoản Google để lấy **mã Gemini** miễn phí; nên có thêm **mã Groq** miễn phí (ứng dụng có hướng dẫn)
+- Chơi PS5: dùng **📡 PS5 Chơi từ xa** (không cần capture card) hoặc **capture card**. Game PC, YouTube, phim trên máy tính thì không cần gì thêm.
+- Chế độ **📺 Chơi PS5 trên TV**: cần TV **Android TV / Google TV** (cài ứng dụng Dịch Game TV) và 2 tài khoản PSN trên PS5.
 
 ### Cài đặt
-1. Bấm đúp file **DichPhuDeGame_Windows_Setup_v2.1b.exe**.
+1. Bấm đúp file **DichPhuDeGame_Windows_Setup_v2.2.exe**.
 2. Nếu Windows hiện màn hình xanh **"Windows protected your PC"**: bấm **More info** → **Run anyway**.
-   (Windows cảnh báo vì app chưa mua chứng chỉ, chỉ cần làm 1 lần.)
-3. Bấm **Next** → **Install**, xong bấm **Finish** là app mở lên. Trên Desktop có biểu tượng app.
+   (Windows cảnh báo vì ứng dụng chưa mua chứng chỉ, chỉ cần làm 1 lần.)
+3. Bấm **Next** → **Install**, xong bấm **Finish** là ứng dụng mở lên. Trên Desktop có biểu tượng app.
 
 ### Lần đầu dùng
-App có **hướng dẫn 4 bước**: mã Gemini → mã Groq → nguồn hình → chọn khung.
-- **🎮 Capture card (PS5, console)** hoặc **🖥 Màn hình máy tính** (game PC, YouTube, phim).
+Mở ứng dụng chọn **🖥 Dịch trên máy tính** hoặc **📺 Chơi PS5 – dịch trên TV**, rồi làm theo **hướng dẫn**: mã Gemini → mã Groq → nguồn hình → chọn khung.
+- **🎮 Capture card**, **🖥 Màn hình máy tính** (game PC, YouTube, phim) hoặc **📡 PS5 Chơi từ xa**.
+- PS5: Cài đặt → Hệ thống → Chơi từ xa → bật **"Ẩn trạng thái kết nối Chơi từ xa"** để TV không hiện dòng thông báo.
+- TV: cài ứng dụng **Downloader** → mã **1314378** → cài **Dịch Game TV** → bấm **Cấp quyền hiện chữ** → chuyển TV sang cổng HDMI của PS5 → lần đầu bấm **Đồng ý** trên TV.
 - **Chọn khung:** đợi phụ đề hiện → **⏸ Dừng hình** → kéo khung quanh phụ đề → **Enter**.
 - Game PC: bấm **🎯 Đè lên phụ đề** để chữ Việt hiện ngay trong game.
 - Nghe đọc tiếng Việt: bấm **🔇 Tắt đọc ▾** → chọn **🔊 Đọc thoại**. Giọng có sẵn trong Ứng dụng; muốn giọng tự nhiên hơn thì tải thêm **5 giọng đọc hay** khi Ứng dụng hỏi. Giọng nam Microsoft An cần cài: **Settings → Time & language → Speech → Add voices → Vietnamese**.
 
 ---
 
-## 🎮 PS5 — cài đặt
-
-### Cần có
-- **PS5** + **máy tính Windows 10/11** cùng mạng nhà (nên cắm dây mạng hoặc Wi-Fi 5 GHz).
-- **2 tài khoản PSN trên PS5**: bạn chơi bằng tài khoản 1, tài khoản 2 dùng để máy tính "Chơi từ xa" xem hình.
-- **TV Android** (Android TV / Google TV) có cổng HDMI nối PS5. Tài khoản Google (mã Gemini) + mã Groq như bản Windows.
-
-### Cài trên máy tính
-1. Bấm đúp **DichPhuDeGame_PS5_Setup_v1.0.exe** (Windows cảnh báo màu xanh: **More info → Run anyway**) → **Next → Install → Finish**.
-2. Mở app: nhập mã Gemini / Groq, rồi cửa sổ **Kết nối PS5** hiện ra:
-   - **Bước 1:** bấm **Đăng nhập PSN** → đăng nhập **tài khoản 2**.
-   - **Bước 2:** trên PS5 vào **Cài đặt → Hệ thống → Chơi từ xa → Liên kết thiết bị** → nhập **mã 8 số** vào app → **Ghép đôi**.
-3. Trên PS5: **Cài đặt → Hệ thống → Chơi từ xa** → bật **"Ẩn trạng thái kết nối Chơi từ xa"** để TV không hiện dòng thông báo.
-
-### Cài app trên TV
-1. Trên TV cài app **Downloader** (của AFTVnews) từ Google Play.
-2. Mở Downloader → nhập mã **1314378** → cài **Dịch Game TV** (hoặc chép file `DichGameTV.apk` bằng USB).
-3. Mở app Dịch Game TV → bấm **Cấp quyền hiện chữ trên hình HDMI**. Chuyển TV sang cổng HDMI của PS5.
-4. Lần đầu máy tính kết nối, TV hỏi **Đồng ý** → bấm OK trên remote.
-
-### Dùng
-- Chọn khung phụ đề (⚙️ / nút **Chọn khung** trên app) quanh chỗ game hiện phụ đề.
-- Bấm **🎙 Mic** trên tay cầm để dịch cả màn hình (menu, túi đồ…). Lần đầu: ⚙️ Cài đặt → PS5 → **🎙 Học nút mic**.
-
----
-
 ## 🍎 macOS — cài đặt
-1. Mở file **.dmg**, **kéo biểu tượng app** vào thư mục **Applications**.
-2. Lần đầu mở: vào **Applications**, **chuột phải** vào app → **Mở (Open)** → bấm **Mở** lần nữa.
+1. Mở file **.dmg**, **kéo biểu tượng ứng dụng** vào thư mục **Applications**.
+2. Lần đầu mở: vào **Applications**, **chuột phải** vào ứng dụng → **Mở (Open)** → bấm **Mở** lần nữa.
    Nếu vẫn không mở được: **Cài đặt hệ thống → Quyền riêng tư & Bảo mật** → bấm **Vẫn mở (Open Anyway)**.
 3. Làm theo hướng dẫn 4 bước:
    - **Capture card:** macOS hỏi quyền **Camera** (capture card được coi như camera) → bấm **Cho phép**.
@@ -171,7 +155,7 @@ App có **hướng dẫn 4 bước**: mã Gemini → mã Groq → nguồn hình 
 ---
 
 ## 🔄 Cập nhật
-Bấm **⚙️ Cài đặt → ⬆️ Cập nhật** trong app (bản PS5: tải bản mới ở trang này rồi cài đè). Dữ liệu của bạn (mã, sổ ghi chú, cài đặt) được giữ nguyên.
+Bấm **⚙️ Cài đặt → ⬆️ Cập nhật** trong app. Dữ liệu của bạn (mã, sổ ghi chú, cài đặt) được giữ nguyên.
 
 ---
-App tạo bởi Hoàng Trần. Nếu thấy hữu ích, bạn có thể ủng hộ qua nút ⭐ Ủng hộ trong app. Cảm ơn bạn! 💛
+Ứng dụng tạo bởi Hoàng Trần. Nếu thấy hữu ích, bạn có thể ủng hộ qua nút ⭐ Ủng hộ trong app. Cảm ơn bạn! 💛
