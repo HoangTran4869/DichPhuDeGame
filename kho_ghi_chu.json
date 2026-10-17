@@ -1,5 +1,5 @@
 {
- "phien_ban": "2026-10-10c",
+ "phien_ban": "2026-10-17a",
  "games": [
   {
    "ten": "God of War",
@@ -8259,6 +8259,997 @@
      "tu": "Lost Master Arc",
      "loai": "Khác",
      "mo_ta": "tên phần câu chuyện mới bắt đầu từ KH IV"
+    }
+   ]
+  },
+  {
+   "ten": "Onimusha: Dawn of Dreams",
+   "nen_tang": "PS2 (2006)",
+   "phong_cach": "nhat_ban",
+   "mo_ta_game": "Hành động chém quỷ thời Nhật Bản phong kiến, 15 năm sau khi Oda Nobunaga bị đánh bại (Onimusha 3). Toyotomi Hideyoshi thống nhất Nhật Bản nhờ quỷ Genma, Sao Điềm Gở xuất hiện, Genma tàn phá khắp nơi. Soki - con rơi của Hideyoshi - mang sức mạnh Quỷ Xanh, cùng đồng đội chống lại cha mình. Đi từ làng quê, thành của Hideyoshi, núi Hiei tới Kyoto. Giọng điệu chiến quốc, trang trọng. Xưng hô gợi ý: Soki ↔ Hideyoshi: ta – ngươi (thù địch, cha con đối đầu); Soki ↔ Jubei/Ohatsu/Tenkai/Roberto: ta – cô/ông/anh (đồng đội); Jubei xưng 'ta', tính bộc trực; Tenkai (nhà sư) xưng 'bần tăng'; Genma xưng 'ta', gọi con người 'lũ người'.",
+   "tu": [
+    {
+     "tu": "Soki",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "thanh niên; nhân vật chính; con rơi của Hideyoshi (tên thật Yuki Hideyasu), mang sức mạnh Quỷ Xanh, là Onimusha; trầm, quyết tâm diệt cha để cứu thiên hạ"
+    },
+    {
+     "tu": "Jubei",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "thiếu nữ; đồng đội; Yagyu Jubei Akane, cháu gái của Jubei từng diệt Nobunaga, có sức mạnh Quỷ; bộc trực, nóng tính; truy đuổi kẻ phản bội Munenori"
+    },
+    {
+     "tu": "Ohatsu",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "thiếu nữ; đồng đội; bạn thuở nhỏ của Soki, em gái phu nhân Yodo; xạ thủ súng; bị trùng Genma nhiễm"
+    },
+    {
+     "tu": "Tenkai",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "lớn tuổi; đồng đội; nhà sư đeo găng Quỷ, đi tìm người mang sức mạnh Quỷ Đen; thật ra là Samanosuke Akechi; điềm tĩnh, xưng 'bần tăng'"
+    },
+    {
+     "tu": "Roberto",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "trung niên; đồng đội; Roberto Frois, nhà truyền giáo người Tây Ban Nha, to khỏe, đấu tay không; tìm trả thù người giám hộ Luis Frois"
+    },
+    {
+     "tu": "Hideyoshi",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "già; phản diện; Toyotomi Hideyoshi, kẻ thống nhất Nhật Bản, bị Genma điều khiển; cha của Soki"
+    },
+    {
+     "tu": "Mitsunari",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "trung niên; thuộc hạ của Hideyoshi; Ishida Mitsunari, bị Genma Claudius ký sinh"
+    },
+    {
+     "tu": "Samanosuke",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "anh hùng các phần trước; Samanosuke Akechi, ẩn thân dưới danh Tenkai"
+    },
+    {
+     "tu": "Minokichi",
+     "loai": "Tên nhân vật",
+     "mo_ta": "sinh vật nhỏ (sâu túi) bạn đồng hành của Soki, tốt bụng"
+    },
+    {
+     "tu": "Munenori",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "kẻ phản bội dòng tộc Yagyu, đánh cắp Hạt Genma"
+    },
+    {
+     "tu": "Genma",
+     "loai": "Thuật ngữ",
+     "mo_ta": "loài quỷ xâm chiếm nhân gian"
+    },
+    {
+     "tu": "Oni",
+     "loai": "Thuật ngữ",
+     "mo_ta": "Quỷ (tộc Oni) - nguồn sức mạnh của các Onimusha; giữ 'Oni' hoặc dịch 'Quỷ'"
+    }
+   ]
+  },
+  {
+   "ten": "Diablo IV",
+   "nen_tang": "PS4 / PS5 / PC / Xbox",
+   "phong_cach": "than_thoai",
+   "mo_ta_game": "Nhập vai hành động u tối ở vùng đất Sanctuary. Lilith - Con Gái của Hận Thù, mẹ của nhân loại - trở lại, gieo rắc tội lỗi. Người chơi (Kẻ Lang Thang - Wanderer) cùng Lorath, Donan, Neyrelle truy đuổi Lilith; thiên thần Inarius cũng săn bà ta. Giọng điệu trang nghiêm, tăm tối, kinh dị. Xưng hô gợi ý: Lilith ↔ người chơi: ta – ngươi (quyến rũ, mỉa mai); Lorath ↔ người chơi: tôi – cậu/cô (già dặn, cộc cằn); Neyrelle ↔ Lorath: con/cháu – ông (kính trọng); Inarius xưng 'ta', gọi phàm nhân 'ngươi' (kiêu ngạo).",
+   "tu": [
+    {
+     "tu": "Lilith",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "bất tử; phản diện chính; Con Gái của Hận Thù, ác quỷ đồng sáng tạo Sanctuary, 'mẹ' của loài người; quyến rũ, thao túng"
+    },
+    {
+     "tu": "Inarius",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "bất tử; thiên thần sa ngã, cha của nhân loại, người tình cũ của Lilith; kiêu ngạo, cuồng tín"
+    },
+    {
+     "tu": "Lorath",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "già; đồng đội; Lorath Nahr, học giả Horadrim, cộc cằn nhưng đáng tin; người thầy của Neyrelle"
+    },
+    {
+     "tu": "Neyrelle",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "trẻ; đồng đội; cô gái dũng cảm muốn cứu mẹ, học trò của Lorath"
+    },
+    {
+     "tu": "Donan",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "trung niên; đồng đội; chiến binh Horadrim già dặn, có con trai Vigo bị Lilith hại"
+    },
+    {
+     "tu": "Vigo",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "con trai của Donan"
+    },
+    {
+     "tu": "Wanderer",
+     "loai": "Tên nhân vật",
+     "mo_ta": "người chơi (Kẻ Lang Thang), giới tính tùy người chơi chọn"
+    },
+    {
+     "tu": "Mephisto",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "Chúa Tể Hận Thù, cha của Lilith (Đại Ác Quỷ)"
+    },
+    {
+     "tu": "Horadrim",
+     "loai": "Thuật ngữ",
+     "mo_ta": "hội pháp sư săn quỷ cổ xưa"
+    },
+    {
+     "tu": "Sanctuary",
+     "loai": "Địa danh",
+     "mo_ta": "thế giới của game (Thánh Địa)"
+    }
+   ]
+  },
+  {
+   "ten": "Final Fantasy VII Remake",
+   "nen_tang": "PS4 / PS5 / PC",
+   "phong_cach": "hien_dai",
+   "mo_ta_game": "Nhập vai hành động ở thành phố Midgar, nơi tập đoàn Shinra hút cạn năng lượng sinh mệnh của hành tinh. Cựu lính SOLDIER Cloud làm lính đánh thuê cho nhóm kháng chiến AVALANCHE của Barret, gặp cô gái bán hoa Aerith, kẻ thù truyền kiếp Sephiroth hiện về. Giọng điệu trẻ trung, có hài hước. Xưng hô gợi ý: Cloud ↔ Tifa: tôi/mình – cậu (bạn thuở nhỏ); Cloud ↔ Barret: tôi – ông (lúc đầu đối đầu); Aerith ↔ Cloud: tôi/mình – anh (tinh nghịch); Barret ↔ Marlene: bố – con; Sephiroth ↔ Cloud: ta – ngươi.",
+   "tu": [
+    {
+     "tu": "Cloud",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "21 tuổi; nhân vật chính; Cloud Strife, cựu SOLDIER làm lính đánh thuê, lạnh lùng, ít nói"
+    },
+    {
+     "tu": "Tifa",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "20 tuổi; đồng đội; Tifa Lockhart, bạn thuở nhỏ của Cloud, chủ quán 7th Heaven, đấu võ, dịu dàng"
+    },
+    {
+     "tu": "Barret",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "35 tuổi; đồng đội; Barret Wallace, thủ lĩnh AVALANCHE, tay súng, nóng nảy; bố nuôi của Marlene"
+    },
+    {
+     "tu": "Aerith",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "22 tuổi; đồng đội; Aerith Gainsborough, cô gái bán hoa, người Cetra cuối cùng; vui vẻ, tinh nghịch"
+    },
+    {
+     "tu": "Red XIII",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "sinh vật giống sư tử biết nói, trầm tĩnh, thông thái; tên thật Nanaki"
+    },
+    {
+     "tu": "Sephiroth",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "phản diện chính; huyền thoại SOLDIER, kẻ thù của Cloud; lạnh lùng, xưng 'ta'"
+    },
+    {
+     "tu": "Jessie",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "thành viên AVALANCHE, hoạt bát, hay trêu Cloud"
+    },
+    {
+     "tu": "Biggs",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "thành viên AVALANCHE, điềm tĩnh"
+    },
+    {
+     "tu": "Wedge",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "thành viên AVALANCHE, tốt bụng, mê ăn"
+    },
+    {
+     "tu": "Marlene",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "trẻ em; con gái nuôi của Barret"
+    },
+    {
+     "tu": "Rufus",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "con trai chủ tịch Shinra"
+    },
+    {
+     "tu": "Shinra",
+     "loai": "Tổ chức",
+     "mo_ta": "tập đoàn điện năng thống trị thế giới"
+    },
+    {
+     "tu": "SOLDIER",
+     "loai": "Thuật ngữ",
+     "mo_ta": "lực lượng chiến binh tinh nhuệ của Shinra"
+    },
+    {
+     "tu": "AVALANCHE",
+     "loai": "Tổ chức",
+     "mo_ta": "nhóm kháng chiến chống Shinra"
+    }
+   ]
+  },
+  {
+   "ten": "Marvel's Spider-Man",
+   "nen_tang": "PS4 / PS5 / PC (gồm Miles Morales)",
+   "phong_cach": "hien_dai",
+   "mo_ta_game": "Phiêu lưu siêu anh hùng ở New York hiện đại. Peter Parker - Người Nhện 8 năm kinh nghiệm - đối đầu Mister Negative, Doctor Octopus và nhóm Sinister Six; bản Miles Morales kể về Miles bảo vệ Harlem. Giọng điệu trẻ trung, hài hước. Xưng hô gợi ý: Peter ↔ MJ: anh – em (người yêu cũ, thân thiết); Peter ↔ dì May: cháu – dì; Peter ↔ Otto Octavius: em/tôi – thầy/ông (cấp trên, thầy); Peter ↔ Miles: anh – em; Miles ↔ Rio (mẹ): con – mẹ; Peter ↔ Yuri Watanabe: tôi – chị/cô.",
+   "tu": [
+    {
+     "tu": "Peter",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "23 tuổi; nhân vật chính; Peter Parker / Người Nhện, nhà khoa học trẻ, hài hước, tốt bụng"
+    },
+    {
+     "tu": "Spider-Man",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "Người Nhện (Peter Parker hoặc Miles Morales)"
+    },
+    {
+     "tu": "Miles",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "17 tuổi; Miles Morales, Người Nhện trẻ, học trò của Peter"
+    },
+    {
+     "tu": "MJ",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "Mary Jane Watson, nhà báo, người yêu cũ của Peter"
+    },
+    {
+     "tu": "May",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "già; dì May, người nuôi Peter, làm ở trại F.E.A.S.T."
+    },
+    {
+     "tu": "Otto",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "trung niên; Otto Octavius, nhà khoa học, thầy của Peter, về sau thành Doctor Octopus"
+    },
+    {
+     "tu": "Doctor Octopus",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "phản diện, Otto Octavius với 4 cánh tay máy"
+    },
+    {
+     "tu": "Martin Li",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "Mister Negative, nhà từ thiện hai mặt"
+    },
+    {
+     "tu": "Yuri",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "Yuri Watanabe, nữ cảnh sát hợp tác với Người Nhện"
+    },
+    {
+     "tu": "Norman Osborn",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "thị trưởng New York, đối thủ của Otto"
+    },
+    {
+     "tu": "Rio",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "Rio Morales, mẹ của Miles"
+    },
+    {
+     "tu": "Ganke",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "bạn thân của Miles"
+    }
+   ]
+  },
+  {
+   "ten": "Lies of P",
+   "nen_tang": "PS4 / PS5 / PC / Xbox",
+   "phong_cach": "than_thoai",
+   "mo_ta_game": "Soulslike u ám lấy cảm hứng từ Pinocchio, ở thành phố Krat kiểu Belle Époque, nơi búp bê máy nổi loạn và dịch bệnh hóa đá hoành hành. P - con rối do Geppetto chế tạo - đi tìm 'cha'. Lời thoại có thể chọn NÓI DỐI hoặc NÓI THẬT. Giọng điệu tăm tối, cổ điển châu Âu. Xưng hô gợi ý: P ↔ Geppetto: con – cha; Sophia ↔ P: tôi – cậu (dịu dàng); Venigni ↔ P: tôi – cậu (lịch sự, hay khoe khoang); Eugenie ↔ P: tôi – cậu (thân thiện).",
+   "tu": [
+    {
+     "tu": "P",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "nhân vật chính; con rối máy do Geppetto tạo ra, ít nói"
+    },
+    {
+     "tu": "Pinocchio",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "tên đầy đủ của P"
+    },
+    {
+     "tu": "Geppetto",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "già; nhà chế tạo búp bê huyền thoại, 'cha' của P"
+    },
+    {
+     "tu": "Sophia",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "người phụ nữ bí ẩn hướng dẫn P qua 'Đá Thức Tỉnh' (người dẫn đường)"
+    },
+    {
+     "tu": "Venigni",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "trung niên; chủ hãng Venigni Works, kỹ sư, hay tự hào về mình"
+    },
+    {
+     "tu": "Eugenie",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "thợ máy trẻ của Venigni Works, vui vẻ, nâng cấp tay máy cho P"
+    },
+    {
+     "tu": "Krat",
+     "loai": "Địa danh",
+     "mo_ta": "thành phố trong game"
+    }
+   ]
+  },
+  {
+   "ten": "Dragon Age: The Veilguard",
+   "nen_tang": "PS5 / PC / Xbox",
+   "phong_cach": "than_thoai",
+   "mo_ta_game": "Nhập vai giả tưởng phương Tây ở Thedas. Thần Solas (Dread Wolf) định phá Bức Màn ngăn thế giới linh hồn, vô tình thả hai thần elf cổ đại Elgar'nan và Ghilan'nain. Rook - người chơi - lập nhóm 'Veilguard' cùng Varric để ngăn họ. Giọng điệu phiêu lưu, có hài hước. Xưng hô gợi ý: Rook ↔ đồng đội: tôi – cậu/cô/anh/chị (thân thiết dần); Varric ↔ Rook: tôi – cậu/cô (đùa cợt, già dặn); Solas xưng 'ta' (thông thái, buồn); hai thần cổ đại xưng 'ta', gọi 'ngươi'.",
+   "tu": [
+    {
+     "tu": "Rook",
+     "loai": "Tên nhân vật",
+     "mo_ta": "người chơi; giới tính tùy chọn; thủ lĩnh nhóm Veilguard"
+    },
+    {
+     "tu": "Solas",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "bất tử; Dread Wolf (Sói Kinh Hoàng), thần elf, thông thái, đau khổ"
+    },
+    {
+     "tu": "Varric",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "trung niên; người lùn, nhà văn, trinh thám, hài hước, người mời Rook"
+    },
+    {
+     "tu": "Harding",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "Lace Harding, trinh sát người lùn, vui vẻ"
+    },
+    {
+     "tu": "Neve",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "Neve Gallus, nữ pháp sư thám tử ở Minrathous"
+    },
+    {
+     "tu": "Bellara",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "Bellara Lutare, elf học giả trẻ, hay nói, đam mê cổ vật"
+    },
+    {
+     "tu": "Davrin",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "Grey Warden, thợ săn quái thú, điềm tĩnh"
+    },
+    {
+     "tu": "Lucanis",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "Lucanis Dellamorte, sát thủ của Antivan Crows, bị quỷ ám"
+    },
+    {
+     "tu": "Taash",
+     "loai": "Tên nhân vật",
+     "mo_ta": "Qunari săn rồng, thẳng tính; xưng 'tôi', dùng đại từ trung tính 'họ' khi gọi"
+    },
+    {
+     "tu": "Emmrich",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "Emmrich Volkarin, pháp sư chiêu hồn lịch lãm"
+    },
+    {
+     "tu": "Elgar'nan",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "thần elf cổ đại, phản diện"
+    },
+    {
+     "tu": "Ghilan'nain",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "nữ thần elf cổ đại, phản diện"
+    },
+    {
+     "tu": "Veil",
+     "loai": "Thuật ngữ",
+     "mo_ta": "Bức Màn ngăn thế giới thực và Fade (cõi linh hồn)"
+    }
+   ]
+  },
+  {
+   "ten": "Star Wars Jedi: Fallen Order",
+   "nen_tang": "PS4 / PS5 / PC / Xbox",
+   "phong_cach": "hien_dai",
+   "mo_ta_game": "Phiêu lưu khoa học viễn tưởng sau Lệnh 66, Đế chế săn lùng Jedi. Cal Kestis - học trò Jedi trốn tránh - cùng Cere Junda, Greez và robot BD-1 tìm danh sách trẻ có Thần Lực để phục hưng Jedi, bị Second Sister và các Inquisitor truy đuổi. Xưng hô gợi ý: Cal ↔ Cere: tôi/em – chị (kính trọng); Cal ↔ Greez: tôi – anh/ông (đùa); Second Sister ↔ Cal: ta – ngươi; Cere ↔ Trilla: chị – em (thầy trò cũ).",
+   "tu": [
+    {
+     "tu": "Cal",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "khoảng 18-20 tuổi; nhân vật chính; Cal Kestis, học trò Jedi sống sót, chân thành"
+    },
+    {
+     "tu": "Cere",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "trung niên; Cere Junda, cựu hiệp sĩ Jedi, người dẫn dắt Cal"
+    },
+    {
+     "tu": "Greez",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "trung niên; Greez Dritus, phi công người Latero bốn tay, hay cằn nhằn, tốt bụng"
+    },
+    {
+     "tu": "BD-1",
+     "loai": "Tên nhân vật",
+     "mo_ta": "robot nhỏ bạn đồng hành của Cal"
+    },
+    {
+     "tu": "Merrin",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "Phù thủy Nightsister của Dathomir, về sau thành đồng đội"
+    },
+    {
+     "tu": "Trilla",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "Second Sister, Inquisitor săn Jedi; từng là học trò của Cere"
+    },
+    {
+     "tu": "Second Sister",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "Trilla Suduri, Inquisitor của Đế chế"
+    },
+    {
+     "tu": "Darth Vader",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "Chúa tể Sith"
+    },
+    {
+     "tu": "Jedi",
+     "loai": "Thuật ngữ",
+     "mo_ta": "giữ nguyên 'Jedi'"
+    },
+    {
+     "tu": "the Force",
+     "loai": "Thuật ngữ",
+     "mo_ta": "Thần Lực"
+    },
+    {
+     "tu": "Empire",
+     "loai": "Thuật ngữ",
+     "mo_ta": "Đế chế"
+    }
+   ]
+  },
+  {
+   "ten": "Star Wars Outlaws",
+   "nen_tang": "PS5 / PC / Xbox",
+   "phong_cach": "duong_pho",
+   "mo_ta_game": "Thế giới mở Star Wars giữa phần Empire Strikes Back và Return of the Jedi. Kay Vess - tay trộm vặt - cùng sinh vật Nix nhận phi vụ lớn, len lỏi giữa các băng đảng (Hutt, Pyke, Crimson Dawn, Ashiga) và Đế chế. Giọng điệu giang hồ, phi vụ, hài hước. Xưng hô gợi ý: Kay ↔ ND-5: tôi – anh (cộc); Kay ↔ Jaylen: tôi – ông (đối tác nghi ngờ); trùm băng đảng xưng 'ta', gọi 'mày/cô'.",
+   "tu": [
+    {
+     "tu": "Kay",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "khoảng 20+ tuổi; nhân vật chính; Kay Vess, trộm vặt lanh lợi, liều lĩnh"
+    },
+    {
+     "tu": "Nix",
+     "loai": "Tên nhân vật",
+     "mo_ta": "sinh vật Merqaal nhỏ, bạn đồng hành của Kay"
+    },
+    {
+     "tu": "ND-5",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "robot chiến đấu cũ, vệ sĩ của Kay"
+    },
+    {
+     "tu": "Jaylen",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "Jaylen Vrax, người lên kế hoạch phi vụ lớn"
+    },
+    {
+     "tu": "Sliro",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "Sliro Barsha, trùm băng Zerek Besh, phản diện"
+    },
+    {
+     "tu": "Jabba",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "Jabba the Hutt, trùm băng Hutt"
+    },
+    {
+     "tu": "Hutt",
+     "loai": "Tổ chức",
+     "mo_ta": "băng đảng Hutt"
+    },
+    {
+     "tu": "Crimson Dawn",
+     "loai": "Tổ chức",
+     "mo_ta": "băng đảng Bình Minh Đỏ"
+    },
+    {
+     "tu": "Empire",
+     "loai": "Thuật ngữ",
+     "mo_ta": "Đế chế"
+    }
+   ]
+  },
+  {
+   "ten": "Dead Space (2023)",
+   "nen_tang": "PS5 / PC / Xbox",
+   "phong_cach": "hien_dai",
+   "mo_ta_game": "Kinh dị sinh tồn khoa học viễn tưởng (bản làm lại 2023). Kỹ sư Isaac Clarke lên tàu khai mỏ USG Ishimura bị Necromorph (xác chết đột biến) tràn ngập, đi tìm người yêu Nicole. Giọng điệu căng thẳng, kinh dị. Xưng hô gợi ý: Isaac ↔ Kendra/Hammond: tôi – cô/anh (đồng nghiệp); Isaac ↔ Nicole: anh – em; Kyne/Mercer xưng 'tôi' (cuồng tín).",
+   "tu": [
+    {
+     "tu": "Isaac",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "trung niên; nhân vật chính; Isaac Clarke, kỹ sư hệ thống, bình tĩnh"
+    },
+    {
+     "tu": "Nicole",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "Nicole Brennan, bác sĩ trên tàu Ishimura, người yêu của Isaac"
+    },
+    {
+     "tu": "Kendra",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "Kendra Daniels, chuyên viên máy tính, đồng đội"
+    },
+    {
+     "tu": "Hammond",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "Zach Hammond, chỉ huy an ninh, đồng đội"
+    },
+    {
+     "tu": "Kyne",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "Terrence Kyne, nhà khoa học / bác sĩ trên tàu Ishimura"
+    },
+    {
+     "tu": "Mercer",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "Challus Mercer, nhà khoa học điên cuồng tín"
+    },
+    {
+     "tu": "Necromorph",
+     "loai": "Thuật ngữ",
+     "mo_ta": "xác chết đột biến"
+    },
+    {
+     "tu": "Marker",
+     "loai": "Thuật ngữ",
+     "mo_ta": "khối tượng ngoài hành tinh gây đột biến (Dấu Ấn)"
+    },
+    {
+     "tu": "Ishimura",
+     "loai": "Địa danh",
+     "mo_ta": "tàu khai mỏ USG Ishimura"
+    }
+   ]
+  },
+  {
+   "ten": "Devil May Cry 5",
+   "nen_tang": "PS4 / PS5 / PC / Xbox",
+   "phong_cach": "hien_dai",
+   "mo_ta_game": "Hành động chém quỷ phong cách 'ngầu', thành phố Red Grave bị cây quỷ Qliphoth xâm chiếm. Nero, Dante và V đối đầu Quỷ Vương Urizen. Giọng điệu ngầu, châm chọc, hài hước. Xưng hô gợi ý: Dante ↔ Nero: tôi/ta – nhóc (đùa, chú – cháu); Nero ↔ Nico: tôi – cô (bạn, cãi nhau); Dante ↔ Vergil: ta – ngươi / anh – em (anh em song sinh đối đầu); Nero ↔ Kyrie: anh – em.",
+   "tu": [
+    {
+     "tu": "Nero",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "khoảng 20 tuổi; nhân vật chính; thợ săn quỷ trẻ, nóng tính, mất cánh tay quỷ; con trai Vergil"
+    },
+    {
+     "tu": "Dante",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "trung niên; thợ săn quỷ huyền thoại, nửa người nửa quỷ, đùa cợt"
+    },
+    {
+     "tu": "V",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "thanh niên bí ẩn, gầy, đọc thơ, điều khiển quỷ thú; là phần người của Vergil"
+    },
+    {
+     "tu": "Nico",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "thợ chế vũ khí, lái xe, ăn nói bỗ bã"
+    },
+    {
+     "tu": "Kyrie",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "người yêu của Nero, dịu dàng"
+    },
+    {
+     "tu": "Trish",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "đồng sự của Dante"
+    },
+    {
+     "tu": "Lady",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "thợ săn quỷ, đồng sự của Dante"
+    },
+    {
+     "tu": "Urizen",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "Quỷ Vương, phần quỷ của Vergil"
+    },
+    {
+     "tu": "Vergil",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "anh song sinh của Dante, cha của Nero"
+    },
+    {
+     "tu": "Qliphoth",
+     "loai": "Thuật ngữ",
+     "mo_ta": "cây quỷ khổng lồ hút máu người"
+    }
+   ]
+  },
+  {
+   "ten": "Like a Dragon: Infinite Wealth",
+   "nen_tang": "PS4 / PS5 / PC / Xbox",
+   "phong_cach": "duong_pho",
+   "mo_ta_game": "Nhập vai giang hồ Nhật Bản hài hước, lấy bối cảnh Hawaii và Yokohama. Ichiban Kasuga sang Hawaii tìm mẹ, gặp huyền thoại Kazuma Kiryu (đang mắc bệnh nặng). Giọng điệu giang hồ, ấm áp, rất hài. Xưng hô gợi ý: Ichiban ↔ Kiryu: tôi/em – anh (kính trọng); Ichiban ↔ đồng đội: tôi – ông/anh/cô; yakuza xưng 'tao' – 'mày' khi đối đầu; Kiryu xưng 'tôi' (điềm đạm).",
+   "tu": [
+    {
+     "tu": "Ichiban",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "khoảng 40 tuổi; nhân vật chính; Ichiban Kasuga, cựu yakuza lạc quan, nhiệt huyết, mê Dragon Quest"
+    },
+    {
+     "tu": "Kiryu",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "khoảng 55 tuổi; Kazuma Kiryu, 'Rồng Dojima' huyền thoại, nghiêm nghị, chính trực"
+    },
+    {
+     "tu": "Nanba",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "Koichi Nanba, cựu y tá vô gia cư, bạn của Ichiban"
+    },
+    {
+     "tu": "Adachi",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "Koichi Adachi, cựu cảnh sát già, nóng tính"
+    },
+    {
+     "tu": "Saeko",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "Saeko Mukoda, nhân viên quán bar, tháo vát"
+    },
+    {
+     "tu": "Tomizawa",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "Eric Tomizawa, tài xế taxi ở Hawaii"
+    },
+    {
+     "tu": "Chitose",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "Chitose Fujinomiya, cô gái bí ẩn"
+    },
+    {
+     "tu": "Akane",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "Akane Hamura, mẹ của Ichiban"
+    },
+    {
+     "tu": "Joongi Han",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "cựu yakuza Hàn Quốc, đồng đội"
+    },
+    {
+     "tu": "Zhao",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "Tianyou Zhao, cựu thủ lĩnh hội Tam Hoàng"
+    },
+    {
+     "tu": "yakuza",
+     "loai": "Thuật ngữ",
+     "mo_ta": "giữ nguyên 'yakuza'"
+    }
+   ]
+  },
+  {
+   "ten": "Senua's Saga: Hellblade II",
+   "nen_tang": "PS5 / PC / Xbox",
+   "phong_cach": "than_thoai",
+   "mo_ta_game": "Phiêu lưu điện ảnh ở Iceland thế kỷ 9, mang màu thần thoại Bắc Âu. Chiến binh Pict Senua - nghe được nhiều giọng nói trong đầu (rối loạn tâm thần) - đi giải cứu người bị bọn buôn nô lệ bắt và đối mặt các người khổng lồ. Các 'Giọng nói' (Furies) thì thầm liên tục. Giọng điệu u tối, nghiêm trang. Xưng hô gợi ý: Senua xưng 'ta'; các Giọng nói gọi Senua là 'cô ta'/'cô'; Thórgestr ↔ Senua: ta – cô (lúc đầu thù địch).",
+   "tu": [
+    {
+     "tu": "Senua",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "nhân vật chính; nữ chiến binh Pict, nghe nhiều giọng nói trong đầu, kiên cường"
+    },
+    {
+     "tu": "Thórgestr",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "con trai lãnh chúa buôn nô lệ, về sau đồng hành"
+    },
+    {
+     "tu": "Fargrímr",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "người lớn tuổi đồng hành"
+    },
+    {
+     "tu": "Dillion",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "người yêu đã mất của Senua"
+    },
+    {
+     "tu": "Furies",
+     "loai": "Thuật ngữ",
+     "mo_ta": "các Giọng nói trong đầu Senua"
+    },
+    {
+     "tu": "Hidden Folk",
+     "loai": "Thuật ngữ",
+     "mo_ta": "Người Ẩn - tộc bí ẩn"
+    }
+   ]
+  },
+  {
+   "ten": "Assassin's Creed Mirage",
+   "nen_tang": "PS4 / PS5 / PC / Xbox",
+   "phong_cach": "kiem_hiep",
+   "mo_ta_game": "Hành động lén lút ở Baghdad thế kỷ 9 (thời Abbasid). Basim Ibn Ishaq - tên trộm đường phố - gia nhập Hội Sát Thủ (Hidden Ones), truy diệt Hội Order of the Ancients. Giọng điệu cổ điển Trung Đông, nghiêm. Xưng hô gợi ý: Basim ↔ Roshan: con/tôi – sư phụ/bà (thầy trò); Basim ↔ Nehal: tôi – cô (bạn thân); kẻ thù xưng 'ta' – 'ngươi'.",
+   "tu": [
+    {
+     "tu": "Basim",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "khoảng 17-20 tuổi; nhân vật chính; Basim Ibn Ishaq, trộm vặt Baghdad, trở thành Sát Thủ"
+    },
+    {
+     "tu": "Roshan",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "trung niên; Sát Thủ bậc thầy, sư phụ của Basim, nghiêm khắc"
+    },
+    {
+     "tu": "Nehal",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "bạn thân thuở nhỏ của Basim"
+    },
+    {
+     "tu": "Hidden Ones",
+     "loai": "Tổ chức",
+     "mo_ta": "Hội Kẻ Ẩn Danh (tiền thân Hội Sát Thủ)"
+    },
+    {
+     "tu": "Order of the Ancients",
+     "loai": "Tổ chức",
+     "mo_ta": "Hội Cổ Nhân (kẻ thù)"
+    },
+    {
+     "tu": "Baghdad",
+     "loai": "Địa danh",
+     "mo_ta": "thành Baghdad"
+    }
+   ]
+  },
+  {
+   "ten": "Resident Evil 3",
+   "nen_tang": "PS4 / PS5 / PC / Xbox",
+   "phong_cach": "hien_dai",
+   "mo_ta_game": "Kinh dị sinh tồn (bản làm lại 2020) ở Raccoon City bị virus T biến thành thành phố zombie. Jill Valentine - cựu thành viên S.T.A.R.S. - chạy trốn quái vật Nemesis và cùng lính đánh thuê Carlos thoát khỏi thành phố. Giọng điệu căng thẳng, hành động. Xưng hô gợi ý: Jill ↔ Carlos: tôi – anh/cậu (Carlos hay tán tỉnh, gọi Jill 'cô'); Nicholai xưng 'tôi', lạnh lùng; Nemesis gầm 'S.T.A.R.S.'.",
+   "tu": [
+    {
+     "tu": "Jill",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "khoảng 23 tuổi; nhân vật chính; Jill Valentine, cựu S.T.A.R.S., cứng rắn"
+    },
+    {
+     "tu": "Carlos",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "khoảng 21 tuổi; Carlos Oliveira, lính đánh thuê Umbrella, vui tính"
+    },
+    {
+     "tu": "Nemesis",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "quái vật săn đuổi Jill"
+    },
+    {
+     "tu": "Nicholai",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "Nicholai Ginovaef, lính đánh thuê phản bội"
+    },
+    {
+     "tu": "Mikhail",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "Mikhail Victor, chỉ huy đội lính đánh thuê"
+    },
+    {
+     "tu": "Tyrell",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "Tyrell Patrick, lính đánh thuê, đồng đội"
+    },
+    {
+     "tu": "Umbrella",
+     "loai": "Tổ chức",
+     "mo_ta": "tập đoàn Umbrella"
+    },
+    {
+     "tu": "S.T.A.R.S.",
+     "loai": "Tổ chức",
+     "mo_ta": "đội đặc nhiệm S.T.A.R.S."
+    },
+    {
+     "tu": "Raccoon City",
+     "loai": "Địa danh",
+     "mo_ta": "thành phố Raccoon"
+    }
+   ]
+  },
+  {
+   "ten": "Batman: Arkham Knight",
+   "nen_tang": "PS4 / PC / Xbox",
+   "phong_cach": "hien_dai",
+   "mo_ta_game": "Hành động thế giới mở ở Gotham, đêm cuối của Người Dơi. Scarecrow đe dọa rải khí độc gây sợ hãi khắp thành phố, cùng Arkham Knight bí ẩn và quân đội riêng. Batman bị ảo giác Joker (đã chết) ám ảnh. Giọng điệu tối, nghiêm. Xưng hô gợi ý: Batman xưng 'tôi'/'ta' (lạnh); Batman ↔ Alfred: tôi – ông / cậu chủ – tôi; Batman ↔ Robin: tôi – cậu; Batman ↔ Gordon: tôi – ông; Joker xưng 'tao', gọi Batman 'Dơi'/'mày' (chế giễu).",
+   "tu": [
+    {
+     "tu": "Batman",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "trung niên; nhân vật chính; Bruce Wayne, Người Dơi, lạnh lùng, quyết đoán"
+    },
+    {
+     "tu": "Bruce",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "Bruce Wayne (Batman)"
+    },
+    {
+     "tu": "Alfred",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "già; quản gia của Bruce, gọi Bruce 'cậu chủ'"
+    },
+    {
+     "tu": "Oracle",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "Barbara Gordon, hỗ trợ kỹ thuật cho Batman, con gái Gordon"
+    },
+    {
+     "tu": "Gordon",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "James Gordon, ủy viên cảnh sát Gotham"
+    },
+    {
+     "tu": "Robin",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "Tim Drake, cộng sự trẻ của Batman"
+    },
+    {
+     "tu": "Nightwing",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "Dick Grayson, Robin cũ"
+    },
+    {
+     "tu": "Joker",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "kẻ thù truyền kiếp (ảo giác trong đầu Batman), điên loạn, mỉa mai"
+    },
+    {
+     "tu": "Scarecrow",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "Jonathan Crane, phản diện chính, dùng khí độc gây sợ hãi"
+    },
+    {
+     "tu": "Arkham Knight",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "Hiệp Sĩ Arkham, kẻ thù bí ẩn (Jason Todd)"
+    },
+    {
+     "tu": "Harley",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "Harley Quinn"
+    },
+    {
+     "tu": "Gotham",
+     "loai": "Địa danh",
+     "mo_ta": "thành phố Gotham"
     }
    ]
   }
