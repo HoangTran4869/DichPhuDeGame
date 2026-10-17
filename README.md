@@ -1,12 +1,12 @@
 # 🎮 Dịch Phụ Đề Game
 
 Đọc phụ đề tiếng Anh trong game và dịch sang tiếng Việt bằng AI (miễn phí), hiện chữ to, đè lên phụ đề game (Windows) và đọc bằng giọng Việt.
-Có bản cho **Windows** (gồm cả chế độ **chơi PS5 dịch trên TV**) và **macOS**.
+Có bản cho **Windows** và **macOS**, cả hai đều có chế độ **chơi PS5 dịch trên TV**.
 
 ## ⬇️ Tải ứng dụng
 - **🪟 Windows 10/11 — v2.2:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v2.2) → chọn file `DichPhuDeGame_Windows_Setup_v2.2.exe` (khoảng 217 MB)
 - **📺 Ứng dụng TV (Android TV / Google TV):** cùng trang trên → file `DichGameTV.apk`, hoặc ứng dụng **Downloader** trên TV nhập mã **1314378**
-- **🍎 macOS (chip Apple M1 trở lên) — v2.0:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v2.0) → chọn file `DichPhuDeGame_v2.0.dmg`
+- **🍎 macOS (chip Apple M1 trở lên) — v2.2:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v2.2) → chọn file `DichPhuDeGame_v2.2.dmg` (khoảng 104 MB)
 
 ---
 
@@ -82,8 +82,15 @@ Có bản cho **Windows** (gồm cả chế độ **chơi PS5 dịch trên TV**)
 - Kiểu mới **🔤 Không nền, chữ viền bóng** (như phụ đề phim) và **chọn màu chữ** (trắng, vàng, xanh…).
 - Bỏ phím tắt Ctrl+Shift+H (hay trùng phím của trình duyệt / game). Chỉ còn phím riêng cho Dịch màn hình.
 
+## 🍎 macOS (v2.2 — mới, giống bản Windows 2.2)
+- Mở ứng dụng chọn **🖥 Dịch trên máy tính** hoặc **📺 Chơi PS5 – dịch trên TV**.
+- **📡 PS5 Chơi từ xa** về Mac, **không cần capture card**: đăng nhập PSN (Chrome / Edge / Brave) + mã 8 số trên PS5. Lần đầu macOS hỏi quyền **Mạng cục bộ** → **Cho phép**.
+- **📺 Chế độ TV**: chữ Việt + giọng đọc hiện thẳng trên TV Android / Google TV, không trễ tay.
+- **🎙 Nút Mic trên tay cầm** = dịch cả màn hình; **dịch bằng chuột** trên hình PS5 trong cửa sổ (30 / 60 hình/giây).
+- **🗣 5 giọng đọc hay** (tải thêm ~335 MB), mỗi nhân vật 1 giọng; thư viện **87 game**; đọc thoại bật sẵn; sửa nhiều lỗi.
+
 ## 🍎 macOS (v2.0)
-### 🖥 Dịch cả MÀN HÌNH Mac (mới)
+### 🖥 Dịch cả MÀN HÌNH Mac
 - Ngoài capture card (PS5), giờ chọn được **nguồn Màn hình máy tính**: dịch phụ đề YouTube, phim, game chạy trên Mac.
 - Đổi nguồn trong **⚙️ Cài đặt → Nguồn hình**. Lần đầu macOS hỏi quyền **Ghi màn hình (Screen Recording)** → bật cho app rồi mở lại app.
 - App tự bỏ qua cửa sổ của chính nó khi chụp màn hình → không đọc nhầm chữ dịch của mình.
@@ -146,9 +153,9 @@ Mở ứng dụng chọn **🖥 Dịch trên máy tính** hoặc **📺 Chơi PS
 
 ## 🍎 macOS — cài đặt
 1. Mở file **.dmg**, **kéo biểu tượng ứng dụng** vào thư mục **Applications**.
-2. Lần đầu mở: vào **Applications**, **chuột phải** vào ứng dụng → **Mở (Open)** → bấm **Mở** lần nữa.
-   Nếu vẫn không mở được: **Cài đặt hệ thống → Quyền riêng tư & Bảo mật** → bấm **Vẫn mở (Open Anyway)**.
-3. Làm theo hướng dẫn 4 bước:
+2. Lần đầu mở nếu macOS chặn: **Cài đặt hệ thống → Quyền riêng tư & Bảo mật** → kéo xuống bấm **Vẫn mở (Open Anyway)**.
+3. Mở ứng dụng chọn **🖥 Dịch trên máy tính** hoặc **📺 Chơi PS5 – dịch trên TV**, rồi làm theo hướng dẫn:
+   - **📡 PS5 Chơi từ xa:** bấm **🔑 Đăng nhập PSN**, nhập **mã 8 số** (PS5: Cài đặt → Hệ thống → Chơi từ xa → Liên kết thiết bị); macOS hỏi quyền **Mạng cục bộ** → **Cho phép**.
    - **Capture card:** macOS hỏi quyền **Camera** (capture card được coi như camera) → bấm **Cho phép**.
    - **Màn hình Mac** (YouTube, phim, game trên Mac): macOS hỏi quyền **Ghi màn hình** → bật cho **Dịch Phụ Đề Game** trong **Cài đặt hệ thống → Quyền riêng tư & Bảo mật → Ghi màn hình**, rồi mở lại app.
 
