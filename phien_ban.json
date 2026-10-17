@@ -1,6 +1,6 @@
 {
   "phien_ban": "2.2",
   "ghi_chu": "Bản 2.2 cho Mac - giống bản Windows 2.2:\n- Mở ứng dụng chọn 1 trong 2: Dịch trên máy tính / Chơi PS5 - dịch trên TV.\n- Nguồn mới: PS5 Chơi từ xa về Mac, KHÔNG cần capture card (đăng nhập PSN + mã 8 số).\n- Chơi trên TV: chữ Việt + giọng đọc hiện thẳng trên TV Android / Google TV.\n- Bấm nút Mic trên tay cầm để dịch cả màn hình; dịch bằng chuột trên hình PS5 (30 / 60 hình/giây).\n- 5 giọng đọc hay (tải thêm), mỗi nhân vật 1 giọng.\n- Thư viện 87 game, đọc thoại bật sẵn, sửa nhiều lỗi.\nTải nhanh: https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v2.2",
-  "tai_ve_dmg": "https://github.com/HoangTran4869/DichPhuDeGame/releases/download/v2.2/DichPhuDeGame_v2.2.dmg",
+  "tai_ve_dmg": "https://github.com/HoangTran4869/DichPhuDeGame/releases/download/v2.2/DichPhuDeGame_MacOS_v2.2.dmg",
   "sha256_dmg": "ceb459d3772f9a9fb449b30217fc51bd435d21b171e40bb00aa376ec4196a17c"
 }
