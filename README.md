@@ -5,8 +5,8 @@ Có bản cho **Windows** và **macOS**, cả hai đều có chế độ **chơi
 
 ## ⬇️ Tải ứng dụng
 - **🪟 Windows 10/11 — v3.0:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v3.0) → chọn file `DichPhuDeGame_Windows_Setup_v3.0.exe` (khoảng 218 MB)
-- **📺 Ứng dụng TV (Android TV / Google TV):** trang Windows ở trên → file `DichGameTV.apk`, hoặc ứng dụng **Downloader** trên TV nhập mã **1314378**
-- **🍎 macOS (chip Apple M1 trở lên) — v2.2c:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v2.2) → chọn file `DichPhuDeGame_MacOS_v2.2c.dmg` (khoảng 104 MB)
+- **📺 Ứng dụng TV (Android TV / Google TV):** cùng trang trên → file `DichGameTV.apk`, hoặc ứng dụng **Downloader** trên TV nhập mã **1314378**
+- **🍎 macOS (chip Apple M1 trở lên) — v3.0:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v3.0) → chọn file `DichPhuDeGame_MacOS_v3.0.dmg` (khoảng 104 MB)
 
 ---
 
@@ -94,7 +94,11 @@ Có bản cho **Windows** và **macOS**, cả hai đều có chế độ **chơi
 - Kiểu mới **🔤 Không nền, chữ viền bóng** (như phụ đề phim) và **chọn màu chữ** (trắng, vàng, xanh…).
 - Bỏ phím tắt Ctrl+Shift+H (hay trùng phím của trình duyệt / game). Chỉ còn phím riêng cho Dịch màn hình.
 
-## 🍎 macOS (v2.2 — mới, giống bản Windows 2.2)
+## 🍎 macOS (v3.0 — mới, giống bản Windows 3.0)
+- Có đủ các điểm mới của bản 3.0 ở trên (dịch màn hình chính xác hơn, bong bóng không đè nhau, khung phụ đề thông minh hơn, học lại nút mic…).
+- **🖱 Sổ ghi chú lăn chuột / trackpad được** (trước phải kéo thanh trượt).
+
+## 🍎 macOS (v2.2 — giống bản Windows 2.2)
 - Mở ứng dụng chọn **🖥 Dịch trên máy tính** hoặc **📺 Chơi PS5 – dịch trên TV**.
 - **📡 PS5 Chơi từ xa** về Mac, **không cần capture card**: đăng nhập PSN (Chrome / Edge / Brave) + mã 8 số trên PS5. Lần đầu macOS hỏi quyền **Mạng cục bộ** → **Cho phép**.
 - **📺 Chế độ TV**: chữ Việt + giọng đọc hiện thẳng trên TV Android / Google TV, không trễ tay.
