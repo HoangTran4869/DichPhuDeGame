@@ -6,7 +6,7 @@ Có bản cho **Windows** và **macOS**, cả hai đều có chế độ **chơi
 ## ⬇️ Tải ứng dụng
 - **🪟 Windows 10/11 — v2.2a:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v2.2) → chọn file `DichPhuDeGame_Windows_Setup_v2.2a.exe` (khoảng 218 MB)
 - **📺 Ứng dụng TV (Android TV / Google TV):** cùng trang trên → file `DichGameTV.apk`, hoặc ứng dụng **Downloader** trên TV nhập mã **1314378**
-- **🍎 macOS (chip Apple M1 trở lên) — v2.2a:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v2.2) → chọn file `DichPhuDeGame_MacOS_v2.2a.dmg` (khoảng 104 MB)
+- **🍎 macOS (chip Apple M1 trở lên) — v2.2b:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v2.2) → chọn file `DichPhuDeGame_MacOS_v2.2b.dmg` (khoảng 104 MB)
 
 ---
 
