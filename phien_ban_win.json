@@ -1,7 +1,7 @@
 {
-  "phien_ban": "2.2.1",
-  "ten_phien_ban": "2.2a",
-  "ghi_chu": "Bản 2.2a:\n- Sửa lỗi.\n- Cải tiến thuật toán dịch.\n\nTải nhanh bản mới trên GitHub: https://github.com/HoangTran4869/DichPhuDeGame/releases/latest",
-  "tai_ve_exe": "https://github.com/HoangTran4869/DichPhuDeGame/releases/download/v2.2/DichPhuDeGame_Windows_Setup_v2.2a.exe",
-  "sha256_exe": "73516f09c8fe0fc13ab81eab963a9c3d024514ecd3c5651132704945b1076a3e"
+  "phien_ban": "2.2.2",
+  "ten_phien_ban": "2.2b",
+  "ghi_chu": "Bản 2.2b:\n- Sửa lỗi.\n- Cải tiến thuật toán dịch.\n\nTải nhanh bản mới trên GitHub: https://github.com/HoangTran4869/DichPhuDeGame/releases/latest",
+  "tai_ve_exe": "https://github.com/HoangTran4869/DichPhuDeGame/releases/download/v2.2/DichPhuDeGame_Windows_Setup_v2.2b.exe",
+  "sha256_exe": "5671a6fa1f41483366fa7cff86bb1b02af9a5d09560587155a2d799857650a4d"
 }
