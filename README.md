@@ -4,8 +4,8 @@
 Có bản cho **Windows** và **macOS**, cả hai đều có chế độ **chơi PS5 dịch trên TV**.
 
 ## ⬇️ Tải ứng dụng
-- **🪟 Windows 10/11 — v2.2c:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v2.2) → chọn file `DichPhuDeGame_Windows_Setup_v2.2c.exe` (khoảng 218 MB)
-- **📺 Ứng dụng TV (Android TV / Google TV):** cùng trang trên → file `DichGameTV.apk`, hoặc ứng dụng **Downloader** trên TV nhập mã **1314378**
+- **🪟 Windows 10/11 — v3.0:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v3.0) → chọn file `DichPhuDeGame_Windows_Setup_v3.0.exe` (khoảng 218 MB)
+- **📺 Ứng dụng TV (Android TV / Google TV):** trang Windows ở trên → file `DichGameTV.apk`, hoặc ứng dụng **Downloader** trên TV nhập mã **1314378**
 - **🍎 macOS (chip Apple M1 trở lên) — v2.2c:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v2.2) → chọn file `DichPhuDeGame_MacOS_v2.2c.dmg` (khoảng 104 MB)
 
 ---
@@ -13,6 +13,18 @@ Có bản cho **Windows** và **macOS**, cả hai đều có chế độ **chơi
 ## 🆕 Có gì mới
 
 ## 🪟 Windows
+### ✨ v3.0 (mới)
+- **🎙 Dịch cả màn hình (nút Mic / chuột) chính xác hơn:** bỏ qua chữ menu đứng riêng (Map, Inventory, Skill Tree, Save Game…), chỉ dịch phần mô tả, nhiệm vụ, hướng dẫn. Câu ngắn 2 từ ("Run away!") vẫn được dịch.
+- **💬 Bong bóng dịch không đè nhau, không đè chữ gốc** dù màn hình nhiều chữ (trên máy tính và trên TV).
+- **🎬 Khung phụ đề thông minh hơn:** bỏ chữ lẻ lọt vào mép khung (vd "HP"); câu dài hơn khung tự đọc rộng ra để lấy đủ câu; không dịch nhầm đoạn văn dài tràn vào khung.
+- **🗣 Câu thoại ngắn có tên nhân vật** ("Kratos: Run", "Freya: Wait") luôn được dịch.
+- **🎙 Học nút Mic:** bấm **Học lại nút mic** là thay hẳn cái cũ (đổi tài khoản PS5 thoải mái), học được cả khi đang mở menu game.
+- **🔊 Chỉ đọc thoại (game có sẵn phụ đề Việt):** nhìn chữ tiếng Việt có dấu chuẩn hơn. Máy Windows nên cài **bộ nhận diện chữ tiếng Việt** (ứng dụng tự hỏi, bấm **⬇ Tải về**, 1 lần).
+- **⚙️ Ứng dụng nhớ cài đặt lần cuối** (đọc thoại bật/tắt, vị trí và kích thước cửa sổ).
+- Card đồ hoạ yếu không còn làm phụ đề chậm 10–20 giây (tự chuyển sang đọc chữ bằng CPU).
+- Cửa sổ **Mã Gemini / Groq** cuộn được trên màn hình nhỏ, nút **🗑 Xóa mã** không còn bị che.
+- Xem YouTube / phim trên trình duyệt không còn bị bỏ câu thoại ngắn.
+
 ### 🛠 Sửa lỗi (Windows)
 - **v2.2 (mới):** game có font chữ nghiêng (vd The Longest Journey) không còn bị tưởng nhầm là phụ đề tiếng Việt rồi ngừng dịch.
 - **v2.2 (mới):** chưa kết nối PS5 / chưa thấy capture card → Ứng dụng đứng chờ, không còn tự đọc các câu mẫu khi vừa mở.
@@ -135,7 +147,7 @@ Có bản cho **Windows** và **macOS**, cả hai đều có chế độ **chơi
 - Chế độ **📺 Chơi PS5 trên TV**: cần TV **Android TV / Google TV** (cài ứng dụng Dịch Game TV) và 2 tài khoản PSN trên PS5.
 
 ### Cài đặt
-1. Bấm đúp file **DichPhuDeGame_Windows_Setup_v2.2c.exe**.
+1. Bấm đúp file **DichPhuDeGame_Windows_Setup_v3.0.exe**.
 2. Nếu Windows hiện màn hình xanh **"Windows protected your PC"**: bấm **More info** → **Run anyway**.
    (Windows cảnh báo vì ứng dụng chưa mua chứng chỉ, chỉ cần làm 1 lần.)
 3. Bấm **Next** → **Install**, xong bấm **Finish** là ứng dụng mở lên. Trên Desktop có biểu tượng app.
