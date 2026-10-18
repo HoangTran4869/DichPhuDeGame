@@ -4,7 +4,7 @@
 Có bản cho **Windows** và **macOS**, cả hai đều có chế độ **chơi PS5 dịch trên TV**.
 
 ## ⬇️ Tải ứng dụng
-- **🪟 Windows 10/11 — v2.2b:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v2.2) → chọn file `DichPhuDeGame_Windows_Setup_v2.2b.exe` (khoảng 218 MB)
+- **🪟 Windows 10/11 — v2.2c:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v2.2) → chọn file `DichPhuDeGame_Windows_Setup_v2.2c.exe` (khoảng 218 MB)
 - **📺 Ứng dụng TV (Android TV / Google TV):** cùng trang trên → file `DichGameTV.apk`, hoặc ứng dụng **Downloader** trên TV nhập mã **1314378**
 - **🍎 macOS (chip Apple M1 trở lên) — v2.2b:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v2.2) → chọn file `DichPhuDeGame_MacOS_v2.2b.dmg` (khoảng 104 MB)
 
@@ -135,7 +135,7 @@ Có bản cho **Windows** và **macOS**, cả hai đều có chế độ **chơi
 - Chế độ **📺 Chơi PS5 trên TV**: cần TV **Android TV / Google TV** (cài ứng dụng Dịch Game TV) và 2 tài khoản PSN trên PS5.
 
 ### Cài đặt
-1. Bấm đúp file **DichPhuDeGame_Windows_Setup_v2.2b.exe**.
+1. Bấm đúp file **DichPhuDeGame_Windows_Setup_v2.2c.exe**.
 2. Nếu Windows hiện màn hình xanh **"Windows protected your PC"**: bấm **More info** → **Run anyway**.
    (Windows cảnh báo vì ứng dụng chưa mua chứng chỉ, chỉ cần làm 1 lần.)
 3. Bấm **Next** → **Install**, xong bấm **Finish** là ứng dụng mở lên. Trên Desktop có biểu tượng app.
