@@ -1,11 +1,12 @@
 # 🎮 Dịch Phụ Đề Game
 
 Đọc phụ đề tiếng Anh trong game và dịch sang tiếng Việt bằng AI (miễn phí), hiện chữ to, đè lên phụ đề game (Windows) và đọc bằng giọng Việt.
-Có bản cho **Windows** và **macOS**, cả hai đều có chế độ **chơi PS5 dịch trên TV**.
+Có bản cho **Windows**, **macOS** và **Android**, đều có chế độ **chơi PS5 dịch trên TV**.
 
 ## ⬇️ Tải ứng dụng
 - **🪟 Windows 10/11 — v4.0:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v4.0) → chọn file `DichPhuDeGame_Windows_Setup_v4.0.exe` (khoảng 220 MB)
 - **📺 Ứng dụng TV (Android TV / Google TV):** cùng trang trên → file `DichGameTV.apk`, hoặc ứng dụng **Downloader** trên TV nhập mã **1314378**
+- **📱 Android (điện thoại) — v1.0:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/android-v1.0) → chọn file `DichPhuDeGame_Android_v1.0.apk` (khoảng 70 MB). Điện thoại Chơi từ xa PS5, dịch rồi hiện chữ + giọng đọc trên TV.
 - **📺 TV LG (webOS):** không cần tải — bản Windows 4.0 tự cài vào TV (⚙️ Cài đặt → TV → Dòng TV: TV LG)
 - **🍎 macOS (chip Apple M1 trở lên) — v3.0:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v3.0) → chọn file `DichPhuDeGame_MacOS_v3.0.dmg` (khoảng 104 MB)
 
