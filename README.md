@@ -4,8 +4,9 @@
 Có bản cho **Windows** và **macOS**, cả hai đều có chế độ **chơi PS5 dịch trên TV**.
 
 ## ⬇️ Tải ứng dụng
-- **🪟 Windows 10/11 — v3.0a:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v3.0) → chọn file `DichPhuDeGame_Windows_Setup_v3.0a.exe` (khoảng 218 MB)
+- **🪟 Windows 10/11 — v4.0:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v4.0) → chọn file `DichPhuDeGame_Windows_Setup_v4.0.exe` (khoảng 220 MB)
 - **📺 Ứng dụng TV (Android TV / Google TV):** cùng trang trên → file `DichGameTV.apk`, hoặc ứng dụng **Downloader** trên TV nhập mã **1314378**
+- **📺 TV LG (webOS):** không cần tải — bản Windows 4.0 tự cài vào TV (⚙️ Cài đặt → TV → Dòng TV: TV LG)
 - **🍎 macOS (chip Apple M1 trở lên) — v3.0:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v3.0) → chọn file `DichPhuDeGame_MacOS_v3.0.dmg` (khoảng 104 MB)
 
 ---
@@ -13,7 +14,17 @@ Có bản cho **Windows** và **macOS**, cả hai đều có chế độ **chơi
 ## 🆕 Có gì mới
 
 ## 🪟 Windows
-### ✨ v3.0a (mới)
+### ✨ v4.0 (mới)
+- **📺 Đã hỗ trợ TV LG (webOS):** ⚙️ Cài đặt → TV → **Dòng TV: TV LG** → nhập IP TV + mã 6 ký tự → Ứng dụng tự cài, tự mở và tự gia hạn ứng dụng trên TV. Bấm nút PS làm TV chuyển nguồn → Ứng dụng tự mở lại. TV Android / Google TV vẫn dùng **Downloader** mã **1314378**.
+- **📺 Chữ trên TV đẹp hơn:** theo đúng kiểu nền + màu chữ trong Cài đặt; **Việt + Anh** hiện thành 1 khung (Anh trên, Việt dưới); có thể **tự chọn vị trí chữ** trên TV.
+- **🎙 Dịch màn hình tốt hơn:** bong bóng dịch tự tắt khi có lời thoại mới hoặc khi nhân vật di chuyển (kể cả đi chậm); không dịch lại mãi dòng hướng dẫn cố định cuối menu; không bỏ sót đoạn mô tả nằm chỗ khung phụ đề; tên mục kiểu "Parries and the Blazing State" không bị dịch nhầm.
+- **⌨️ Sửa lỗi phím tắt:** có lại phần cài đặt phím tắt dịch màn hình.
+- **⚡ Hiệu năng:** hình PS5 trong cửa sổ mượt **1080p 60 hình/giây** nhờ card đồ hoạ (tự giảm tải khi card quá tải); chữ đè đúng chỗ trên máy không dùng được card; tự thử lại card / bộ đọc chữ thay vì khoá luôn.
+- **Việt + Anh** trên máy tính: chữ Anh to bằng chữ Việt, màu cam, ngay dưới.
+- **Chế độ Stream** (giấu chữ dịch khỏi phần mềm quay / phát trực tiếp) dùng được ở cả chế độ TV.
+- **🔕 Tắt bảng Ủng hộ:** mã kích hoạt nay cấp theo từng máy — bấm **Tắt vĩnh viễn**, gửi **Mã máy** qua Zalo 08888 68086.
+
+### ✨ v3.0a
 - Chỉ sửa lỗi tính năng **🔊 Chỉ đọc phụ đề tiếng Việt** (không dịch): Windows không có sẵn bộ đọc chữ tiếng Việt nên chữ có dấu hay bị đọc sai → ứng dụng nhờ AI đặt lại đúng dấu rồi mới đọc; câu 1–2 chữ cũng được đọc. Ai không dùng tính năng này thì không cần cập nhật.
 
 ### ✨ v3.0
@@ -154,7 +165,7 @@ Có bản cho **Windows** và **macOS**, cả hai đều có chế độ **chơi
 - Chế độ **📺 Chơi PS5 trên TV**: cần TV **Android TV / Google TV** (cài ứng dụng Dịch Game TV) và 2 tài khoản PSN trên PS5.
 
 ### Cài đặt
-1. Bấm đúp file **DichPhuDeGame_Windows_Setup_v3.0a.exe**.
+1. Bấm đúp file **DichPhuDeGame_Windows_Setup_v4.0.exe**.
 2. Nếu Windows hiện màn hình xanh **"Windows protected your PC"**: bấm **More info** → **Run anyway**.
    (Windows cảnh báo vì ứng dụng chưa mua chứng chỉ, chỉ cần làm 1 lần.)
 3. Bấm **Next** → **Install**, xong bấm **Finish** là ứng dụng mở lên. Trên Desktop có biểu tượng app.
