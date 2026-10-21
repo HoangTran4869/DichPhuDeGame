@@ -7,8 +7,8 @@ Có bản cho **Windows**, **macOS** và **Android**, đều có chế độ **c
 - **🪟 Windows 10/11 — v4.0:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v4.0) → chọn file `DichPhuDeGame_Windows_Setup_v4.0.exe` (khoảng 220 MB)
 - **📺 Ứng dụng TV (Android TV / Google TV):** cùng trang trên → file `DichGameTV.apk`, hoặc ứng dụng **Downloader** trên TV nhập mã **1314378**
 - **📱 Điện thoại Android 1.0:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/android-v1.0) → chọn file `Dien-thoai-Android-1.0.apk` (khoảng 70 MB). Điện thoại Chơi từ xa PS5, dịch rồi hiện chữ + giọng đọc trên TV.
-- **📺 TV LG (webOS):** không cần tải — bản Windows 4.0 tự cài vào TV (⚙️ Cài đặt → TV → Dòng TV: TV LG)
-- **🍎 macOS (chip Apple M1 trở lên) — v3.0:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v3.0) → chọn file `DichPhuDeGame_MacOS_v3.0.dmg` (khoảng 104 MB)
+- **📺 TV LG (webOS):** không cần tải — bản Windows / Mac 4.0 tự cài vào TV (⚙️ Cài đặt → TV → Dòng TV: TV LG)
+- **🍎 macOS (chip Apple M1 trở lên) — v4.0:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v4.0) → chọn file `DichPhuDeGame_MacOS_v4.0.dmg` (khoảng 105 MB)
 
 ---
 
@@ -109,7 +109,15 @@ Có bản cho **Windows**, **macOS** và **Android**, đều có chế độ **c
 - Kiểu mới **🔤 Không nền, chữ viền bóng** (như phụ đề phim) và **chọn màu chữ** (trắng, vàng, xanh…).
 - Bỏ phím tắt Ctrl+Shift+H (hay trùng phím của trình duyệt / game). Chỉ còn phím riêng cho Dịch màn hình.
 
-## 🍎 macOS (v3.0 — mới, giống bản Windows 3.0)
+## 🍎 macOS (v4.0 — mới, giống bản Windows 4.0)
+- **📺 Đã hỗ trợ TV LG (webOS):** ⚙️ Cài đặt → TV → **Dòng TV: TV LG** → nhập IP TV + mã 6 ký tự → Ứng dụng tự cài, tự mở và tự gia hạn ứng dụng trên TV. Bấm nút PS làm TV chuyển nguồn → Ứng dụng tự mở lại. TV Android / Google TV vẫn dùng **Downloader** mã **1314378**.
+- **📺 Chữ trên TV đẹp hơn:** theo đúng kiểu nền + màu chữ trong Cài đặt; **Việt + Anh** hiện thành 1 khung (Anh trên, Việt dưới); có thể **tự chọn vị trí chữ** trên TV.
+- **🎙 Dịch màn hình tốt hơn:** bong bóng dịch tự tắt khi có lời thoại mới hoặc khi nhân vật di chuyển (kể cả đi chậm); không dịch lại mãi dòng hướng dẫn cố định cuối menu; không bỏ sót đoạn mô tả; khung phụ đề kéo quá to không còn chặn dịch màn hình.
+- **🚀 Hình PS5 mượt 1080p, 60 hình/giây** trong cửa sổ, vẽ bằng chip đồ họa của Mac (giống Windows). Bỏ nút chọn 30/60: capture card cắm vào là lấy chất lượng cao nhất.
+- **Việt + Anh** trên máy: chữ Anh to bằng chữ Việt, màu cam, ngay dưới. Mục **👥 Giọng nhân vật đã phân vai** dễ hiểu hơn.
+- **🔕 Tắt bảng Ủng hộ:** mã kích hoạt nay cấp theo từng máy — bấm **Tắt vĩnh viễn**, gửi **Mã máy** qua Zalo 08888 68086.
+
+## 🍎 macOS (v3.0)
 - Có đủ các điểm mới của bản 3.0 ở trên (dịch màn hình chính xác hơn, bong bóng không đè nhau, khung phụ đề thông minh hơn, học lại nút mic…).
 - **🖱 Sổ ghi chú lăn chuột / trackpad được** (trước phải kéo thanh trượt).
 
