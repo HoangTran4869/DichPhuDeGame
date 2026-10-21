@@ -1,6 +1,6 @@
 {
   "phien_ban": "1.0",
   "ma_so": 100,
-  "ghi_chu": "Bản Android 1.0:\n- Bản đầu tiên.\n\nTải nhanh bản mới trên GitHub: https://github.com/HoangTran4869/DichPhuDeGame/releases",
-  "tai_ve_apk": "https://github.com/HoangTran4869/DichPhuDeGame/releases/download/android-v1.0/Dien-thoai-Android-1.0.apk"
+  "ghi_chu": "Bản Android 1.0:\n- Bản đầu tiên.\n\nTải nhanh bản mới trên GitHub: https://github.com/HoangTran4869/DichPhuDeGame/releases/download/android/DichPhuDeGame_Android.apk",
+  "tai_ve_apk": "https://github.com/HoangTran4869/DichPhuDeGame/releases/download/android/DichPhuDeGame_Android.apk"
 }
