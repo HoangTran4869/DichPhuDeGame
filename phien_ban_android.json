@@ -1,6 +1,6 @@
 {
   "phien_ban": "1.1.1",
   "ma_so": 111,
-  "ghi_chu": "Bản 1.1.1:\n- Cải thiện tình trạng chậm (delay) khi dịch.\n- Thêm mã Groq: cần 2 mã, tạo ở 2 tài khoản Google khác nhau.\n- Đổi thuật toán dịch tốt hơn.\n\nTải bản mới trên GitHub: https://github.com/HoangTran4869/DichPhuDeGame/releases/download/android/DichPhuDeGame_Android.apk",
-  "tai_ve_apk": "https://github.com/HoangTran4869/DichPhuDeGame/releases/download/android/DichPhuDeGame_Android.apk"
+  "ghi_chu": "Bản 1.1.1:\n- Cải thiện tình trạng chậm (delay) khi dịch.\n- Thêm mã Groq: cần 2 mã, tạo ở 2 tài khoản Google khác nhau.\n- Đổi thuật toán dịch tốt hơn.\n\nTải bản mới trên GitHub: https://github.com/HoangTran4869/DichPhuDeGame-Android/releases/latest/download/DichPhuDeGame_Android.apk",
+  "tai_ve_apk": "https://github.com/HoangTran4869/DichPhuDeGame-Android/releases/latest/download/DichPhuDeGame_Android.apk"
 }
