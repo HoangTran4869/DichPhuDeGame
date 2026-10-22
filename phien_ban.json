@@ -1,6 +1,6 @@
 {
-  "phien_ban": "4.0",
-  "ghi_chu": "Bản 4.0:\n- Đã hỗ trợ tivi LG.\n- Cải thiện khả năng dịch màn hình.\n- Hình PS5 mượt 1080p, 60 hình/giây.\n- Sửa lỗi, cải thiện hiệu năng.\n\nTải nhanh bản mới trên GitHub: https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v4.0",
-  "tai_ve_dmg": "https://github.com/HoangTran4869/DichPhuDeGame/releases/download/v4.0/DichPhuDeGame_MacOS_v4.0.dmg",
-  "sha256_dmg": "75207f59f4eb69a9a20dc781b8ea40f8ba8769551628a0e847e688e2e1c25afd"
+  "phien_ban": "4.1",
+  "ghi_chu": "Bản 4.1:\n- Cải thiện tình trạng chậm (delay) khi dịch.\n- Thêm mã Groq (cần 2 mã, tạo ở 2 tài khoản Google khác nhau).\n- Đổi thuật toán dịch tốt hơn.\n\nTải nhanh bản mới trên GitHub: https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v4.1",
+  "tai_ve_dmg": "https://github.com/HoangTran4869/DichPhuDeGame/releases/download/v4.1/DichPhuDeGame_MacOS_v4.1.dmg",
+  "sha256_dmg": "3fa5bedb747da3cfdcf6c4f8ea2bc4ac61826ce2916427525f3c7b4cf47ef4af"
 }

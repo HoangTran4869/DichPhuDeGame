@@ -8,7 +8,7 @@ Có bản cho **Windows**, **macOS** và **Android**, đều có chế độ **c
 - **📺 Ứng dụng TV (Android TV / Google TV):** cùng trang trên → file `DichGameTV.apk`, hoặc ứng dụng **Downloader** trên TV nhập mã **1314378**
 - **📱 Điện thoại Android:** [bấm vào đây để tải thẳng bản mới nhất](https://github.com/HoangTran4869/DichPhuDeGame/releases/download/android/DichPhuDeGame_Android.apk) (file `DichPhuDeGame_Android.apk`, khoảng 52 MB, bản 1.1 có giọng đọc Piper). Điện thoại Chơi từ xa PS5, dịch rồi hiện chữ + giọng đọc trên TV.
 - **📺 TV LG (webOS):** không cần tải — bản Windows / Mac 4.0 tự cài vào TV (⚙️ Cài đặt → TV → Dòng TV: TV LG)
-- **🍎 macOS (chip Apple M1 trở lên) — v4.0:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v4.0) → chọn file `DichPhuDeGame_MacOS_v4.0.dmg` (khoảng 105 MB)
+- **🍎 macOS (chip Apple M1 trở lên) — v4.1:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v4.1) → chọn file `DichPhuDeGame_MacOS_v4.1.dmg` (khoảng 105 MB)
 
 ---
 
@@ -116,7 +116,13 @@ Có bản cho **Windows**, **macOS** và **Android**, đều có chế độ **c
 - Kiểu mới **🔤 Không nền, chữ viền bóng** (như phụ đề phim) và **chọn màu chữ** (trắng, vàng, xanh…).
 - Bỏ phím tắt Ctrl+Shift+H (hay trùng phím của trình duyệt / game). Chỉ còn phím riêng cho Dịch màn hình.
 
-## 🍎 macOS (v4.0 — mới, giống bản Windows 4.0)
+## 🍎 macOS (v4.1 — mới, giống bản Windows 4.1)
+- **⚡ Dịch nhanh hơn, ít đèn cam;** **🔑 cần 2 mã Groq** (2 tài khoản Google khác nhau) cùng 3 mã Gemini.
+- **🎮 Ghép đôi PS5:** không tự tìm thấy PS5 thì gõ IP của PS5.
+- **📡 Chế độ Stream** (⚙️ Cài đặt): Bật thì chữ dịch, bong bóng và cửa sổ Ứng dụng hiện trên OBS / UltraViewer / chia sẻ màn hình.
+- Sửa lỗi bật/tắt **Dịch bằng chuột** làm hình PS5 bị đen / đứng.
+
+## 🍎 macOS (v4.0)
 - **📺 Đã hỗ trợ TV LG (webOS):** ⚙️ Cài đặt → TV → **Dòng TV: TV LG** → nhập IP TV + mã 6 ký tự → Ứng dụng tự cài, tự mở và tự gia hạn ứng dụng trên TV. Bấm nút PS làm TV chuyển nguồn → Ứng dụng tự mở lại. TV Android / Google TV vẫn dùng **Downloader** mã **1314378**.
 - **📺 Chữ trên TV đẹp hơn:** theo đúng kiểu nền + màu chữ trong Cài đặt; **Việt + Anh** hiện thành 1 khung (Anh trên, Việt dưới); có thể **tự chọn vị trí chữ** trên TV.
 - **🎙 Dịch màn hình tốt hơn:** bong bóng dịch tự tắt khi có lời thoại mới hoặc khi nhân vật di chuyển (kể cả đi chậm); không dịch lại mãi dòng hướng dẫn cố định cuối menu; không bỏ sót đoạn mô tả; khung phụ đề kéo quá to không còn chặn dịch màn hình.
