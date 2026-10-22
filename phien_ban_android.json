@@ -1,6 +1,6 @@
 {
-  "phien_ban": "1.1",
-  "ma_so": 110,
-  "ghi_chu": "Bản 1.1:\n- Thêm giọng đọc Piper (2 nữ, 2 nam), tải thêm trong trang Giọng.\n- Sửa lỗi ghép đôi PS5, màn ghép đôi gọn và dễ hiểu hơn.\n- Giao diện đồng bộ, luôn đứng dọc; cỡ chữ áp dụng cả trên TV.\n- Sửa lỗi kẹt tìm giọng đọc.\n\nTải bản mới trên GitHub: https://github.com/HoangTran4869/DichPhuDeGame/releases/download/android/DichPhuDeGame_Android.apk",
+  "phien_ban": "1.1.1",
+  "ma_so": 111,
+  "ghi_chu": "Bản 1.1.1:\n- Cải thiện tình trạng chậm (delay) khi dịch.\n- Thêm mã Groq: cần 2 mã, tạo ở 2 tài khoản Google khác nhau.\n- Đổi thuật toán dịch tốt hơn.\n\nTải bản mới trên GitHub: https://github.com/HoangTran4869/DichPhuDeGame/releases/download/android/DichPhuDeGame_Android.apk",
   "tai_ve_apk": "https://github.com/HoangTran4869/DichPhuDeGame/releases/download/android/DichPhuDeGame_Android.apk"
 }
