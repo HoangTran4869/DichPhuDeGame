@@ -4,7 +4,7 @@
 Có bản cho **Windows**, **macOS** và **Android**, đều có chế độ **chơi PS5 dịch trên TV**.
 
 ## ⬇️ Tải ứng dụng
-- **🪟 Windows 10/11 — v4.0:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v4.0) → chọn file `DichPhuDeGame_Windows_Setup_v4.0.exe` (khoảng 220 MB)
+- **🪟 Windows 10/11 — v4.1:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v4.1) → chọn file `DichPhuDeGame_Windows_Setup_v4.1.exe` (khoảng 220 MB)
 - **📺 Ứng dụng TV (Android TV / Google TV):** cùng trang trên → file `DichGameTV.apk`, hoặc ứng dụng **Downloader** trên TV nhập mã **1314378**
 - **📱 Điện thoại Android:** [bấm vào đây để tải thẳng bản mới nhất](https://github.com/HoangTran4869/DichPhuDeGame/releases/download/android/DichPhuDeGame_Android.apk) (file `DichPhuDeGame_Android.apk`, khoảng 52 MB, bản 1.1 có giọng đọc Piper). Điện thoại Chơi từ xa PS5, dịch rồi hiện chữ + giọng đọc trên TV.
 - **📺 TV LG (webOS):** không cần tải — bản Windows / Mac 4.0 tự cài vào TV (⚙️ Cài đặt → TV → Dòng TV: TV LG)
@@ -15,7 +15,14 @@ Có bản cho **Windows**, **macOS** và **Android**, đều có chế độ **c
 ## 🆕 Có gì mới
 
 ## 🪟 Windows
-### ✨ v4.0 (mới)
+### ✨ v4.1 (mới)
+- **⚡ Dịch nhanh hơn, ít đèn cam:** máy chủ Gemini nào đang quá tải thì tạm xếp xuống cuối, chuyển ngay sang nguồn khác; câu treo bỏ sớm hơn.
+- **🔑 Cần 2 mã Groq** (tạo ở 2 tài khoản Google khác nhau) cùng 3 mã Gemini — chưa đủ mã thì Ứng dụng chưa dịch.
+- **🎮 Ghép đôi PS5:** không tự tìm thấy PS5 thì gõ IP của PS5 là ghép được.
+- Chữ đã là tiếng Việt (menu PS5 tiếng Việt…) không gửi đi dịch, đỡ tốn lượt. Giọng Nữ 2 cao hơn, khác rõ Nữ 1.
+- Bỏ các nút chọn hình (PS5 luôn mượt 1080p, capture card luôn chất lượng cao nhất); mục **👥 Giọng nhân vật đã phân vai**.
+
+### ✨ v4.0
 - **📺 Đã hỗ trợ TV LG (webOS):** ⚙️ Cài đặt → TV → **Dòng TV: TV LG** → nhập IP TV + mã 6 ký tự → Ứng dụng tự cài, tự mở và tự gia hạn ứng dụng trên TV. Bấm nút PS làm TV chuyển nguồn → Ứng dụng tự mở lại. TV Android / Google TV vẫn dùng **Downloader** mã **1314378**.
 - **📺 Chữ trên TV đẹp hơn:** theo đúng kiểu nền + màu chữ trong Cài đặt; **Việt + Anh** hiện thành 1 khung (Anh trên, Việt dưới); có thể **tự chọn vị trí chữ** trên TV.
 - **🎙 Dịch màn hình tốt hơn:** bong bóng dịch tự tắt khi có lời thoại mới hoặc khi nhân vật di chuyển (kể cả đi chậm); không dịch lại mãi dòng hướng dẫn cố định cuối menu; không bỏ sót đoạn mô tả nằm chỗ khung phụ đề; tên mục kiểu "Parries and the Blazing State" không bị dịch nhầm.
@@ -174,7 +181,7 @@ Có bản cho **Windows**, **macOS** và **Android**, đều có chế độ **c
 - Chế độ **📺 Chơi PS5 trên TV**: cần TV **Android TV / Google TV** (cài ứng dụng Dịch Game TV) và 2 tài khoản PSN trên PS5.
 
 ### Cài đặt
-1. Bấm đúp file **DichPhuDeGame_Windows_Setup_v4.0.exe**.
+1. Bấm đúp file **DichPhuDeGame_Windows_Setup_v4.1.exe**.
 2. Nếu Windows hiện màn hình xanh **"Windows protected your PC"**: bấm **More info** → **Run anyway**.
    (Windows cảnh báo vì ứng dụng chưa mua chứng chỉ, chỉ cần làm 1 lần.)
 3. Bấm **Next** → **Install**, xong bấm **Finish** là ứng dụng mở lên. Trên Desktop có biểu tượng app.
