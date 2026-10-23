@@ -1,6 +1,6 @@
 {
-  "phien_ban": "4.1",
-  "ghi_chu": "Bản 4.1:\n- Cải thiện tình trạng chậm (delay) khi dịch.\n- Thêm mã Groq (cần 2 mã, tạo ở 2 tài khoản Google khác nhau).\n- Đổi thuật toán dịch tốt hơn.\n\nTải nhanh bản mới trên GitHub: https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v4.1",
-  "tai_ve_dmg": "https://github.com/HoangTran4869/DichPhuDeGame/releases/download/v4.1/DichPhuDeGame_MacOS_v4.1.dmg",
-  "sha256_dmg": "3fa5bedb747da3cfdcf6c4f8ea2bc4ac61826ce2916427525f3c7b4cf47ef4af"
+  "phien_ban": "4.2",
+  "ghi_chu": "Bản 4.2:\n- Thêm phím tắt Dịch màn hình (mặc định Ctrl + Shift + Option).\n- Nguồn Màn hình Mac: bấm phím tắt rồi kéo chuột / trackpad chỗ cần dịch.\n\nTải nhanh bản mới trên GitHub: https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v4.2",
+  "tai_ve_dmg": "https://github.com/HoangTran4869/DichPhuDeGame/releases/download/v4.2/DichPhuDeGame_MacOS_v4.2.dmg",
+  "sha256_dmg": "9bc6acd3444c929e4c1e713eb81dd771eadfa84c089fc970b12ba18400b83130"
 }

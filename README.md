@@ -8,7 +8,7 @@ Có bản cho **Windows**, **macOS** và **Android**, đều có chế độ **c
 - **📺 Ứng dụng TV (Android TV / Google TV):** cùng trang trên → file `DichGameTV.apk`, hoặc ứng dụng **Downloader** trên TV nhập mã **1314378**
 - **📱 Điện thoại Android:** [bấm vào đây để vào trang tải bản mới nhất](https://github.com/HoangTran4869/DichPhuDeGame-Android/releases/latest) (file `DichPhuDeGame_Android.apk`, khoảng 52 MB; trang riêng bản Android: https://github.com/HoangTran4869/DichPhuDeGame-Android). Điện thoại Chơi từ xa PS5, dịch rồi hiện chữ + giọng đọc trên TV.
 - **📺 TV LG (webOS):** không cần tải — bản Windows / Mac 4.0 tự cài vào TV (⚙️ Cài đặt → TV → Dòng TV: TV LG)
-- **🍎 macOS (chip Apple M1 trở lên) — v4.1:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v4.1) → chọn file `DichPhuDeGame_MacOS_v4.1.dmg` (khoảng 105 MB)
+- **🍎 macOS (chip Apple M1 trở lên) — v4.2:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v4.2) → chọn file `DichPhuDeGame_MacOS_v4.2.dmg` (khoảng 105 MB)
 
 ---
 
@@ -116,7 +116,12 @@ Có bản cho **Windows**, **macOS** và **Android**, đều có chế độ **c
 - Kiểu mới **🔤 Không nền, chữ viền bóng** (như phụ đề phim) và **chọn màu chữ** (trắng, vàng, xanh…).
 - Bỏ phím tắt Ctrl+Shift+H (hay trùng phím của trình duyệt / game). Chỉ còn phím riêng cho Dịch màn hình.
 
-## 🍎 macOS (v4.1 — mới, giống bản Windows 4.1)
+## 🍎 macOS (v4.2 — mới)
+- **⌨ Phím tắt Dịch màn hình:** Ctrl + Shift + Option (đổi trong ⚙️ Cài đặt → Phím tắt dịch màn hình). Lần đầu macOS hỏi quyền **Giám sát đầu vào (Input Monitoring)** → bật cho Dịch Phụ Đề Game rồi mở lại Ứng dụng.
+- **🖥 Nguồn Màn hình Mac:** bấm phím tắt → kéo chuột / trackpad quanh chỗ cần dịch. Bấm phím tắt lần nữa / Esc / chuột phải để thoát.
+- **🎮 PS5 / Capture card:** phím tắt = dịch cả màn hình (như nút Mic).
+
+## 🍎 macOS (v4.1 — giống bản Windows 4.1)
 - **⚡ Dịch nhanh hơn, ít đèn cam;** **🔑 cần 2 mã Groq** (2 tài khoản Google khác nhau) cùng 3 mã Gemini.
 - **🎮 Ghép đôi PS5:** không tự tìm thấy PS5 thì gõ IP của PS5.
 - **📡 Chế độ Stream** (⚙️ Cài đặt): Bật thì chữ dịch, bong bóng và cửa sổ Ứng dụng hiện trên OBS / UltraViewer / chia sẻ màn hình.
