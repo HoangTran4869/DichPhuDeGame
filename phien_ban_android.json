@@ -1,6 +1,6 @@
 {
-  "phien_ban": "1.1.2",
-  "ma_so": 112,
-  "ghi_chu": "Bản 1.1.2:\n- Tối ưu hiệu năng.\n- Cải tiến học nút Mic.\n- Sửa lỗi kết nối TV khi modem đổi IP Tivi.\n\nTải bản mới trên GitHub: https://github.com/HoangTran4869/DichPhuDeGame-Android/releases/latest",
+  "phien_ban": "1.1.4",
+  "ma_so": 114,
+  "ghi_chu": "Bản 1.1.4:\n- Sửa lỗi phụ đề nhảy chữ, bản dịch ổn định hơn.\n- Báo mã dịch hết lượt trong ngày.\n- Màu chữ hiện đúng trên TV, TV LG báo rõ chưa bật Key Server.\n- Báo lỗi gửi vào nhóm Zalo.\n\nTải bản mới trên GitHub: https://github.com/HoangTran4869/DichPhuDeGame-Android/releases/latest",
   "tai_ve_apk": "https://github.com/HoangTran4869/DichPhuDeGame-Android/releases/latest"
 }
