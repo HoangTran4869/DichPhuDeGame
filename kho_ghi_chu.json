@@ -1,5 +1,5 @@
 {
- "phien_ban": "2026-10-17a",
+ "phien_ban": "2026-10-30a",
  "games": [
   {
    "ten": "God of War",
@@ -9250,6 +9250,1724 @@
      "tu": "Gotham",
      "loai": "Địa danh",
      "mo_ta": "thành phố Gotham"
+    }
+   ]
+  },
+  {
+   "ten": "Kingdom Come: Deliverance",
+   "nen_tang": "PS4 / PS5 / Xbox / PC",
+   "phong_cach": "than_thoai",
+   "mo_ta_game": "Bản 1 (2018). Bohemia năm 1403 (Trung cổ châu Âu, lịch sử thật, không phép thuật). Vua Wenceslas IV bị em trai Sigismund bắt giam; quân Cuman đánh thuê của Sigismund tàn sát làng Skalitz. Henry, con trai thợ rèn, mất cha mẹ, chạy tới Rattay rồi phục vụ các lãnh chúa để trả thù và lấy lại thanh kiếm cha rèn. Giọng điệu chân thực, đời thường, hài hước, lời thoại cổ kính, nhiều câu chửi thề. Xưng hô gợi ý: Henry ↔ Martin: con – cha; Henry ↔ Theresa: anh – em (thân mật); Henry ↔ quý tộc (Hanush, Radzig, Divish): Henry xưng 'tôi', gọi 'ngài'/'thưa ngài', quý tộc xưng 'ta', gọi 'ngươi'/'cậu'; Hans Capon ↔ Henry: lúc đầu khinh khỉnh ('ta' – 'ngươi'), về sau thân như bạn ('tôi' – 'cậu'); Henry ↔ Bernard: trò – thầy; Henry ↔ Godwin: gọi 'cha' (linh mục).",
+   "tu": [
+    {
+     "tu": "Henry",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; nhân vật chính; Henry of Skalitz, con thợ rèn, chất phác, ban đầu vụng về rồi trưởng thành; mất cha mẹ khi Skalitz bị tàn sát",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Martin",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; thợ rèn làng Skalitz, người cha của Henry (về sau lộ là cha nuôi); bị giết khi làng bị tấn công",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Theresa",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; cô gái làng Skalitz, em gái người xay bột, hiền, gan dạ; bạn và người thương của Henry",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Radzig Kobyla",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; Sir Radzig, lãnh chúa Skalitz, nghiêm nghị, chỉ huy kháng chiến chống Sigismund; về sau lộ là cha ruột của Henry",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Hanush of Leipa",
+     "loai": "Tên nhân vật",
+     "mo_ta": "già; Sir Hanush, lãnh chúa thành Rattay, thẳng tính, hay nóng giận nhưng công bằng; chú của Hans Capon",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Hans Capon",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; Sir Hans Capon, lãnh chúa trẻ kiêu ngạo, ăn chơi, giỏi bắn cung; ban đầu coi thường Henry rồi thành bạn thân",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Divish of Talmberg",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; Sir Divish, lãnh chúa lâu đài Talmberg, thận trọng, hay dao động; chồng của Lady Stephanie",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Stephanie",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; Lady Stephanie, phu nhân của Divish, thông minh, duyên dáng, thích đọc sách",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Robard",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; Sir Robard, đội trưởng cận vệ thành Rattay, nghiêm khắc, thực tế; chỉ huy của Henry",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Bernard",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; thầy dạy kiếm ở Rattay, nghiêm nhưng tận tâm; dạy Henry đánh kiếm",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Godwin",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; Father Godwin, linh mục làng Uzhitz, mê rượu, phóng khoáng, vui tính; bạn của Henry; được gọi 'cha'",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Sigismund",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; vua Hungary, em của vua Wenceslas; phản diện, tham vọng, dùng quân Cuman xâm lược Bohemia",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Wenceslas",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; vua Wenceslas IV của Bohemia, bị em trai Sigismund bắt giam; chỉ được nhắc tới nhiều",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Markvart von Aulitz",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; phản diện; quý tộc Đức theo phe Sigismund, mưu mô, chỉ huy cuộc tàn sát Skalitz",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Istvan Toth",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; phản diện; quý tộc Hungary xảo quyệt, đứng sau đám cướp, giả làm đồng minh",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Erik",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; phản diện; tên lính đánh thuê giết cha mẹ Henry ở Skalitz",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Cumans",
+     "loai": "Phe phái / Tổ chức",
+     "mo_ta": "quân Cuman: lính đánh thuê du mục phục vụ Sigismund, tàn bạo; dịch 'quân Cuman'"
+    },
+    {
+     "tu": "Skalitz",
+     "loai": "Địa danh",
+     "mo_ta": "làng quê của Henry, bị tàn sát đầu game"
+    },
+    {
+     "tu": "Rattay",
+     "loai": "Địa danh",
+     "mo_ta": "thành Rattay của Sir Hanush, nơi Henry làm việc"
+    },
+    {
+     "tu": "Talmberg",
+     "loai": "Địa danh",
+     "mo_ta": "lâu đài Talmberg của Sir Divish"
+    },
+    {
+     "tu": "Sasau",
+     "loai": "Địa danh",
+     "mo_ta": "thị trấn có tu viện Sasau"
+    }
+   ]
+  },
+  {
+   "ten": "Battlefield 6",
+   "nen_tang": "PS5 / Xbox Series X|S / PC",
+   "phong_cach": "quan_su",
+   "mo_ta_game": "Năm 2027, sức mạnh của NATO suy yếu, Pax Armata — liên minh quân sự tư nhân hùng mạnh — gây chiến khắp nơi (Gibraltar, New York, Ai Cập…). Người chơi thuộc Dagger 13, đội đặc nhiệm Thủy quân lục chiến Mỹ (Marine Raiders). Giọng điệu phim hành động quân sự: mệnh lệnh ngắn, nhiều thuật ngữ quân đội, chửi thề. Xưng hô gợi ý: đồng đội xưng 'tôi', gọi nhau bằng tên/biệt danh hoặc 'cậu'; cấp dưới gọi chỉ huy 'sếp'; kẻ địch nói kiểu 'tao – mày'.",
+   "tu": [
+    {
+     "tu": "Dagger 13",
+     "loai": "Phe phái / Tổ chức",
+     "mo_ta": "tên đội đặc nhiệm Thủy quân lục chiến Mỹ của người chơi; giữ nguyên 'Dagger 13'"
+    },
+    {
+     "tu": "Pax Armata",
+     "loai": "Phe phái / Tổ chức",
+     "mo_ta": "phe địch chính: liên minh quân sự tư nhân, muốn kiểm soát các cuộc chiến toàn cầu; giữ nguyên tên"
+    },
+    {
+     "tu": "NATO",
+     "loai": "Phe phái / Tổ chức",
+     "mo_ta": "Khối NATO, phe của người chơi"
+    },
+    {
+     "tu": "Haz Carter",
+     "loai": "Tên nhân vật",
+     "mo_ta": "đồng đội; lính xung kích, trưởng nhóm tác chiến, từng là vận động viên; giỏi phá cửa, chất nổ"
+    },
+    {
+     "tu": "Dylan Murphy",
+     "loai": "Tên nhân vật",
+     "mo_ta": "đồng đội; công binh, người lên kế hoạch tác chiến, dùng tên lửa, diệt xe tăng",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Gecko",
+     "loai": "Tên nhân vật",
+     "mo_ta": "đồng đội; Simone 'Gecko' Espina, lính trinh sát/bắn tỉa, từng là thợ săn, dùng drone; giữ nguyên biệt danh 'Gecko'",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Simone Espina",
+     "loai": "Tên nhân vật",
+     "mo_ta": "= Gecko, lính trinh sát/bắn tỉa của Dagger 13",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Cliff Lopez",
+     "loai": "Tên nhân vật",
+     "mo_ta": "đồng đội; lính hỗ trợ, tiếp đạn và cứu thương cho đội",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Lucas Hemlock",
+     "loai": "Tên nhân vật",
+     "mo_ta": "đồng minh; đặc vụ CIA liên lạc với đội, bí ẩn, dẫn dắt nhiệm vụ",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Gibraltar",
+     "loai": "Địa danh",
+     "mo_ta": "eo biển/bán đảo Gibraltar"
+    },
+    {
+     "tu": "Brooklyn",
+     "loai": "Địa danh",
+     "mo_ta": "quận Brooklyn, New York"
+    },
+    {
+     "tu": "Cairo",
+     "loai": "Địa danh",
+     "mo_ta": "thủ đô Cairo, Ai Cập"
+    }
+   ]
+  },
+  {
+   "ten": "Monster Hunter: World",
+   "nen_tang": "PS4 / Xbox One / PC",
+   "phong_cach": "than_thoai",
+   "mo_ta_game": "Kèm bản mở rộng Iceborne. Hiệp hội Nghiên cứu (Research Commission) vượt biển tới Tân Thế Giới (New World) để tìm hiểu vì sao các Rồng Cổ (Elder Dragon) di cư vượt biển. Người chơi là Thợ săn của Đội thứ 5, cùng cô Trợ lý (Handler) và chú mèo Palico đi săn quái vật. Giọng điệu phiêu lưu, tươi vui. Xưng hô gợi ý: Handler ↔ Thợ săn: Handler xưng 'tôi', gọi 'cộng sự' (partner)/'cậu'; Commander ↔ Thợ săn: 'ta' – 'cậu'; Palico (mèo) nói đáng yêu, hay thêm 'meo'; tên quái vật giữ nguyên tiếng Anh.",
+   "tu": [
+    {
+     "tu": "Handler",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; trợ lý của Thợ săn, vui vẻ, nhiệt tình, mê ăn uống, hay gọi Thợ săn là 'partner' (cộng sự); dịch 'cô Trợ lý' hoặc giữ 'Handler'",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Commander",
+     "loai": "Tên nhân vật",
+     "mo_ta": "già; Chỉ huy của Hiệp hội Nghiên cứu ở Astera, điềm tĩnh, cứng rắn; ông nội của Field Team Leader; dịch 'Chỉ huy'",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Field Team Leader",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; Đội trưởng đội thực địa, nhiệt huyết, cháu của Commander; dịch 'Đội trưởng'",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Admiral",
+     "loai": "Tên nhân vật",
+     "mo_ta": "già; Đô đốc, người đầu tiên tới Tân Thế Giới, phóng khoáng, thích phiêu lưu một mình; dịch 'Đô đốc'",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Seasoned Hunter",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; Thợ săn lão luyện (Iceborne), trầm tính, có mối thù với Nergigante",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Palico",
+     "loai": "Quái vật / Sinh vật",
+     "mo_ta": "mèo đồng hành đi săn của Thợ săn; giữ 'Palico' hoặc 'mèo đồng hành'"
+    },
+    {
+     "tu": "Research Commission",
+     "loai": "Phe phái / Tổ chức",
+     "mo_ta": "Hiệp hội Nghiên cứu"
+    },
+    {
+     "tu": "New World",
+     "loai": "Địa danh",
+     "mo_ta": "Tân Thế Giới"
+    },
+    {
+     "tu": "Astera",
+     "loai": "Địa danh",
+     "mo_ta": "căn cứ chính của Hiệp hội ở Tân Thế Giới"
+    },
+    {
+     "tu": "Seliana",
+     "loai": "Địa danh",
+     "mo_ta": "căn cứ băng giá ở Iceborne"
+    },
+    {
+     "tu": "Elder Dragon",
+     "loai": "Thuật ngữ",
+     "mo_ta": "Rồng Cổ: loài quái vật huyền thoại cực mạnh"
+    },
+    {
+     "tu": "Scoutflies",
+     "loai": "Thuật ngữ",
+     "mo_ta": "đom đóm dẫn đường, giúp lần theo dấu vết quái vật"
+    },
+    {
+     "tu": "Zorah Magdaros",
+     "loai": "Quái vật / Sinh vật",
+     "mo_ta": "Rồng Cổ khổng lồ như núi lửa di động"
+    },
+    {
+     "tu": "Nergigante",
+     "loai": "Quái vật / Sinh vật",
+     "mo_ta": "Rồng Cổ chuyên ăn Rồng Cổ khác, đầy gai"
+    },
+    {
+     "tu": "Xeno'jiiva",
+     "loai": "Quái vật / Sinh vật",
+     "mo_ta": "Rồng Cổ non bí ẩn trùm cuối bản gốc"
+    },
+    {
+     "tu": "Velkhana",
+     "loai": "Quái vật / Sinh vật",
+     "mo_ta": "Rồng Cổ băng giá của Iceborne"
+    },
+    {
+     "tu": "Safi'jiiva",
+     "loai": "Quái vật / Sinh vật",
+     "mo_ta": "Rồng Cổ đỏ, Xeno'jiiva trưởng thành (Iceborne)"
+    }
+   ]
+  },
+  {
+   "ten": "Monster Hunter Rise: Sunbreak",
+   "nen_tang": "PS4 / PS5 / Switch / Xbox / PC",
+   "phong_cach": "nhat_ban",
+   "mo_ta_game": "Monster Hunter Rise + bản mở rộng Sunbreak. Làng Kamura (phong cách Nhật Bản cổ) bị đe dọa bởi Rampage (thú triều: đàn quái vật tràn tới làng). Người chơi là Thợ săn trẻ của làng, cùng mèo Palico và chó Palamute. Sunbreak: tới Tiền đồn Elgado (phong cách châu Âu) điều tra Ba Chúa Tể (Three Lords) và rồng Malzeno. Giọng điệu ấm áp, vui vẻ. Xưng hô gợi ý: Hinoa/Minoto ↔ Thợ săn: xưng 'tôi'/'chị', gọi 'Thợ săn'/'cậu'; Trưởng làng Fugen: 'ta' – 'cháu'/'cậu'; Utsushi: thầy – trò ('ta' – 'trò'); Fiorayne: 'tôi' – 'ngài' (lịch sự); tên quái vật giữ nguyên.",
+   "tu": [
+    {
+     "tu": "Hinoa",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ (Wyverian); cô gái phụ trách nhiệm vụ của làng, vui vẻ, hay cười, thích ăn dango; chị song sinh của Minoto",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Minoto",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ (Wyverian); quầy tiếp tân của Hội, nghiêm túc, chín chắn; em song sinh của Hinoa",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Fugen",
+     "loai": "Tên nhân vật",
+     "mo_ta": "già; Trưởng làng Kamura (Village Elder Fugen), Thợ săn huyền thoại, hào sảng; dịch 'Trưởng làng Fugen'",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Utsushi",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; Master Utsushi, thầy dạy Thợ săn, đeo mặt nạ, nhiệt tình; dịch 'thầy Utsushi'",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Hojo",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; chàng trai mê mọt Hội Thợ săn, rất ngưỡng mộ người chơi",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Yomogi",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; cô bé bán dango ở quán trà, hoạt bát",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Hamon",
+     "loai": "Tên nhân vật",
+     "mo_ta": "già; thợ rèn của làng, ít nói, cứng rắn",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Fiorayne",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; Dame Fiorayne, nữ hiệp sĩ Hoàng gia ở Elgado, nghiêm túc, tài giỏi",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Galleus",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; Đô đốc Galleus, chỉ huy Tiền đồn Elgado",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Arlow",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; hiệp sĩ trẻ hăng hái ở Elgado",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Kamura",
+     "loai": "Địa danh",
+     "mo_ta": "làng Kamura"
+    },
+    {
+     "tu": "Elgado",
+     "loai": "Địa danh",
+     "mo_ta": "Tiền đồn Elgado (Elgado Outpost)"
+    },
+    {
+     "tu": "Rampage",
+     "loai": "Thuật ngữ",
+     "mo_ta": "thú triều: đàn quái vật tràn về làng; dịch 'thú triều'"
+    },
+    {
+     "tu": "Palamute",
+     "loai": "Quái vật / Sinh vật",
+     "mo_ta": "chó đồng hành của Thợ săn"
+    },
+    {
+     "tu": "Palico",
+     "loai": "Quái vật / Sinh vật",
+     "mo_ta": "mèo đồng hành của Thợ săn"
+    },
+    {
+     "tu": "Magnamalo",
+     "loai": "Quái vật / Sinh vật",
+     "mo_ta": "quái vật biểu tượng của Rise, như võ sĩ samurai ma quái"
+    },
+    {
+     "tu": "Ibushi",
+     "loai": "Quái vật / Sinh vật",
+     "mo_ta": "Rồng Cổ gió, gây ra thú triều"
+    },
+    {
+     "tu": "Narwa",
+     "loai": "Quái vật / Sinh vật",
+     "mo_ta": "Rồng Cổ sấm sét, cặp với Ibushi"
+    },
+    {
+     "tu": "Malzeno",
+     "loai": "Quái vật / Sinh vật",
+     "mo_ta": "Rồng Cổ 'ma cà rồng' của Sunbreak, một trong Ba Chúa Tể"
+    },
+    {
+     "tu": "Three Lords",
+     "loai": "Thuật ngữ",
+     "mo_ta": "Ba Chúa Tể: Malzeno, Garangolm, Lunagaron"
+    },
+    {
+     "tu": "Gaismagorm",
+     "loai": "Quái vật / Sinh vật",
+     "mo_ta": "trùm cuối Sunbreak"
+    }
+   ]
+  },
+  {
+   "ten": "Tekken 8",
+   "nen_tang": "PS5 / Xbox Series X|S / PC",
+   "phong_cach": "hien_dai",
+   "mo_ta_game": "Game đối kháng. Cốt truyện tiếp nối cuộc chiến gia tộc Mishima: Kazuya Mishima (mang Gen Quỷ) dùng tập đoàn G Corporation phát động chiến tranh thế giới; con trai Jin Kazama phải đối mặt với dòng máu quỷ của chính mình để ngăn cha. Giọng điệu kịch tính, nhiều đấu khẩu. Xưng hô gợi ý: Jin ↔ Kazuya: thù hận, 'tao' – 'mày' (Kazuya gọi Jin 'thằng nhóc'); Lars ↔ Jin: đồng minh, gọi tên, 'tôi' – 'cậu'; Jun ↔ Jin: mẹ – con; Lee ↔ Kazuya: anh em nuôi, mỉa mai; đối thủ khi đánh nhau: 'tao' – 'mày'.",
+   "tu": [
+    {
+     "tu": "Jin Kazama",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; nhân vật chính; con của Kazuya và Jun, mang Gen Quỷ, trầm tính, quyết tâm chuộc lỗi",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Kazuya Mishima",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; phản diện chính; cha của Jin, mang Gen Quỷ, tàn nhẫn, tham vọng, cầm đầu G Corporation",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Jun Kazama",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; mẹ của Jin, hiền hòa, có năng lực thanh tẩy",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Lars Alexandersson",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; đồng minh; con ngoài giá thú của Heihachi (em cùng cha khác mẹ với Kazuya), lãnh đạo lực lượng chống Kazuya",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Lee Chaolan",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; con nuôi của Heihachi, anh em nuôi với Kazuya, hào hoa, giàu có",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Reina",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; cô gái bí ẩn, tự nhận là con của Heihachi Mishima, nói chuyện tỉnh bơ",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Heihachi Mishima",
+     "loai": "Tên nhân vật",
+     "mo_ta": "già; người đứng đầu gia tộc Mishima, cha của Kazuya, tàn nhẫn",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Nina Williams",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; sát thủ chuyên nghiệp lạnh lùng",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Asuka Kazama",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; em họ của Jin, cô gái Osaka nóng tính",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Hwoarang",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; võ sĩ taekwondo người Hàn, đối thủ truyền kiếp của Jin",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Victor Chevalier",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; quý ông Pháp, chỉ huy lực lượng đặc nhiệm Liên Hợp Quốc",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Paul Phoenix",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; võ sĩ Mỹ hài hước, tự tin thái quá",
+     "gioi": "nam"
+    },
+    {
+     "tu": "King",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; đô vật đeo mặt nạ báo đốm",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Azucena",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; võ sĩ Peru, chủ trang trại cà phê, tự xưng 'nữ hoàng cà phê'",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Mishima Zaibatsu",
+     "loai": "Phe phái / Tổ chức",
+     "mo_ta": "tập đoàn Mishima"
+    },
+    {
+     "tu": "G Corporation",
+     "loai": "Phe phái / Tổ chức",
+     "mo_ta": "tập đoàn G Corporation của Kazuya"
+    },
+    {
+     "tu": "Devil Gene",
+     "loai": "Thuật ngữ",
+     "mo_ta": "Gen Quỷ: dòng máu quỷ trong Kazuya và Jin"
+    }
+   ]
+  },
+  {
+   "ten": "Rise of the Ronin",
+   "nen_tang": "PS5 / PC",
+   "phong_cach": "nhat_ban",
+   "mo_ta_game": "Nhật Bản cuối thời Mạc phủ Tokugawa (Bakumatsu, những năm 1850–1860). Sau khi tàu Mỹ của Đề đốc Perry ép Nhật mở cửa, đất nước chia rẽ giữa phe ủng hộ Mạc phủ, phe chống Mạc phủ và phe thân phương Tây. Người chơi là một trong cặp sát thủ 'Song Kiếm' (Blade Twin) của làng Veiled Edge, lưu lạc thành lãng nhân (ronin) đi tìm người song kiếm thất lạc, gặp gỡ các nhân vật lịch sử như Sakamoto Ryoma, Katsu Kaishu. Giọng điệu chính kịch, võ sĩ đạo. Xưng hô gợi ý: võ sĩ xưng 'ta', gọi 'ngươi'/'các hạ'; Ryoma ↔ người chơi: thân thiện, 'tôi' – 'cậu'/'bạn'; với quan lớn/tướng quân: 'thưa ngài'; tên người Nhật giữ nguyên (họ trước tên sau như trong game).",
+   "tu": [
+    {
+     "tu": "Blade Twin",
+     "loai": "Thuật ngữ",
+     "mo_ta": "Song Kiếm: cặp sát thủ được huấn luyện cùng nhau của Veiled Edge (nhân vật chính và người song kiếm)"
+    },
+    {
+     "tu": "Veiled Edge",
+     "loai": "Phe phái / Tổ chức",
+     "mo_ta": "làng/tổ chức sát thủ chống Mạc phủ đã nuôi dạy nhân vật chính"
+    },
+    {
+     "tu": "Bladesmith",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; thủ lĩnh Veiled Edge, người thầy nghiêm khắc của cặp Song Kiếm; dịch 'Thợ Rèn Kiếm'",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Ryoma Sakamoto",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; lãng nhân phóng khoáng, lạc quan, mơ về nước Nhật dân chủ; đồng minh thân thiết",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Shoin Yoshida",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; nhà tư tưởng chống Mạc phủ, thầy của nhiều chí sĩ",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Kaishu Katsu",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; quan chức Mạc phủ cấp tiến, muốn hiện đại hóa không đổ máu",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Matthew Perry",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; Đề đốc hải quân Mỹ ép Nhật mở cửa; mục tiêu ám sát đầu game",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Ii Naosuke",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; Đại lão (tể tướng) Mạc phủ, đàn áp phe chống đối",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Takasugi Shinsaku",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; chí sĩ phiên Choshu chống Mạc phủ, ngông cuồng",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Genzui Kusaka",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; chí sĩ Choshu chống Mạc phủ, nhiệt huyết",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Yoshinobu Tokugawa",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; Tướng quân (Shogun) cuối cùng",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Shinsengumi",
+     "loai": "Phe phái / Tổ chức",
+     "mo_ta": "Tân Tuyển Tổ: đội kiếm sĩ bảo vệ Mạc phủ ở Kyoto"
+    },
+    {
+     "tu": "Shogunate",
+     "loai": "Phe phái / Tổ chức",
+     "mo_ta": "Mạc phủ Tokugawa; 'Shogun' = Tướng quân"
+    },
+    {
+     "tu": "Choshu",
+     "loai": "Phe phái / Tổ chức",
+     "mo_ta": "phiên Choshu (chống Mạc phủ)"
+    },
+    {
+     "tu": "Satsuma",
+     "loai": "Phe phái / Tổ chức",
+     "mo_ta": "phiên Satsuma"
+    },
+    {
+     "tu": "Yokohama",
+     "loai": "Địa danh",
+     "mo_ta": "cảng Yokohama"
+    },
+    {
+     "tu": "Edo",
+     "loai": "Địa danh",
+     "mo_ta": "Edo (Tokyo ngày nay), kinh đô Mạc phủ"
+    },
+    {
+     "tu": "Kyoto",
+     "loai": "Địa danh",
+     "mo_ta": "Kyoto"
+    }
+   ]
+  },
+  {
+   "ten": "Ratchet & Clank: Rift Apart",
+   "nen_tang": "PS5 / PC",
+   "phong_cach": "hien_dai",
+   "mo_ta_game": "Phiêu lưu khoa học viễn tưởng vui nhộn. Tiến sĩ Nefarious cướp cỗ máy Dimensionator làm rách không gian; Ratchet và robot Clank bị lạc sang một chiều không gian khác, nơi Hoàng đế Nefarious cai trị. Tại đó họ gặp Rivet — một Lombax nữ chiến binh nổi dậy — và robot Kit. Giọng điệu hài hước, thân thiện, hợp mọi lứa tuổi. Xưng hô gợi ý: Ratchet ↔ Clank: bạn thân, 'tớ' – 'cậu'; Rivet ↔ Kit: chị – em/đồng đội; Rivet ↔ Ratchet: 'tôi' – 'anh'; Nefarious: 'ta' – 'ngươi'/'lũ các ngươi'.",
+   "tu": [
+    {
+     "tu": "Ratchet",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; nhân vật chính; Lombax (giống như mèo tai to) cuối cùng ở chiều không gian của mình, thợ máy, anh hùng vui tính",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Clank",
+     "loai": "Tên nhân vật",
+     "mo_ta": "robot nhỏ thông minh, điềm đạm, bạn thân của Ratchet",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Rivet",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; Lombax nữ ở chiều không gian khác, chiến binh nổi dậy, mạnh mẽ, hơi cô độc, có cánh tay máy",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Kit",
+     "loai": "Tên nhân vật",
+     "mo_ta": "robot nữ nhút nhát, có bí mật quá khứ (Kit Nine); bạn đồng hành của Rivet",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Dr. Nefarious",
+     "loai": "Tên nhân vật",
+     "mo_ta": "phản diện; Tiến sĩ Nefarious, robot ác độc, nóng nảy, hay đơ máy",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Emperor Nefarious",
+     "loai": "Tên nhân vật",
+     "mo_ta": "phản diện; Hoàng đế Nefarious, phiên bản Nefarious ở chiều không gian khác, độc tài",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Glitch",
+     "loai": "Tên nhân vật",
+     "mo_ta": "robot diệt virus tí hon, hăng hái",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Captain Qwark",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; 'anh hùng' khoác lác, ngốc nghếch",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Rusty Pete",
+     "loai": "Tên nhân vật",
+     "mo_ta": "robot cướp biển, phụ tá của Nefarious",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Mrs. Zurkon",
+     "loai": "Tên nhân vật",
+     "mo_ta": "robot bán vũ khí, nói ngôi thứ ba ('Mrs. Zurkon…'), thích bạo lực vui vẻ",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Phantom",
+     "loai": "Tên nhân vật",
+     "mo_ta": "chiến binh bí ẩn trong bóng tối, bạn cũ của Rivet",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Dimensionator",
+     "loai": "Vật phẩm",
+     "mo_ta": "cỗ máy mở cổng giữa các chiều không gian"
+    },
+    {
+     "tu": "rift",
+     "loai": "Thuật ngữ",
+     "mo_ta": "vết nứt không gian (Rift)"
+    },
+    {
+     "tu": "Dimensional Anomaly",
+     "loai": "Thuật ngữ",
+     "mo_ta": "Dị thường Không gian"
+    },
+    {
+     "tu": "Lombax",
+     "loai": "Quái vật / Sinh vật",
+     "mo_ta": "giống loài của Ratchet và Rivet"
+    },
+    {
+     "tu": "Speetle",
+     "loai": "Quái vật / Sinh vật",
+     "mo_ta": "bọ cánh cứng bay để cưỡi"
+    },
+    {
+     "tu": "Megalopolis",
+     "loai": "Địa danh",
+     "mo_ta": "thành phố Megalopolis"
+    },
+    {
+     "tu": "Zurkie's",
+     "loai": "Địa danh",
+     "mo_ta": "quán bar Zurkie's"
+    }
+   ]
+  },
+  {
+   "ten": "Marvel's Spider-Man: Miles Morales",
+   "nen_tang": "PS4 / PS5 / PC",
+   "phong_cach": "hien_dai",
+   "mo_ta_game": "New York mùa đông, khu Harlem. Miles Morales, cậu Người Nhện trẻ được Peter Parker dạy dỗ, phải tự bảo vệ thành phố khi Peter đi vắng, giữa cuộc chiến của tập đoàn năng lượng Roxxon và băng Underground do Tinkerer cầm đầu. Giọng điệu trẻ trung, gia đình, cộng đồng. Xưng hô gợi ý: Miles ↔ Rio: con – mẹ; Miles ↔ Peter: em – anh; Miles ↔ Aaron: cháu – chú; Miles ↔ Ganke/Phin: 'tớ' – 'cậu'; phản diện: 'tao' – 'mày'.",
+   "tu": [
+    {
+     "tu": "Miles Morales",
+     "loai": "Tên nhân vật",
+     "mo_ta": "17 tuổi; nhân vật chính; Người Nhện mới, tốt bụng, hay lo, có nọc độc điện và tàng hình",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Peter Parker",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; Người Nhện đàn anh, thầy của Miles",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Rio Morales",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; mẹ của Miles, ứng cử viên hội đồng thành phố, mạnh mẽ",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Ganke Lee",
+     "loai": "Tên nhân vật",
+     "mo_ta": "17 tuổi; bạn thân của Miles, rành công nghệ, biết bí mật của Miles",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Phin Mason",
+     "loai": "Tên nhân vật",
+     "mo_ta": "17 tuổi; bạn thân cũ của Miles, thiên tài; chính là Tinkerer, thủ lĩnh Underground",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Tinkerer",
+     "loai": "Tên nhân vật",
+     "mo_ta": "= Phin Mason, phản diện đeo mặt nạ",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Aaron Davis",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; chú ruột của Miles, chính là Prowler (Kẻ Rình Rập)",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Prowler",
+     "loai": "Tên nhân vật",
+     "mo_ta": "= Aaron Davis, kẻ đánh thuê đeo giáp",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Simon Krieger",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; giám đốc Roxxon, phản diện mưu mô",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Rhino",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; tên tội phạm to lớn trong bộ giáp tê giác",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Underground",
+     "loai": "Phe phái / Tổ chức",
+     "mo_ta": "băng Underground của Tinkerer"
+    },
+    {
+     "tu": "Roxxon",
+     "loai": "Phe phái / Tổ chức",
+     "mo_ta": "tập đoàn năng lượng Roxxon"
+    },
+    {
+     "tu": "Nuform",
+     "loai": "Thuật ngữ",
+     "mo_ta": "nguồn năng lượng mới của Roxxon"
+    },
+    {
+     "tu": "Harlem",
+     "loai": "Địa danh",
+     "mo_ta": "khu Harlem, New York"
+    }
+   ]
+  },
+  {
+   "ten": "Call of Duty: Black Ops 7",
+   "nen_tang": "PS4 / PS5 / Xbox / PC",
+   "phong_cach": "quan_su",
+   "mo_ta_game": "Bắn súng quân sự tương lai gần (thập niên 2030). David Mason dẫn đội đặc nhiệm JSOC đối đầu The Guild — tập đoàn công nghệ của Emma Kagan — trong khi bóng ma của trùm khủng bố Raul Menendez quay lại. Có yếu tố ảo giác, công nghệ quân sự tối tân. Giọng điệu căng thẳng, quân đội, chửi thề. Xưng hô gợi ý: đồng đội xưng 'tôi', gọi tên/biệt danh hoặc 'cậu'; Harper ↔ Mason: chiến hữu lâu năm, 'tôi' – 'cậu'; phản diện: 'ta' – 'các người'.",
+   "tu": [
+    {
+     "tu": "David Mason",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; nhân vật chính; con trai Alex Mason, được Frank Woods nuôi lớn; chỉ huy đội đặc nhiệm",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Mike Harper",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; lính đặc nhiệm Hải quân lão luyện, thô lỗ, thẳng tính; chiến hữu của Mason",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Eric Samuels",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; xạ thủ cừ khôi, từng ở Mật vụ bảo vệ Tổng thống",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Leilani Tupuola",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; biệt danh '50/50', nữ chiến binh có tay chân cơ khí",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Emma Kagan",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; CEO tập đoàn The Guild, tham vọng quyền lực",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Raul Menendez",
+     "loai": "Tên nhân vật",
+     "mo_ta": "già; trùm khủng bố/ma túy cũ, kẻ thù của gia đình Mason",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Frank Woods",
+     "loai": "Tên nhân vật",
+     "mo_ta": "già; cựu binh huyền thoại, người nuôi lớn David Mason",
+     "gioi": "nam"
+    },
+    {
+     "tu": "The Guild",
+     "loai": "Phe phái / Tổ chức",
+     "mo_ta": "tập đoàn công nghệ The Guild (Hội), phe địch"
+    },
+    {
+     "tu": "JSOC",
+     "loai": "Phe phái / Tổ chức",
+     "mo_ta": "Bộ Chỉ huy Tác chiến Đặc biệt Liên hợp (Mỹ)"
+    }
+   ]
+  },
+  {
+   "ten": "Mortal Kombat 1",
+   "nen_tang": "PS5 / Xbox Series X|S / Switch / PC",
+   "phong_cach": "than_thoai",
+   "mo_ta_game": "Game đối kháng. Thần Lửa Liu Kang tạo lại toàn bộ dòng thời gian, mọi nhân vật có cuộc đời mới; Earthrealm (Trái Đất) và Outworld (Ngoại Giới) sống hòa bình cho tới khi phù thủy Shang Tsung cùng Quan Chi âm mưu phá hoại. Giọng điệu võ thuật huyền bí, nhiều đấu khẩu. Xưng hô gợi ý: Liu Kang ↔ các chiến binh: thầy – trò ('ta' – 'các con'); Raiden ↔ Kung Lao: bạn thân, 'tôi'/'tớ' – 'cậu'; hoàng tộc Outworld: 'ta' – 'ngươi'; kẻ thù: 'ta' – 'ngươi'.",
+   "tu": [
+    {
+     "tu": "Liu Kang",
+     "loai": "Tên nhân vật",
+     "mo_ta": "bất tử; Thần Lửa, người tạo ra dòng thời gian mới, bảo hộ Earthrealm",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Raiden",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; nông dân hiền lành được chọn làm Nhà vô địch Earthrealm",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Kung Lao",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; chiến binh ngạo nghễ, bạn thân của Raiden",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Johnny Cage",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; diễn viên điện ảnh tự cao, hài hước",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Kenshi",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; kiếm sĩ, dân xã hội đen hoàn lương",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Kitana",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; công chúa Outworld",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Mileena",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; công chúa Outworld, mắc bệnh Tarkat; chị song sinh của Kitana",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Sindel",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; Hoàng hậu Outworld",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Shang Tsung",
+     "loai": "Tên nhân vật",
+     "mo_ta": "phản diện; phù thủy hút linh hồn, mưu mô",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Quan Chi",
+     "loai": "Tên nhân vật",
+     "mo_ta": "phản diện; pháp sư hắc ám",
+     "gioi": "nam"
+    },
+    {
+     "tu": "General Shao",
+     "loai": "Tên nhân vật",
+     "mo_ta": "phản diện; tướng quân Outworld tham vọng",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Scorpion",
+     "loai": "Tên nhân vật",
+     "mo_ta": "Kuai Liang, chiến binh lửa của Lin Kuei/Shirai Ryu",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Sub-Zero",
+     "loai": "Tên nhân vật",
+     "mo_ta": "Bi-Han, sát thủ băng giá của Lin Kuei",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Earthrealm",
+     "loai": "Địa danh",
+     "mo_ta": "Thế Giới Trần (Trái Đất)"
+    },
+    {
+     "tu": "Outworld",
+     "loai": "Địa danh",
+     "mo_ta": "Ngoại Giới"
+    },
+    {
+     "tu": "Lin Kuei",
+     "loai": "Phe phái / Tổ chức",
+     "mo_ta": "tổ chức sát thủ Lin Kuei"
+    }
+   ]
+  },
+  {
+   "ten": "Street Fighter 6",
+   "nen_tang": "PS4 / PS5 / Xbox / PC",
+   "phong_cach": "hien_dai",
+   "mo_ta_game": "Game đối kháng. Chế độ World Tour: người chơi tự tạo nhân vật đến Metro City học võ từ các võ sư nổi tiếng (Ryu, Chun-Li, Ken…), đối đầu tổ chức Nayshall và JP. Giọng điệu vui, năng động, đường phố. Xưng hô gợi ý: võ sư ↔ người chơi: thầy – trò hoặc 'tôi' – 'cậu'; Luke ↔ người chơi: anh – em, thân thiện; Jamie: 'tôi'/'tao' – 'cậu' kiểu dân đường phố; JP: 'ta' – 'ngươi'.",
+   "tu": [
+    {
+     "tu": "Luke",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; võ sĩ MMA cựu quân nhân, nhiệt tình, dẫn dắt người chơi",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Ryu",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; võ sĩ lang thang, kiệm lời, theo đuổi võ đạo",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Ken",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; Ken Masters, bạn thân của Ryu, bị gài bẫy, phải trốn chạy",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Chun-Li",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; nữ cảnh sát Interpol kỳ cựu, thầy dạy kungfu",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Jamie",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; võ sĩ túy quyền ở khu Chinatown",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Kimberly",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; nữ ninja vui nhộn",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Juri",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; nữ võ sĩ Hàn Quốc tàn nhẫn, thích gây sự",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Manon",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; người mẫu, võ sĩ judo người Pháp",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Marisa",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; nữ võ sĩ Ý cao lớn, mê sức mạnh",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Lily",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; cô gái thổ dân Thunderfoot",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Guile",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; quân nhân Không quân Mỹ",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Cammy",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; đặc nhiệm Delta Red",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Zangief",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; đô vật Nga",
+     "gioi": "nam"
+    },
+    {
+     "tu": "JP",
+     "loai": "Tên nhân vật",
+     "mo_ta": "già; phản diện; nhà tài phiệt điều hành Nayshall",
+     "gioi": "nam"
+    },
+    {
+     "tu": "A.K.I.",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; nữ sát thủ dùng độc, đệ tử của F.A.N.G",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Metro City",
+     "loai": "Địa danh",
+     "mo_ta": "thành phố Metro City"
+    },
+    {
+     "tu": "Nayshall",
+     "loai": "Phe phái / Tổ chức",
+     "mo_ta": "tổ chức Nayshall của JP"
+    }
+   ]
+  },
+  {
+   "ten": "Persona 3 Reload",
+   "nen_tang": "PS4 / PS5 / Xbox / PC",
+   "phong_cach": "nhat_ban",
+   "mo_ta_game": "Học sinh trung học ở thành phố Nhật Bản. Mỗi đêm có 'Giờ Bóng Tối' (Dark Hour) bí ẩn: người thường hóa quan tài, quái vật Shadow xuất hiện, trường học thành tòa tháp Tartarus. Nhóm SEES dùng sức mạnh Persona chiến đấu. Giọng điệu đời sống học đường xen kinh dị, trầm buồn về cái chết. Xưng hô gợi ý: bạn cùng lớp: 'tớ' – 'cậu'; với đàn anh/chị (Mitsuru, Akihiko): xưng 'em', gọi 'anh'/'chị' hoặc giữ 'senpai'; Mitsuru: 'tôi' – 'cậu/các cậu' (trang trọng); Aigis: robot, nói lễ phép 'tôi'; Ken (trẻ con): 'em'.",
+   "tu": [
+    {
+     "tu": "Makoto Yuki",
+     "loai": "Tên nhân vật",
+     "mo_ta": "học sinh; nhân vật chính, ít nói, lãnh đạo SEES (người chơi có thể đặt tên khác)",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Yukari Takeba",
+     "loai": "Tên nhân vật",
+     "mo_ta": "học sinh; cô gái nổi tiếng, bắn cung, thẳng thắn; Persona Io",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Junpei Iori",
+     "loai": "Tên nhân vật",
+     "mo_ta": "học sinh; bạn cùng lớp vui tính, hay đùa, đội mũ lưỡi trai",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Akihiko Sanada",
+     "loai": "Tên nhân vật",
+     "mo_ta": "học sinh năm 3; đội trưởng câu lạc bộ quyền anh, mê tập luyện; đàn anh",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Mitsuru Kirijo",
+     "loai": "Tên nhân vật",
+     "mo_ta": "học sinh năm 3; chủ tịch hội học sinh, con nhà tài phiệt Kirijo, nghiêm túc; đàn chị",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Fuuka Yamagishi",
+     "loai": "Tên nhân vật",
+     "mo_ta": "học sinh; cô gái nhút nhát, hỗ trợ dò tìm cho nhóm",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Aigis",
+     "loai": "Tên nhân vật",
+     "mo_ta": "robot chiến đấu dáng thiếu nữ, nói chuyện máy móc, rất quý nhân vật chính",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Ken Amada",
+     "loai": "Tên nhân vật",
+     "mo_ta": "học sinh tiểu học (10 tuổi); cậu bé chín chắn, mang nỗi đau mất mẹ",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Koromaru",
+     "loai": "Quái vật / Sinh vật",
+     "mo_ta": "chú chó Shiba trắng dũng cảm của SEES",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Shinjiro Aragaki",
+     "loai": "Tên nhân vật",
+     "mo_ta": "học sinh năm 3; chàng trai lầm lì, tốt bụng ngầm, bạn thân Akihiko",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Ryoji Mochizuki",
+     "loai": "Tên nhân vật",
+     "mo_ta": "học sinh chuyển trường, đào hoa, bí ẩn",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Shuji Ikutsuki",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; cố vấn của SEES, hay kể chuyện cười nhạt",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Igor",
+     "loai": "Tên nhân vật",
+     "mo_ta": "già; chủ Phòng Nhung (Velvet Room)",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Elizabeth",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; trợ lý ở Phòng Nhung",
+     "gioi": "nu"
+    },
+    {
+     "tu": "SEES",
+     "loai": "Phe phái / Tổ chức",
+     "mo_ta": "Đội Hành Động Đặc Biệt Ngoại Khóa"
+    },
+    {
+     "tu": "Dark Hour",
+     "loai": "Thuật ngữ",
+     "mo_ta": "Giờ Bóng Tối"
+    },
+    {
+     "tu": "Tartarus",
+     "loai": "Địa danh",
+     "mo_ta": "tòa tháp Tartarus"
+    },
+    {
+     "tu": "Shadow",
+     "loai": "Quái vật / Sinh vật",
+     "mo_ta": "quái vật Bóng Tối"
+    },
+    {
+     "tu": "Gekkoukan High",
+     "loai": "Địa danh",
+     "mo_ta": "trường cấp ba Gekkoukan"
+    }
+   ]
+  },
+  {
+   "ten": "Final Fantasy XV",
+   "nen_tang": "PS4 / Xbox One / PC",
+   "phong_cach": "than_thoai",
+   "mo_ta_game": "Hoàng tử Noctis của vương quốc Lucis cùng 3 người bạn thân lái xe lên đường đến Altissia để cưới hôn thê Lunafreya, đúng lúc đế quốc Niflheim tấn công thủ đô Insomnia. Hành trình road trip của tình bạn biến thành cuộc chiến giành lại ngai vàng. Giọng điệu phiêu lưu, tình bạn, về sau bi tráng. Xưng hô gợi ý: 4 người bạn: thân, 'tớ'/'tao' – 'cậu'/'mày' tùy lúc; Ignis gọi Noctis 'Noct'; Gladio coi Noctis như em, hay cằn nhằn; Noctis ↔ Regis: con – cha; Noctis ↔ Lunafreya: 'anh' – 'em'; Ardyn: 'ta' – 'ngươi'/'hoàng tử'.",
+   "tu": [
+    {
+     "tu": "Noctis",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; nhân vật chính; Noctis Lucis Caelum, hoàng tử Lucis, ít nói, hơi lười nhưng tốt bụng",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Gladiolus",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; Gladio, vệ sĩ của Noctis, to khỏe, thẳng tính",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Ignis",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; quân sư, đầu bếp, chín chắn, lịch thiệp",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Prompto",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; bạn thân của Noctis, vui tính, mê chụp ảnh",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Lunafreya",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; Luna, hôn thê của Noctis, Nữ Tiên Tri",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Regis",
+     "loai": "Tên nhân vật",
+     "mo_ta": "già; vua Lucis, cha của Noctis",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Ardyn Izunia",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; Thủ tướng Niflheim, phản diện chính, lịch sự giả tạo, bí ẩn",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Cindy",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; nữ thợ máy ở Hammerhead, giọng miền Nam",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Cid",
+     "loai": "Tên nhân vật",
+     "mo_ta": "già; thợ máy, ông của Cindy",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Iris",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; em gái của Gladiolus",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Cor Leonis",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; Tướng quân Bất Tử của Lucis",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Ravus",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; anh trai Lunafreya, chỉ huy quân Niflheim",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Lucis",
+     "loai": "Địa danh",
+     "mo_ta": "vương quốc Lucis"
+    },
+    {
+     "tu": "Insomnia",
+     "loai": "Địa danh",
+     "mo_ta": "thủ đô Insomnia"
+    },
+    {
+     "tu": "Niflheim",
+     "loai": "Phe phái / Tổ chức",
+     "mo_ta": "đế quốc Niflheim"
+    },
+    {
+     "tu": "Altissia",
+     "loai": "Địa danh",
+     "mo_ta": "thành phố nước Altissia"
+    },
+    {
+     "tu": "Crystal",
+     "loai": "Vật phẩm",
+     "mo_ta": "Pha lê thần thánh của Lucis"
+    }
+   ]
+  },
+  {
+   "ten": "Yakuza 0",
+   "nen_tang": "PS4 / Xbox / PC",
+   "phong_cach": "duong_pho",
+   "mo_ta_game": "Nhật Bản năm 1988, thời bong bóng kinh tế. Kazuma Kiryu, yakuza trẻ, bị gài tội giết người trên một khu đất trống ở Kamurocho; Goro Majima bị giáng chức, quản lý hộp đêm ở Sotenbori (Osaka) và được giao ám sát một mục tiêu. Hai câu chuyện đan xen quanh 'Khu Đất Trống'. Giọng điệu giang hồ, bạo lực xen hài hước. Xưng hô gợi ý: yakuza với nhau: 'tao' – 'mày'; đàn em gọi đàn anh 'đại ca' (aniki); Kiryu ↔ Nishikiyama: anh em kết nghĩa, 'tao' – 'mày'/'Nishiki'; Kiryu ↔ Kazama: con – bố nuôi; Majima: hay gọi người khác 'mày', giọng Kansai; Makoto: 'tôi' – 'anh'.",
+   "tu": [
+    {
+     "tu": "Kazuma Kiryu",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ (20); nhân vật chính; yakuza họ Dojima, trọng nghĩa khí, ít nói, đánh nhau giỏi",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Goro Majima",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ (24); nhân vật chính thứ 2; yakuza bị giáng chức, quản lý hộp đêm Grand, chột mắt, lịch thiệp bề ngoài",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Nishikiyama",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; Akira Nishikiyama, anh em kết nghĩa của Kiryu",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Shintaro Kazama",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; cha nuôi của Kiryu, đang ngồi tù",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Sohei Dojima",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; trưởng họ Dojima, tham lam, nóng nảy",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Kuze",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; Daisaku Kuze, trung úy họ Dojima, cứng đầu, đánh với Kiryu nhiều lần",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Shibusawa",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; Keiji Shibusawa, trung úy họ Dojima, lạnh lùng, mưu mô",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Awano",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; Hiroki Awano, trung úy họ Dojima, phóng túng",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Tachibana",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; Tetsu Tachibana, giám đốc công ty bất động sản, giúp Kiryu",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Makoto Makimura",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; cô gái mù, mục tiêu Majima được giao ám sát, hiền lành",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Sagawa",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; Tsukasa Sagawa, ông chủ của Majima ở Sotenbori, cáo già",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Tojo Clan",
+     "loai": "Phe phái / Tổ chức",
+     "mo_ta": "gia tộc Tojo (băng yakuza lớn nhất Tokyo)"
+    },
+    {
+     "tu": "Dojima Family",
+     "loai": "Phe phái / Tổ chức",
+     "mo_ta": "họ Dojima"
+    },
+    {
+     "tu": "Kamurocho",
+     "loai": "Địa danh",
+     "mo_ta": "khu Kamurocho (Tokyo)"
+    },
+    {
+     "tu": "Sotenbori",
+     "loai": "Địa danh",
+     "mo_ta": "khu Sotenbori (Osaka)"
+    },
+    {
+     "tu": "Empty Lot",
+     "loai": "Thuật ngữ",
+     "mo_ta": "Khu Đất Trống, mảnh đất tranh chấp"
+    },
+    {
+     "tu": "aniki",
+     "loai": "Thuật ngữ",
+     "mo_ta": "'đại ca' (cách đàn em gọi đàn anh)"
+    }
+   ]
+  },
+  {
+   "ten": "Doom: The Dark Ages",
+   "nen_tang": "PS5 / Xbox Series X|S / PC",
+   "phong_cach": "than_thoai",
+   "mo_ta_game": "Tiền truyện của DOOM (2016): thế giới trung cổ khoa học viễn tưởng. Doom Slayer là vũ khí của các Maykr và vương quốc Sentinel, chiến đấu chống đạo quân Địa Ngục của Hoàng tử Ahzrak đang săn lùng Trái Tim Argent. Giọng điệu sử thi, u tối, lời thoại trang trọng kiểu trung cổ. Xưng hô gợi ý: Sentinel nói trang trọng 'ta' – 'ngươi'/'ngài'; Thira ↔ Doom Slayer: 'ta' – 'ngươi', về sau tôn trọng; quỷ dữ: 'ta' – 'ngươi'/'kẻ sát thần'. Doom Slayer gần như không nói.",
+   "tu": [
+    {
+     "tu": "Doom Slayer",
+     "loai": "Tên nhân vật",
+     "mo_ta": "nhân vật chính; chiến binh bất khả chiến bại, gần như không nói; dịch 'Doom Slayer' hoặc 'Kẻ Sát Quỷ'",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Thira",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; Commander Thira, con gái vua Novik, người thừa kế ngai vàng Sentinel, chỉ huy quân đội",
+     "gioi": "nu"
+    },
+    {
+     "tu": "King Novik",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; vua của Sentinel, chiến binh",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Valen",
+     "loai": "Tên nhân vật",
+     "mo_ta": "Commander Valen, anh hùng chiến trận, ủng hộ Doom Slayer"
+    },
+    {
+     "tu": "Ahzrak",
+     "loai": "Tên nhân vật",
+     "mo_ta": "phản diện chính; Hoàng tử Địa Ngục, săn lùng Trái Tim Argent",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Kreed Maykr",
+     "loai": "Tên nhân vật",
+     "mo_ta": "Giám mục của Bộ (Ministry) Maykr, động cơ mờ ám",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Sentinels",
+     "loai": "Phe phái / Tổ chức",
+     "mo_ta": "các Hiệp Sĩ Sentinel"
+    },
+    {
+     "tu": "Maykr",
+     "loai": "Phe phái / Tổ chức",
+     "mo_ta": "tộc Maykr (giống thiên thần)"
+    },
+    {
+     "tu": "Hell",
+     "loai": "Địa danh",
+     "mo_ta": "Địa Ngục"
+    },
+    {
+     "tu": "Heart of Argent",
+     "loai": "Vật phẩm",
+     "mo_ta": "Trái Tim Argent"
+    }
+   ]
+  },
+  {
+   "ten": "Borderlands 4",
+   "nen_tang": "PS5 / Xbox Series X|S / Switch 2 / PC",
+   "phong_cach": "hien_dai",
+   "mo_ta_game": "Bắn súng nhập vai hài hước. Hành tinh Kairos bị lộ vị trí khi mặt trăng Elpis rơi xuống; 4 Vault Hunter mới tới tìm Vault (kho báu ngoài hành tinh) nhưng bị bắt và gắn chốt điều khiển của tên độc tài Timekeeper. Họ gia nhập quân Kháng chiến Crimson để lật đổ hắn. Giọng điệu điên rồ, đùa cợt, chửi thề nhiều. Xưng hô gợi ý: các nhân vật nói suồng sã 'tao' – 'mày' hoặc 'tôi' – 'cậu'; Claptrap: robot lắm mồm, tự xưng 'tôi'; Timekeeper: 'ta' – 'các ngươi'.",
+   "tu": [
+    {
+     "tu": "Vault Hunter",
+     "loai": "Thuật ngữ",
+     "mo_ta": "Thợ săn Kho báu: nhân vật người chơi; giữ 'Vault Hunter'"
+    },
+    {
+     "tu": "Vault",
+     "loai": "Thuật ngữ",
+     "mo_ta": "Kho báu ngoài hành tinh (Vault)"
+    },
+    {
+     "tu": "Rafa",
+     "loai": "Tên nhân vật",
+     "mo_ta": "Vault Hunter; cựu quân nhân mặc giáp Exo",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Harlowe",
+     "loai": "Tên nhân vật",
+     "mo_ta": "Vault Hunter; nhà khoa học điều khiển trọng lực",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Amon",
+     "loai": "Tên nhân vật",
+     "mo_ta": "Vault Hunter; Forgeknight, chiến binh to lớn",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Vex",
+     "loai": "Tên nhân vật",
+     "mo_ta": "Vault Hunter; Siren điều khiển linh hồn",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Timekeeper",
+     "loai": "Tên nhân vật",
+     "mo_ta": "phản diện chính; độc tài cai trị Kairos",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Claptrap",
+     "loai": "Tên nhân vật",
+     "mo_ta": "robot lắm mồm, dở hơi, thủ lĩnh còn sót lại của Kháng chiến"
+    },
+    {
+     "tu": "Moxxi",
+     "loai": "Tên nhân vật",
+     "mo_ta": "Mad Moxxi, chủ quán bar quyến rũ",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Zane",
+     "loai": "Tên nhân vật",
+     "mo_ta": "Zane Flynt, cựu Vault Hunter già lém lỉnh",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Amara",
+     "loai": "Tên nhân vật",
+     "mo_ta": "Siren cũ, đi tìm Lilith",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Lilith",
+     "loai": "Tên nhân vật",
+     "mo_ta": "Siren huyền thoại",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Kairos",
+     "loai": "Địa danh",
+     "mo_ta": "hành tinh Kairos"
+    },
+    {
+     "tu": "Order",
+     "loai": "Phe phái / Tổ chức",
+     "mo_ta": "quân Order của Timekeeper"
+    },
+    {
+     "tu": "Crimson Resistance",
+     "loai": "Phe phái / Tổ chức",
+     "mo_ta": "quân Kháng chiến Crimson"
+    },
+    {
+     "tu": "Rippers",
+     "loai": "Phe phái / Tổ chức",
+     "mo_ta": "băng cướp Rippers"
+    },
+    {
+     "tu": "Siren",
+     "loai": "Thuật ngữ",
+     "mo_ta": "Siren: phụ nữ có siêu năng lực"
+    }
+   ]
+  },
+  {
+   "ten": "Dragon Ball: Sparking! Zero",
+   "nen_tang": "PS5 / Xbox Series X|S / Switch / PC",
+   "phong_cach": "than_thoai",
+   "mo_ta_game": "Game đối kháng 3D theo truyện Dragon Ball (Z, Super). Chế độ Episode Battle kể lại các trận đánh lớn từ góc nhìn Goku, Vegeta, Gohan, Piccolo… cùng nhiều nhánh 'nếu như'. Giọng điệu hào hùng, nhiều tiếng hét, đấu khẩu. Xưng hô gợi ý: Goku ↔ Gohan/Goten: bố – con; Vegeta ↔ Goku: 'ta' – 'mày', gọi Goku là 'Kakarot'; Piccolo ↔ Gohan: thầy – trò ('ta' – 'nhóc'); phản diện (Frieza, Cell, Buu): 'ta' – 'ngươi'/'lũ khỉ Saiyan'; Krillin ↔ Goku: bạn thân 'tớ' – 'cậu'.",
+   "tu": [
+    {
+     "tu": "Goku",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ trung niên; Son Goku, chiến binh Saiyan hiền lành, mê đánh nhau và ăn",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Kakarot",
+     "loai": "Tên nhân vật",
+     "mo_ta": "tên Saiyan của Goku (Vegeta hay gọi)",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Vegeta",
+     "loai": "Tên nhân vật",
+     "mo_ta": "Hoàng tử Saiyan kiêu ngạo, đối thủ của Goku",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Gohan",
+     "loai": "Tên nhân vật",
+     "mo_ta": "con trai cả của Goku",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Goten",
+     "loai": "Tên nhân vật",
+     "mo_ta": "con trai út của Goku",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Trunks",
+     "loai": "Tên nhân vật",
+     "mo_ta": "con trai Vegeta",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Piccolo",
+     "loai": "Tên nhân vật",
+     "mo_ta": "người Namek, thầy của Gohan",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Krillin",
+     "loai": "Tên nhân vật",
+     "mo_ta": "bạn thân của Goku",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Frieza",
+     "loai": "Tên nhân vật",
+     "mo_ta": "phản diện; bạo chúa vũ trụ, nói lịch sự giả tạo",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Cell",
+     "loai": "Tên nhân vật",
+     "mo_ta": "phản diện; sinh vật nhân tạo",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Majin Buu",
+     "loai": "Tên nhân vật",
+     "mo_ta": "phản diện; ma nhân hồng",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Beerus",
+     "loai": "Tên nhân vật",
+     "mo_ta": "Thần Hủy Diệt",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Whis",
+     "loai": "Tên nhân vật",
+     "mo_ta": "thiên sứ, thầy của Beerus",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Broly",
+     "loai": "Tên nhân vật",
+     "mo_ta": "Saiyan huyền thoại",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Android 18",
+     "loai": "Tên nhân vật",
+     "mo_ta": "người máy, vợ Krillin",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Bulma",
+     "loai": "Tên nhân vật",
+     "mo_ta": "thiên tài, vợ Vegeta",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Saiyan",
+     "loai": "Thuật ngữ",
+     "mo_ta": "tộc người Saiyan"
+    },
+    {
+     "tu": "Super Saiyan",
+     "loai": "Thuật ngữ",
+     "mo_ta": "Siêu Saiyan"
+    },
+    {
+     "tu": "Kamehameha",
+     "loai": "Kỹ năng / Phép",
+     "mo_ta": "chiêu Kamehameha (giữ nguyên)"
+    },
+    {
+     "tu": "Dragon Balls",
+     "loai": "Vật phẩm",
+     "mo_ta": "Ngọc Rồng"
     }
    ]
   }
