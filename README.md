@@ -4,10 +4,10 @@
 Có bản cho **Windows**, **macOS** và **Android**, đều có chế độ **chơi PS5 dịch trên TV**.
 
 ## ⬇️ Tải ứng dụng
-- **🪟 Windows 10/11 — v4.1:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v4.1) → chọn file `DichPhuDeGame_Windows_Setup_v4.1.exe` (khoảng 220 MB)
+- **🪟 Windows 10/11 — v4.2:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v4.2) → chọn file `DichPhuDeGame_Windows_Setup_v4.2.exe` (khoảng 220 MB). Chrome báo "tệp nguy hiểm"? Bấm Ctrl + J → dấu ⋮ cạnh file → **Tải tệp không an toàn xuống** (ứng dụng chưa có chữ ký số).
 - **📺 Ứng dụng TV (Android TV / Google TV):** cùng trang trên → file `DichGameTV.apk`, hoặc ứng dụng **Downloader** trên TV nhập mã **1314378**
 - **📱 Điện thoại Android:** [bấm vào đây để vào trang tải bản mới nhất](https://github.com/HoangTran4869/DichPhuDeGame-Android/releases/latest) (file `DichPhuDeGame_Android.apk`, khoảng 52 MB; trang riêng bản Android: https://github.com/HoangTran4869/DichPhuDeGame-Android). Điện thoại Chơi từ xa PS5, dịch rồi hiện chữ + giọng đọc trên TV.
-- **📺 TV LG (webOS):** không cần tải — bản Windows / Mac 4.0 tự cài vào TV (⚙️ Cài đặt → TV → Dòng TV: TV LG)
+- **📺 TV LG (webOS):** không cần tải — bản Windows / Mac tự cài vào TV (⚙️ Cài đặt → TV → Dòng TV: TV LG)
 - **🍎 macOS (chip Apple M1 trở lên) — v4.2:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v4.2) → chọn file `DichPhuDeGame_MacOS_v4.2.dmg` (khoảng 105 MB)
 
 ---
@@ -15,7 +15,15 @@ Có bản cho **Windows**, **macOS** và **Android**, đều có chế độ **c
 ## 🆕 Có gì mới
 
 ## 🪟 Windows
-### ✨ v4.1 (mới)
+### ✨ v4.2 (mới)
+- **🎙 Bấm Mic = dịch TOÀN BỘ màn hình:** chữ Việt đè lên đúng chỗ chữ gốc như game đã Việt hoá (menu, túi đồ, kỹ năng, mô tả), chỗ nào dịch xong hiện trước. Đổi màn hình / chuyển thẻ là tắt ngay; đứng yên tối đa 10 giây. Học nút Mic 1 lần: ⚙️ Cài đặt → PS5 → Học nút mic.
+- **🔑 Tự lấy mã Gemini / Groq:** bấm nút cạnh 🌐, ứng dụng tự mở trang, tự tạo mã và tự lưu.
+- **🎬 Phụ đề ổn định hơn:** bỏ chữ rác lúc phụ đề hiện / mờ dần, phụ đề cuộn 2 dòng không đọc lặp, tên nhân vật ở dòng trên không bị đọc to.
+- **🎮 Tìm PS5 trong mạng nhà:** cửa sổ Kết nối PS5 có nút 🔍 Tìm PS5 (tên, IP, đang bật / nghỉ).
+- **📺 TV:** báo đúng lý do khi chưa kết nối, báo khi có máy khác đang dùng TV, nhắc cập nhật ứng dụng TV (Android TV 0.16 / TV LG 1.1.4). TV LG: báo rõ khi chưa bật Key Server.
+- Chữ dịch mặc định **không nền, viền chữ dày**. Sửa lỗi chữ trên cửa sổ không hiện khi mới mở, phóng to cửa sổ hình vẫn nhỏ, màn hình nháy. Không mở được 2 ứng dụng cùng lúc. Thêm 17 game vào thư viện.
+
+### ✨ v4.1
 - **⚡ Dịch nhanh hơn, ít đèn cam:** máy chủ Gemini nào đang quá tải thì tạm xếp xuống cuối, chuyển ngay sang nguồn khác; câu treo bỏ sớm hơn.
 - **🔑 Cần 2 mã Groq** (tạo ở 2 tài khoản Google khác nhau) cùng 3 mã Gemini — chưa đủ mã thì Ứng dụng chưa dịch.
 - **🎮 Ghép đôi PS5:** không tự tìm thấy PS5 thì gõ IP của PS5 là ghép được.

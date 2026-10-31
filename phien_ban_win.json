@@ -1,7 +1,7 @@
 {
-  "phien_ban": "4.1",
-  "ten_phien_ban": "4.1",
-  "ghi_chu": "Bản 4.1:\n- Cải thiện tình trạng chậm (delay) khi dịch.\n- Thêm mã Groq (cần 2 mã, tạo ở 2 tài khoản Google khác nhau).\n- Đổi thuật toán dịch tốt hơn.\n\nTải nhanh bản mới trên GitHub: https://github.com/HoangTran4869/DichPhuDeGame/releases/latest",
-  "tai_ve_exe": "https://github.com/HoangTran4869/DichPhuDeGame/releases/download/v4.1/DichPhuDeGame_Windows_Setup_v4.1.exe",
-  "sha256_exe": "11e883ed6fa468b40bc691964f41639c636bdbab1d41f9cdd607086dc9323eec"
+  "phien_ban": "4.2",
+  "ten_phien_ban": "4.2",
+  "ghi_chu": "Bản 4.2:\n- Bấm Mic: dịch toàn bộ màn hình, chữ Việt đè lên chữ gốc.\n- Tự lấy mã Gemini / Groq. Tìm PS5 trong mạng nhà.\n- Phụ đề ổn định hơn, sửa lỗi chữ trên cửa sổ và kết nối TV.\n\nTải nhanh bản mới trên GitHub: https://github.com/HoangTran4869/DichPhuDeGame/releases/latest",
+  "tai_ve_exe": "https://github.com/HoangTran4869/DichPhuDeGame/releases/download/v4.2/DichPhuDeGame_Windows_Setup_v4.2.exe",
+  "sha256_exe": "87ebcf4e8fe760d30076713b0e30c31b09ebdd13dab162322f921b4c9f38f784"
 }
