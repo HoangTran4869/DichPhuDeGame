@@ -16,6 +16,10 @@ Có bản cho **Windows**, **macOS** và **Android**, đều có chế độ **c
 
 ## 🪟 Windows
 ### ✨ v4.2 (mới)
+> ‼️ **CẬP NHẬT LUÔN ỨNG DỤNG TRÊN TV** (bản máy tính 4.2 cần ứng dụng TV mới để chữ dịch hiện đúng):
+> - **Android TV / Google TV:** mở **Downloader**, nhập mã **1314378**, cài đè lên bản cũ (bản mới: 0.16).
+> - **TV LG:** trên máy tính vào **⚙️ Cài đặt → TV → Bước 1: Cài ứng dụng lên TV LG** (bản mới: 1.1.4).
+
 - **🎙 Bấm Mic = dịch TOÀN BỘ màn hình:** chữ Việt đè lên đúng chỗ chữ gốc như game đã Việt hoá (menu, túi đồ, kỹ năng, mô tả), chỗ nào dịch xong hiện trước. Đổi màn hình / chuyển thẻ là tắt ngay; đứng yên tối đa 10 giây. Học nút Mic 1 lần: ⚙️ Cài đặt → PS5 → Học nút mic.
 - **🔑 Tự lấy mã Gemini / Groq:** bấm nút cạnh 🌐, ứng dụng tự mở trang, tự tạo mã và tự lưu.
 - **🎬 Phụ đề ổn định hơn:** bỏ chữ rác lúc phụ đề hiện / mờ dần, phụ đề cuộn 2 dòng không đọc lặp, tên nhân vật ở dòng trên không bị đọc to.
