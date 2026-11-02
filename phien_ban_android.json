@@ -1,6 +1,6 @@
 {
-  "phien_ban": "1.1.4",
-  "ma_so": 114,
-  "ghi_chu": "Bản 1.1.4:\n- Sửa lỗi phụ đề nhảy chữ, bản dịch ổn định hơn.\n- Báo mã dịch hết lượt trong ngày.\n- Màu chữ hiện đúng trên TV, TV LG báo rõ chưa bật Key Server.\n- Báo lỗi gửi vào nhóm Zalo.\n\nTải bản mới trên GitHub: https://github.com/HoangTran4869/DichPhuDeGame-Android/releases/latest",
+  "phien_ban": "1.1.5",
+  "ma_so": 115,
+  "ghi_chu": "Bản 1.1.5:\n- Bấm Mic: dịch toàn bộ màn hình, chữ Việt đè đúng chỗ chữ gốc.\n- Phụ đề đè đúng lên câu Anh, tên nhân vật nằm dòng riêng.\n- Cỡ chữ, màu, nền dùng chung cho phụ đề và dịch toàn màn hình.\n- Ứng dụng TV mới: TV 0.18 / LG 1.1.6.\n\nTải bản mới trên GitHub: https://github.com/HoangTran4869/DichPhuDeGame-Android/releases/latest",
   "tai_ve_apk": "https://github.com/HoangTran4869/DichPhuDeGame-Android/releases/latest"
 }
