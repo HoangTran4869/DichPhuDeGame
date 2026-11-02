@@ -1,31 +1,47 @@
 # 🎮 Dịch Phụ Đề Game
 
 Đọc phụ đề tiếng Anh trong game và dịch sang tiếng Việt bằng AI (miễn phí), hiện chữ to, đè lên phụ đề game (Windows) và đọc bằng giọng Việt.
-Có bản cho **Windows**, **macOS** và **Android**, đều có chế độ **chơi PS5 dịch trên TV**.
+Có bản cho **Windows** (gồm cả chế độ **chơi PS5 dịch trên TV**) và **macOS**.
 
 ## ⬇️ Tải ứng dụng
-- **🪟 Windows 10/11 — v4.2:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v4.2) → chọn file `DichPhuDeGame_Windows_Setup_v4.2.exe` (khoảng 220 MB). Chrome báo "tệp nguy hiểm"? Bấm Ctrl + J → dấu ⋮ cạnh file → **Tải tệp không an toàn xuống** (ứng dụng chưa có chữ ký số).
+- **🪟 Windows 10/11 — v4.3:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v4.3) → chọn file `DichPhuDeGame_Windows_Setup_v4.3.exe` (khoảng 221 MB)
 - **📺 Ứng dụng TV (Android TV / Google TV):** cùng trang trên → file `DichGameTV.apk`, hoặc ứng dụng **Downloader** trên TV nhập mã **1314378**
-- **📱 Điện thoại Android:** [bấm vào đây để vào trang tải bản mới nhất](https://github.com/HoangTran4869/DichPhuDeGame-Android/releases/latest) (file `DichPhuDeGame_Android.apk`, khoảng 52 MB; trang riêng bản Android: https://github.com/HoangTran4869/DichPhuDeGame-Android). Điện thoại Chơi từ xa PS5, dịch rồi hiện chữ + giọng đọc trên TV.
-- **📺 TV LG (webOS):** không cần tải — bản Windows / Mac tự cài vào TV (⚙️ Cài đặt → TV → Dòng TV: TV LG)
-- **🍎 macOS (chip Apple M1 trở lên) — v4.2:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v4.2) → chọn file `DichPhuDeGame_MacOS_v4.2.dmg` (khoảng 105 MB)
+- **🍎 macOS (chip Apple M1 trở lên) — v4.2:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v4.2) → chọn file `DichPhuDeGame_MacOS_v4.2.dmg`
 
 ---
 
 ## 🆕 Có gì mới
 
 ## 🪟 Windows
-### ✨ v4.2 (mới)
-> ‼️ **CẬP NHẬT LUÔN ỨNG DỤNG TRÊN TV** (bản máy tính 4.2 cần ứng dụng TV mới để chữ dịch hiện đúng):
-> - **Android TV / Google TV:** mở **Downloader**, nhập mã **1314378**, cài đè lên bản cũ (bản mới: 0.16).
-> - **TV LG:** trên máy tính vào **⚙️ Cài đặt → TV → Bước 1: Cài ứng dụng lên TV LG** (bản mới: 1.1.4).
+### 🛠 Sửa lỗi (Windows)
+- **v2.2 (mới):** game có font chữ nghiêng (vd The Longest Journey) không còn bị tưởng nhầm là phụ đề tiếng Việt rồi ngừng dịch.
+- **v2.2 (mới):** chưa kết nối PS5 / chưa thấy capture card → Ứng dụng đứng chờ, không còn tự đọc các câu mẫu khi vừa mở.
+- **v2.2 (mới):** mở Ứng dụng là **🔊 Đọc thoại BẬT** sẵn; cửa sổ mở nhỏ giữa màn hình (không còn bung toàn màn hình).
+- **v2.2 (mới):** bấm **Bỏ qua** ở bảng chọn game → không gắn game nào, dịch tự nhiên (trước đây giữ game cũ, dễ sai thể loại).
+- **v2.2 (mới):** phụ đề tắt sau 2 giây khi câu tiếng Anh đang hiện không còn trong khung (không còn câu dịch "kẹt" khi vào menu / kho đồ).
+- **v2.2 (mới):** Gemini chậm liên tục → tự ưu tiên Groq 5 phút rồi thử lại Gemini.
+- **v2.2 (mới):** đăng nhập PSN ra trang trắng → có nút **📋 Dán địa chỉ trang trắng**.
+- **v2.1b (mới):** ⚙️ Cài đặt → Giọng đọc → **🗣 Chỉ 1 giọng đọc: Bật** → chọn 1 giọng ở ô bên cạnh: mọi nhân vật đều đọc bằng giọng đó.
+- **v2.1b (mới):** ⚙️ Cài đặt → Chữ đè → kiểu **🔠 Không nền, chữ viền rộng**: chữ trắng viền xám đậm dày, dễ đọc trên mọi cảnh game.
+- **v2.1a:** tay cầm **PS5 (DualSense) / PS4** cắm dây hoặc Bluetooth giờ dùng được phím tắt **dịch theo vùng chọn** (L3 + R3…), không cần Steam / DS4Windows.
+- **v2.1a:** bấm **Cập nhật** khi ứng dụng đang mở không còn báo lỗi "DeleteFile failed" / ứng dụng hỏng "init.tcl" — bộ cài tự tắt ứng dụng trước khi cài.
+- Một số máy **không nghe thấy giọng đọc** (file âm thanh vẫn tạo được nhưng không ra loa) → đổi cách phát tiếng, tự thử lần lượt loa đã chọn → loa mặc định → cách cũ.
+- **▶ Nghe thử** luôn đọc (trước đây bấm 2 lần liền thì lần sau im).
+- Mở Ứng dụng lúc Windows chưa nạp xong giọng đọc → Ứng dụng tự tìm lại giọng, không phải mở lại.
+- Game để **Fullscreen độc quyền** (Exclusive Fullscreen) bị thu nhỏ khi chữ đè hiện lên → Ứng dụng tự nhận ra, tạm tắt chữ đè và hướng dẫn chuyển sang **Borderless**.
 
-- **🎙 Bấm Mic = dịch TOÀN BỘ màn hình:** chữ Việt đè lên đúng chỗ chữ gốc như game đã Việt hoá (menu, túi đồ, kỹ năng, mô tả), chỗ nào dịch xong hiện trước. Đổi màn hình / chuyển thẻ là tắt ngay; đứng yên tối đa 10 giây. Học nút Mic 1 lần: ⚙️ Cài đặt → PS5 → Học nút mic.
-- **🔑 Tự lấy mã Gemini / Groq:** bấm nút cạnh 🌐, ứng dụng tự mở trang, tự tạo mã và tự lưu.
-- **🎬 Phụ đề ổn định hơn:** bỏ chữ rác lúc phụ đề hiện / mờ dần, phụ đề cuộn 2 dòng không đọc lặp, tên nhân vật ở dòng trên không bị đọc to.
-- **🎮 Tìm PS5 trong mạng nhà:** cửa sổ Kết nối PS5 có nút 🔍 Tìm PS5 (tên, IP, đang bật / nghỉ).
-- **📺 TV:** báo đúng lý do khi chưa kết nối, báo khi có máy khác đang dùng TV, nhắc cập nhật ứng dụng TV (Android TV 0.16 / TV LG 1.1.4). TV LG: báo rõ khi chưa bật Key Server.
-- Chữ dịch mặc định **không nền, viền chữ dày**. Sửa lỗi chữ trên cửa sổ không hiện khi mới mở, phóng to cửa sổ hình vẫn nhỏ, màn hình nháy. Không mở được 2 ứng dụng cùng lúc. Thêm 17 game vào thư viện.
+### ✨ v4.3 (mới)
+- **🎬 Phụ đề đè đúng lên câu tiếng Anh:** câu 2 dòng thì chữ Việt cũng 2 dòng; **tên nhân vật nằm riêng 1 dòng** (kể cả tên nhiều chữ như "Man in White"). Áp dụng trên cửa sổ máy tính và TV LG.
+- **🎙 Dịch toàn màn hình:** 2 nút cùng hàng (vd "Khôi phục mặc định" và "Đóng") không còn bị gộp làm một; chữ Việt dài tới nút bên cạnh thì tự xuống dòng, không đè lên nhau; sửa vài chữ menu bị gộp / phóng to nhầm.
+- **📺 ỨNG DỤNG TV MỚI (Android TV 0.18 / LG 1.1.6) — BẠN NHỚ CẬP NHẬT:** Ứng dụng trên máy tính tự nhắc khi TV còn bản cũ. TV LG: Ứng dụng tự cài bản mới. Android TV / Google TV: mở **Downloader**, mã **1314378**.
+
+### ✨ v4.2
+- **🔑 Tự lấy mã Gemini / Groq:** bấm nút cạnh 🌐, Ứng dụng tự mở trang, tự tạo mã và tự lưu. Nút **📋 Sao chép mã**; hướng dẫn mở lại đúng bước còn thiếu.
+- **🎬 Phụ đề ổn định hơn:** không gửi đi dịch chữ rác lúc phụ đề hiện / mờ dần (bản dịch không còn đổi liên tục); phụ đề cuộn 2 dòng không đọc lặp; tên nhân vật nằm dòng trên không bị đọc to.
+- **🎮 Tìm PS5 trong mạng nhà:** cửa sổ Kết nối PS5 có nút **🔍 Tìm PS5** liệt kê tên, IP, đang bật / đang nghỉ — bấm là chọn.
+- **📺 TV:** báo đúng lý do khi chưa kết nối được; báo khi có máy khác đang dùng TV; báo khi ứng dụng trên TV cũ. TV LG: báo rõ khi chưa bật Key Server, các bước cài ứng dụng lên TV đưa lên đầu.
+- **🎙 Dịch toàn màn hình:** chỉnh thời gian giữ bản dịch (− / +, 3–30 giây); đoạn mô tả căn giữa không còn bị cắt; trên máy tính tự tắt khi đổi màn hình.
+- Không mở được 2 Ứng dụng cùng lúc (tránh TV chậm, mất kết nối). Hình hướng dẫn kéo khung phụ đề đúng / sai. Thêm 17 game vào thư viện (Battlefield 6, Tekken 8, Monster Hunter…).
 
 ### ✨ v4.1
 - **⚡ Dịch nhanh hơn, ít đèn cam:** máy chủ Gemini nào đang quá tải thì tạm xếp xuống cuối, chuyển ngay sang nguồn khác; câu treo bỏ sớm hơn.
@@ -45,7 +61,9 @@ Có bản cho **Windows**, **macOS** và **Android**, đều có chế độ **c
 - **🔕 Tắt bảng Ủng hộ:** mã kích hoạt nay cấp theo từng máy — bấm **Tắt vĩnh viễn**, gửi **Mã máy** qua Zalo 08888 68086.
 
 ### ✨ v3.0a
-- Chỉ sửa lỗi tính năng **🔊 Chỉ đọc phụ đề tiếng Việt** (không dịch): Windows không có sẵn bộ đọc chữ tiếng Việt nên chữ có dấu hay bị đọc sai → ứng dụng nhờ AI đặt lại đúng dấu rồi mới đọc; câu 1–2 chữ cũng được đọc. Ai không dùng tính năng này thì không cần cập nhật.
+- **🔊 Chỉ đọc thoại (game có sẵn phụ đề Việt) đọc đúng hơn trên Windows:** Windows không có sẵn bộ đọc chữ tiếng Việt nên chữ có dấu hay bị đọc sai / rơi chữ → ứng dụng nhờ AI đặt lại đúng dấu rồi mới đọc (mỗi câu mới tốn 1 lượt, như khi dịch).
+- Bỏ nút "Cài bộ nhận diện chữ tiếng Việt" (Windows không có gói này để cài).
+- Giọng đọc không còn bị tắt tiếng khi gặp chữ lạ.
 
 ### ✨ v3.0
 - **🎙 Dịch cả màn hình (nút Mic / chuột) chính xác hơn:** bỏ qua chữ menu đứng riêng (Map, Inventory, Skill Tree, Save Game…), chỉ dịch phần mô tả, nhiệm vụ, hướng dẫn. Câu ngắn 2 từ ("Run away!") vẫn được dịch.
@@ -59,22 +77,14 @@ Có bản cho **Windows**, **macOS** và **Android**, đều có chế độ **c
 - Cửa sổ **Mã Gemini / Groq** cuộn được trên màn hình nhỏ, nút **🗑 Xóa mã** không còn bị che.
 - Xem YouTube / phim trên trình duyệt không còn bị bỏ câu thoại ngắn.
 
-### 🛠 Sửa lỗi (Windows)
-- **v2.2 (mới):** game có font chữ nghiêng (vd The Longest Journey) không còn bị tưởng nhầm là phụ đề tiếng Việt rồi ngừng dịch.
-- **v2.2 (mới):** chưa kết nối PS5 / chưa thấy capture card → Ứng dụng đứng chờ, không còn tự đọc các câu mẫu khi vừa mở.
-- **v2.2 (mới):** mở Ứng dụng là **🔊 Đọc thoại BẬT** sẵn; cửa sổ mở nhỏ giữa màn hình (không còn bung toàn màn hình).
-- **v2.2 (mới):** bấm **Bỏ qua** ở bảng chọn game → không gắn game nào, dịch tự nhiên (trước đây giữ game cũ, dễ sai thể loại).
-- **v2.2 (mới):** phụ đề tắt sau 2 giây khi câu tiếng Anh đang hiện không còn trong khung (không còn câu dịch "kẹt" khi vào menu / kho đồ).
-- **v2.2 (mới):** Gemini chậm liên tục → tự ưu tiên Groq 5 phút rồi thử lại Gemini.
-- **v2.2 (mới):** đăng nhập PSN ra trang trắng → có nút **📋 Dán địa chỉ trang trắng**.
-- **v2.1b (mới):** ⚙️ Cài đặt → Giọng đọc → **🗣 Chỉ 1 giọng đọc: Bật** → chọn 1 giọng ở ô bên cạnh: mọi nhân vật đều đọc bằng giọng đó.
-- **v2.1b (mới):** ⚙️ Cài đặt → Chữ đè → kiểu **🔠 Không nền, chữ viền rộng**: chữ trắng viền xám đậm dày, dễ đọc trên mọi cảnh game.
-- **v2.1a:** tay cầm **PS5 (DualSense) / PS4** cắm dây hoặc Bluetooth giờ dùng được phím tắt **dịch theo vùng chọn** (L3 + R3…), không cần Steam / DS4Windows.
-- **v2.1a:** bấm **Cập nhật** khi ứng dụng đang mở không còn báo lỗi "DeleteFile failed" / ứng dụng hỏng "init.tcl" — bộ cài tự tắt ứng dụng trước khi cài.
-- Một số máy **không nghe thấy giọng đọc** (file âm thanh vẫn tạo được nhưng không ra loa) → đổi cách phát tiếng, tự thử lần lượt loa đã chọn → loa mặc định → cách cũ.
-- **▶ Nghe thử** luôn đọc (trước đây bấm 2 lần liền thì lần sau im).
-- Mở Ứng dụng lúc Windows chưa nạp xong giọng đọc → Ứng dụng tự tìm lại giọng, không phải mở lại.
-- Game để **Fullscreen độc quyền** (Exclusive Fullscreen) bị thu nhỏ khi chữ đè hiện lên → Ứng dụng tự nhận ra, tạm tắt chữ đè và hướng dẫn chuyển sang **Borderless**.
+### v2.2a — mượt hơn, nét hơn
+- Chọn **60 hình/giây**: PS5 phát đúng 60 hình/giây, hình nét hơn (băng thông 30 Mbps). Máy yếu chọn 30.
+- Đổi 30 / 60 hình/giây và **🔄 Kết nối lại** PS5 chạy ngầm — cửa sổ không còn đứng / xoay chuột.
+- Hình PS5 trong cửa sổ chạy mượt hơn, tự giảm tải khi máy yếu.
+- Bấm **🎙 nút Mic** dịch cả màn hình: hình vẫn chạy như TV; nhân vật di chuyển thì bong bóng dịch tự tắt.
+- Cửa sổ mở ra hiện mờ dần (0,15 giây) cho mượt.
+- Sửa: màn hình có chữ tiếng Việt đứng yên (thanh tác vụ, cửa sổ chat) không còn làm tự chuyển nhầm sang **Chỉ đọc thoại**.
+- **🍎 Đã có bản macOS 2.2** — cùng trang tải này.
 
 ### 🎮 v2.2: GỘP BẢN PS5 — 2 chế độ
 - Mở ứng dụng hiện **2 thẻ**: **🖥 Dịch trên máy tính** (game PC, PS5 Chơi từ xa về máy tính, capture card) và **📺 Chơi PS5 – dịch trên TV**. Đổi lại trong **⚙️ Cài đặt → Chế độ**.
@@ -128,18 +138,21 @@ Có bản cho **Windows**, **macOS** và **Android**, đều có chế độ **c
 - Kiểu mới **🔤 Không nền, chữ viền bóng** (như phụ đề phim) và **chọn màu chữ** (trắng, vàng, xanh…).
 - Bỏ phím tắt Ctrl+Shift+H (hay trùng phím của trình duyệt / game). Chỉ còn phím riêng cho Dịch màn hình.
 
-## 🍎 macOS (v4.2 — mới)
-- **⌨ Phím tắt Dịch màn hình:** Ctrl + Shift + Option (đổi trong ⚙️ Cài đặt → Phím tắt dịch màn hình). Lần đầu macOS hỏi quyền **Giám sát đầu vào (Input Monitoring)** → bật cho Dịch Phụ Đề Game rồi mở lại Ứng dụng.
-- **🖥 Nguồn Màn hình Mac:** bấm phím tắt → kéo chuột / trackpad quanh chỗ cần dịch. Bấm phím tắt lần nữa / Esc / chuột phải để thoát.
-- **🎮 PS5 / Capture card:** phím tắt = dịch cả màn hình (như nút Mic).
+## 🍎 macOS (v4.2)
+### ✨ Mới trong 4.2 (Mac)
+- **⌨ Phím tắt Dịch màn hình** (⚙️ Cài đặt → Phím tắt dịch màn hình): Ctrl + Shift + Option (mặc định), Ctrl + Shift + Z, Ctrl + Shift + X, Ctrl + Option + T. Lần đầu macOS hỏi quyền **Giám sát đầu vào (Input Monitoring)** → bật cho Dịch Phụ Đề Game rồi mở lại Ứng dụng.
+- **🖥 Nguồn Màn hình Mac:** bấm phím tắt → màn hình đứng yên → **kéo chuột / trackpad** quanh chỗ cần dịch (kéo tiếp chỗ khác được). Bấm phím tắt lần nữa, Esc hoặc chuột phải để thoát.
+- **🎮 PS5 / Capture card:** phím tắt = dịch cả màn hình (như nút Mic trên tay cầm).
 
-## 🍎 macOS (v4.1 — giống bản Windows 4.1)
-- **⚡ Dịch nhanh hơn, ít đèn cam;** **🔑 cần 2 mã Groq** (2 tài khoản Google khác nhau) cùng 3 mã Gemini.
-- **🎮 Ghép đôi PS5:** không tự tìm thấy PS5 thì gõ IP của PS5.
-- **📡 Chế độ Stream** (⚙️ Cài đặt): Bật thì chữ dịch, bong bóng và cửa sổ Ứng dụng hiện trên OBS / UltraViewer / chia sẻ màn hình.
+### ✨ Mới trong 4.1 (Mac)
+- **⚡ Dịch nhanh hơn, ít đèn cam:** máy chủ Gemini nào đang quá tải thì tạm xếp xuống cuối, chuyển ngay sang nguồn khác; câu treo bỏ sớm hơn.
+- **🔑 Cần 2 mã Groq** (tạo ở 2 tài khoản Google khác nhau) cùng 3 mã Gemini — chưa đủ mã thì Ứng dụng chưa dịch.
+- **🎮 Ghép đôi PS5:** không tự tìm thấy PS5 thì gõ IP của PS5 là ghép được.
+- Chữ đã là tiếng Việt (menu PS5 tiếng Việt…) không gửi đi dịch, đỡ tốn lượt. Giọng Nữ 2 cao hơn, khác rõ Nữ 1.
 - Sửa lỗi bật/tắt **Dịch bằng chuột** làm hình PS5 bị đen / đứng.
+- **📡 Chế độ Stream** (⚙️ Cài đặt, cả 2 chế độ): Bật thì chữ dịch, bong bóng và cửa sổ Ứng dụng hiện trên OBS / UltraViewer / chia sẻ màn hình.
 
-## 🍎 macOS (v4.0)
+### ✨ Mới trong 4.0 (Mac)
 - **📺 Đã hỗ trợ TV LG (webOS):** ⚙️ Cài đặt → TV → **Dòng TV: TV LG** → nhập IP TV + mã 6 ký tự → Ứng dụng tự cài, tự mở và tự gia hạn ứng dụng trên TV. Bấm nút PS làm TV chuyển nguồn → Ứng dụng tự mở lại. TV Android / Google TV vẫn dùng **Downloader** mã **1314378**.
 - **📺 Chữ trên TV đẹp hơn:** theo đúng kiểu nền + màu chữ trong Cài đặt; **Việt + Anh** hiện thành 1 khung (Anh trên, Việt dưới); có thể **tự chọn vị trí chữ** trên TV.
 - **🎙 Dịch màn hình tốt hơn:** bong bóng dịch tự tắt khi có lời thoại mới hoặc khi nhân vật di chuyển (kể cả đi chậm); không dịch lại mãi dòng hướng dẫn cố định cuối menu; không bỏ sót đoạn mô tả; khung phụ đề kéo quá to không còn chặn dịch màn hình.
@@ -147,51 +160,31 @@ Có bản cho **Windows**, **macOS** và **Android**, đều có chế độ **c
 - **Việt + Anh** trên máy: chữ Anh to bằng chữ Việt, màu cam, ngay dưới. Mục **👥 Giọng nhân vật đã phân vai** dễ hiểu hơn.
 - **🔕 Tắt bảng Ủng hộ:** mã kích hoạt nay cấp theo từng máy — bấm **Tắt vĩnh viễn**, gửi **Mã máy** qua Zalo 08888 68086.
 
-## 🍎 macOS (v3.0)
-- Có đủ các điểm mới của bản 3.0 ở trên (dịch màn hình chính xác hơn, bong bóng không đè nhau, khung phụ đề thông minh hơn, học lại nút mic…).
-- **🖱 Sổ ghi chú lăn chuột / trackpad được** (trước phải kéo thanh trượt).
+### ✨ Mới trong 3.0 (Mac)
+- **🎙 Dịch cả màn hình (nút Mic / chuột) chính xác hơn:** bỏ qua chữ menu đứng riêng (Map, Inventory, Skill Tree, Save Game…), chỉ dịch phần mô tả, nhiệm vụ, hướng dẫn. Câu ngắn 2 từ ("Run away!") vẫn được dịch.
+- **💬 Bong bóng dịch không đè nhau, không đè chữ gốc** dù màn hình nhiều chữ (trên máy và trên TV).
+- **🎬 Khung phụ đề thông minh hơn:** bỏ chữ lẻ lọt vào mép khung (vd "HP"); câu dài hơn khung tự đọc rộng ra để lấy đủ câu; không dịch nhầm đoạn văn dài tràn vào khung.
+- **🗣 Câu thoại ngắn có tên nhân vật** ("Kratos: Run", "Freya: Wait") luôn được dịch.
+- **🎙 Học nút Mic:** bấm **Học lại nút mic** là thay hẳn cái cũ, học được cả khi đang mở menu game.
+- **🔊 Chỉ đọc thoại (game có sẵn phụ đề Việt):** nhìn chữ tiếng Việt có dấu chuẩn hơn.
+- **🖱 Sổ ghi chú lăn chuột / trackpad được** (trước phải kéo thanh trượt). Cửa sổ Mã Gemini / Groq cuộn được, nút **🗑 Xóa mã** không bị che.
+- **⚙️ Ứng dụng nhớ cài đặt lần cuối** (đọc thoại bật/tắt, vị trí cửa sổ).
 
-## 🍎 macOS (v2.2 — giống bản Windows 2.2)
-- Mở ứng dụng chọn **🖥 Dịch trên máy tính** hoặc **📺 Chơi PS5 – dịch trên TV**.
-- **📡 PS5 Chơi từ xa** về Mac, **không cần capture card**: đăng nhập PSN (Chrome / Edge / Brave) + mã 8 số trên PS5. Lần đầu macOS hỏi quyền **Mạng cục bộ** → **Cho phép**.
-- **📺 Chế độ TV**: chữ Việt + giọng đọc hiện thẳng trên TV Android / Google TV, không trễ tay.
-- **🎙 Nút Mic trên tay cầm** = dịch cả màn hình; **dịch bằng chuột** trên hình PS5 trong cửa sổ (30 / 60 hình/giây).
-- **🗣 5 giọng đọc hay** (tải thêm ~335 MB), mỗi nhân vật 1 giọng; thư viện **87 game**; đọc thoại bật sẵn; sửa nhiều lỗi.
-
-## 🍎 macOS (v2.0)
-### 🖥 Dịch cả MÀN HÌNH Mac
-- Ngoài capture card (PS5), giờ chọn được **nguồn Màn hình máy tính**: dịch phụ đề YouTube, phim, game chạy trên Mac.
-- Đổi nguồn trong **⚙️ Cài đặt → Nguồn hình**. Lần đầu macOS hỏi quyền **Ghi màn hình (Screen Recording)** → bật cho app rồi mở lại app.
-- App tự bỏ qua cửa sổ của chính nó khi chụp màn hình → không đọc nhầm chữ dịch của mình.
-
-### 🎯 Chữ dịch ĐÈ LÊN phụ đề
-- Bấm nút **🎯 Đè lên phụ đề**: chữ tiếng Việt hiện ngay trên chỗ phụ đề gốc, **mỗi dòng 1 ô nhỏ vừa khít chữ** (giống phụ đề YouTube).
-- **4 kiểu nền** (⚙️ Cài đặt → Chữ đè): nền sáng chữ đen, xám đen, đen tuyền, đen mờ nhìn xuyên.
-- Xem YouTube / phim **toàn màn hình** vẫn hiện chữ đè; cửa sổ app thu nhỏ nổi ở góc trên bên phải.
-- Chuột bấm xuyên qua chữ đè (không cản nút trên video). A− / A+ chỉnh cỡ chữ đè.
-
-### 🌐 3 chế độ ngôn ngữ (nút sổ danh sách, có dấu ✓)
-- **🇻🇳 Tiếng Việt:** chỉ bản dịch.
-- **🇻🇳+🇬🇧 Việt + Anh:** hiện cả câu gốc và câu dịch, **cùng cỡ chữ**.
-- **🔊 Chỉ đọc thoại:** không dịch, không tốn lượt — phụ đề tiếng Anh đọc giọng Anh, phụ đề tiếng Việt đọc giọng Việt.
-- Game có **sẵn phụ đề tiếng Việt** → app **tự chuyển** sang Chỉ đọc thoại.
-
-### 🧠 Dịch thông minh hơn
-- **Chỉ dịch phụ đề:** tự bỏ qua menu, cài đặt, kho đồ, nút bấm ("[Esc] Back", "Press E to…"), con số, logo in trên video.
-- **Xưng hô nhất quán:** AI xem lại 6 câu trước kèm bản dịch đã dùng, giữ đúng "cậu – tớ", "chị – em"…; giữ đúng giới tính (she → cô ấy / bà ấy); không còn kiểu "cô/bà".
-- Dịch được **câu ngắn** như "No.", "What?", "But no".
-
-### 🔊 Giọng đọc
-- **Thanh trượt âm lượng đọc** (⚙️ Cài đặt) — câu cảm thán vẫn to hơn câu thường đúng tỉ lệ. Có nút **▶ Nghe thử**.
-- **Chọn loa / tai nghe** riêng cho giọng đọc (tiếng game vẫn ra loa cũ). Khuyên dùng "Theo máy".
-
-### 🎨 Giao diện
-- **Giao diện tối (Dark mode)** — ⚙️ Cài đặt → Giao diện.
-- **Kéo cửa sổ app nhỏ tùy ý:** hẹp thì nút chỉ còn biểu tượng, thấp thì chỉ còn chữ dịch.
-- Nút chế độ dạng **sổ danh sách**, đang dùng chế độ nào có dấu ✓.
+### 🎮 v2.2 cho Mac — giống bản Windows 2.2
+- Mở ứng dụng hiện **2 thẻ**: **🖥 Dịch trên máy tính** (màn hình Mac, capture card, PS5 Chơi từ xa) và **📺 Chơi PS5 – dịch trên TV**. Đổi lại trong **⚙️ Cài đặt → 🔁 Chế độ**.
+- **📡 PS5 Chơi từ xa** — Mac tự lấy hình PS5 qua mạng nhà, **không cần capture card**. Làm 1 lần: **🔑 Đăng nhập PSN** (mở bằng Chrome / Edge / Brave) + nhập **mã 8 số** trên PS5 (Cài đặt → Hệ thống → Chơi từ xa → Liên kết thiết bị). Lần đầu macOS hỏi quyền **Mạng cục bộ** → bấm **Cho phép**.
+- **📺 Chế độ TV:** phụ đề Việt đè đúng từng dòng trên TV, **giọng đọc ra loa TV**, PS5 cắm thẳng TV nên **không trễ tay**. Cần ứng dụng **Dịch Game TV** (Android TV / Google TV) — tải bằng ứng dụng **Downloader**, mã **1314378**.
+- **🎙 Nút Mic trên tay cầm = dịch cả màn hình** (menu, túi đồ, kỹ năng). Lần đầu: Cài đặt → PS5 → **Học nút mic**.
+- **🖱 Dịch bằng chuột:** hình PS5 / capture card hiện trong cửa sổ (**30 hoặc 60 hình/giây**), kéo chuột chỗ nào dịch chỗ đó.
+- **🗣 5 giọng đọc hay** (2 nữ, 3 nam, tự nhiên như người thật): Cài đặt → Giọng đọc → **⬇ Tải thêm 5 giọng đọc hay** (~335 MB, tải 1 lần). Mỗi nhân vật 1 giọng.
+- **📚 Thư viện 87 game** (thêm Diablo IV, FF VII Remake, Spider-Man, Lies of P, Onimusha: Dawn of Dreams…).
+- Mở ứng dụng là **🔊 Đọc thoại BẬT** sẵn; cửa sổ mở nhỏ giữa màn hình và hiện mờ dần cho mượt.
+- **👥 Nhóm Facebook**: https://www.facebook.com/groups/1617718573193579 — nhận bản cập nhật, báo lỗi, góp ý.
 
 ### 🛠 Sửa lỗi
-- Chọn khung trên màn hình bị màn đen; chữ đè 2 dòng đè lên nhau; chữ dịch không tự tắt khi hết thoại; nút Nghe thử lúc được lúc không.
+- Game font chữ nghiêng (vd The Longest Journey) không còn bị tưởng là phụ đề tiếng Việt rồi ngừng dịch; chữ tiếng Việt đứng yên (thanh trạng thái, cửa sổ chat) không làm chuyển nhầm sang Chỉ đọc thoại.
+- Bỏ qua chọn game = dịch tự nhiên; phụ đề tắt sau 2 giây khi câu không còn trên màn hình.
+- Kết nối PS5 chạy ngầm, cửa sổ không còn đứng; menu thả xuống / con lăn chuột trong Cài đặt chạy mượt trên Mac.
 
 ---
 
@@ -204,7 +197,7 @@ Có bản cho **Windows**, **macOS** và **Android**, đều có chế độ **c
 - Chế độ **📺 Chơi PS5 trên TV**: cần TV **Android TV / Google TV** (cài ứng dụng Dịch Game TV) và 2 tài khoản PSN trên PS5.
 
 ### Cài đặt
-1. Bấm đúp file **DichPhuDeGame_Windows_Setup_v4.1.exe**.
+1. Bấm đúp file **DichPhuDeGame_Windows_Setup_v4.3.exe**.
 2. Nếu Windows hiện màn hình xanh **"Windows protected your PC"**: bấm **More info** → **Run anyway**.
    (Windows cảnh báo vì ứng dụng chưa mua chứng chỉ, chỉ cần làm 1 lần.)
 3. Bấm **Next** → **Install**, xong bấm **Finish** là ứng dụng mở lên. Trên Desktop có biểu tượng app.
@@ -222,9 +215,9 @@ Mở ứng dụng chọn **🖥 Dịch trên máy tính** hoặc **📺 Chơi PS
 
 ## 🍎 macOS — cài đặt
 1. Mở file **.dmg**, **kéo biểu tượng ứng dụng** vào thư mục **Applications**.
-2. Lần đầu mở nếu macOS chặn: **Cài đặt hệ thống → Quyền riêng tư & Bảo mật** → kéo xuống bấm **Vẫn mở (Open Anyway)**.
-3. Mở ứng dụng chọn **🖥 Dịch trên máy tính** hoặc **📺 Chơi PS5 – dịch trên TV**, rồi làm theo hướng dẫn:
-   - **📡 PS5 Chơi từ xa:** bấm **🔑 Đăng nhập PSN**, nhập **mã 8 số** (PS5: Cài đặt → Hệ thống → Chơi từ xa → Liên kết thiết bị); macOS hỏi quyền **Mạng cục bộ** → **Cho phép**.
+2. Lần đầu mở: vào **Applications**, **chuột phải** vào ứng dụng → **Mở (Open)** → bấm **Mở** lần nữa.
+   Nếu vẫn không mở được: **Cài đặt hệ thống → Quyền riêng tư & Bảo mật** → bấm **Vẫn mở (Open Anyway)**.
+3. Làm theo hướng dẫn 4 bước:
    - **Capture card:** macOS hỏi quyền **Camera** (capture card được coi như camera) → bấm **Cho phép**.
    - **Màn hình Mac** (YouTube, phim, game trên Mac): macOS hỏi quyền **Ghi màn hình** → bật cho **Dịch Phụ Đề Game** trong **Cài đặt hệ thống → Quyền riêng tư & Bảo mật → Ghi màn hình**, rồi mở lại app.
 
