@@ -1,5 +1,5 @@
 {
- "phien_ban": "2026-10-30a",
+ "phien_ban": "2026-11-07a",
  "games": [
   {
    "ten": "God of War",
@@ -5944,7 +5944,7 @@
    "phong_cach": "duong_pho",
    "trang_thai": "sap_phat_hanh",
    "ngay_phat_hanh": "2026-11-19",
-   "mo_ta_game": "Bối cảnh bang Leonida (lấy cảm hứng từ Florida) với thành phố Vice City. Cặp đôi Jason Duval và Lucia Caminos dính vào thế giới tội phạm sau một phi vụ đơn giản bị trục trặc, trở thành 'Bonnie & Clyde' thời hiện đại. Giọng điệu châm biếm, đường phố, nhiều tiếng lóng, mạng xã hội. Cốt truyện chi tiết chưa công bố. Xưng hô gợi ý: Jason ↔ Lucia: người yêu (Jason xưng 'anh', gọi 'em'; Lucia xưng 'em', gọi 'anh'); Jason ↔ Brian: người trẻ – ông chủ nhà lớn tuổi (Jason gọi 'ông'/'chú', Brian gọi 'chú mày'/'nhóc'); Jason ↔ Cal: bạn bè ('tao – mày' / 'tôi – ông'); Raul ↔ Jason/Lucia: đàn anh trong nghề cướp (gọi 'tụi bây'/'cậu – cô').",
+   "mo_ta_game": "Bối cảnh bang Leonida (phỏng theo Florida) với thành phố Vice City (phỏng theo Miami); khẩu hiệu 'mặt tối nhất của nơi nắng đẹp nhất nước Mỹ'. Jason Duval (cựu lính, làm cho bọn buôn lậu ở vùng Keys) và Lucia Caminos (vừa ra tù, đeo vòng định vị ở chân) là cặp tình nhân kiểu 'Bonnie & Clyde', dính vào một âm mưu tội phạm khắp Leonida sau một phi vụ tưởng dễ ăn bị hỏng. Giọng điệu châm biếm, đường phố, mạng xã hội, thoại đầy chửi thề, tục tĩu, đùa bậy. PHONG CÁCH DỊCH RIÊNG GTA VI: dịch BỰA, THÔ, ĐÚNG CHẤT GIANG HỒ ĐƯỜNG PHỐ, sát nghĩa từng câu. Giữ nguyên độ tục: chửi thề dịch bằng câu chửi tiếng Việt tương đương (fuck → đéo/địt/đ.m tuỳ ngữ cảnh, shit → cứt/vãi cả cứt, bitch → con khốn/con đĩ, motherfucker → thằng chó má, asshole → thằng khốn nạn, damn → mẹ kiếp, dick → cặc). KHÔNG nói giảm nói tránh, KHÔNG thay bằng từ lịch sự, KHÔNG che bằng dấu *. Câu đùa tục, ẩn ý tình dục, chửi bới dịch thẳng thừng, đúng giọng nhân vật. Xưng hô giang hồ 'tao – mày', 'bố mày', 'thằng kia', 'con mụ kia'. Tiếng lóng đường phố / mạng xã hội dịch bằng lóng Việt tương đương (bro → ông/mày, homie → anh em, cop → cớm, cash → tiền tươi). Xưng hô gợi ý: Jason ↔ Lucia: người yêu, 'anh – em' khi tình cảm, cãi nhau thì được 'mày – tao'; Jason ↔ Brian: người trẻ – ông chủ lớn tuổi (Jason gọi 'ông', Brian gọi 'chú mày'/'nhóc'); Jason ↔ Cal: bạn bè 'tao – mày'; Raul ↔ Jason/Lucia: đàn anh trong nghề cướp (gọi 'tụi bây').",
    "tu": [
     {
      "tu": "Jason",
@@ -5954,7 +5954,7 @@
      ],
      "loai": "Tên nhân vật",
      "gioi": "nam",
-     "mo_ta": "trẻ (tuổi chưa công bố); nhân vật chính; lớn lên quanh giới tội phạm, từng đi lính ngắn hạn, làm việc cho bọn buôn ma túy ở vùng Keys; người yêu Lucia; xưng 'anh', gọi Lucia là 'em'"
+     "mo_ta": "trẻ; nhân vật chính; cựu lính (rời quân đội không êm đẹp), làm việc cho bọn buôn lậu ma túy ở vùng Keys cho Brian; có khả năng 'Focus' (làm chậm thời gian); người yêu Lucia; xưng 'anh', gọi Lucia là 'em'"
     },
     {
      "tu": "Lucia",
@@ -5964,7 +5964,7 @@
      ],
      "loai": "Tên nhân vật",
      "gioi": "nu",
-     "mo_ta": "trẻ (tuổi chưa công bố); nhân vật chính; lớn lên ở Liberty City, từng ngồi tù ở Leonida Penitentiary, giỏi đánh đấm, cứng cỏi; người yêu Jason; xưng 'em', gọi Jason là 'anh'"
+     "mo_ta": "trẻ; nhân vật chính; lớn lên ở Liberty City, học đánh đấm từ bố, từng ngồi tù ở Leonida Penitentiary, vừa ra tù và đeo vòng định vị ở chân; cứng cỏi, chửi thề nhiều; người yêu Jason; xưng 'em', gọi Jason là 'anh'"
     },
     {
      "tu": "Cal",
@@ -5974,7 +5974,7 @@
      ],
      "loai": "Tên nhân vật",
      "gioi": "nam",
-     "mo_ta": "trung niên; bạn/đồng bọn của Jason; gã thích thuyết âm mưu, hay nghe lén liên lạc của Coast Guard, lười ra khỏi nhà; cộng sự của Brian"
+     "mo_ta": "trung niên; bạn thân của Jason; hoang tưởng, mê thuyết âm mưu, hay nghe lén liên lạc của Coast Guard, nuôi rắn, lười ra khỏi nhà; làm cho Brian"
     },
     {
      "tu": "Brian",
@@ -5984,7 +5984,7 @@
      ],
      "loai": "Tên nhân vật",
      "gioi": "nam",
-     "mo_ta": "già; tay buôn lậu lâu năm ở vùng Keys; cho Jason ở nhờ không mất tiền trong một căn nhà của ông, đổi lại Jason làm việc cho ông; giọng ông già từng trải"
+     "mo_ta": "già; tay buôn lậu lâu năm ở vùng Keys, chủ bến thuyền; chồng Lori (vợ thứ ba); cho Jason ở nhờ một căn nhà, đổi lại Jason làm việc cho ông; giọng ông già từng trải"
     },
     {
      "tu": "Boobie",
@@ -6080,6 +6080,78 @@
      "tu": "Only Raw Records",
      "loai": "Phe phái / Tổ chức",
      "mo_ta": "hãng thu âm của Boobie và Dre'Quan"
+    },
+    {
+     "tu": "Lori",
+     "ten_khac": [
+      "Lori Heder"
+     ],
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "trung niên; vợ thứ ba của Brian, làm ở bến thuyền, biết dùng súng"
+    },
+    {
+     "tu": "Méndez",
+     "ten_khac": [
+      "Mendez"
+     ],
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "trung niên; cớm Vice City (VCPD) biến chất, tàn nhẫn; biết Jason và Lucia"
+    },
+    {
+     "tu": "Valentina",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "thuê Jason và Lucia làm bảo vệ; làm việc với Andrés de León"
+    },
+    {
+     "tu": "Andrés de León",
+     "ten_khac": [
+      "Andres de Leon"
+     ],
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "khách hàng giàu có của tập đoàn Megamundo"
+    },
+    {
+     "tu": "Petra Navarro",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "giám đốc điều hành (COO) của Megamundo"
+    },
+    {
+     "tu": "Yago",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "cựu con nghiện, giờ đua xe lậu trên phố"
+    },
+    {
+     "tu": "Stefanie",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "nhân viên xã hội trong nhà tù, nói chuyện với Lucia"
+    },
+    {
+     "tu": "Wyman",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "tay sưu tầm lập dị, kiêm người trung gian ở địa phương"
+    },
+    {
+     "tu": "DWNPLY",
+     "loai": "Tên nhân vật",
+     "mo_ta": "rapper địa phương, từng có bài hit cùng Real Dimez"
+    },
+    {
+     "tu": "Megamundo",
+     "loai": "Phe phái / Tổ chức",
+     "mo_ta": "tập đoàn lớn, mở trụ sở đầu tiên ở Mỹ tại Leonida"
+    },
+    {
+     "tu": "VCPD",
+     "loai": "Phe phái / Tổ chức",
+     "mo_ta": "cảnh sát Vice City (dịch 'cớm Vice City')"
     }
    ]
   },
