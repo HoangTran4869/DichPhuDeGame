@@ -1,5 +1,5 @@
 {
- "phien_ban": "2026-11-09a",
+ "phien_ban": "2026-11-09b",
  "games": [
   {
    "ten": "God of War",
@@ -11741,6 +11741,350 @@
      "tu": "The Hunt",
      "loai": "Khác",
      "mo_ta": "Đêm Săn"
+    }
+   ]
+  },
+  {
+   "ten": "Tomb Raider (2013)",
+   "nen_tang": "PS3 / PS4 / PS5 / Xbox / PC",
+   "phong_cach": "hien_dai",
+   "mo_ta_game": "Lara Croft 21 tuổi đi thám hiểm tìm vương quốc Yamatai thì tàu Endurance đắm, cả đoàn dạt vào hòn đảo bí ẩn ngoài khơi Nhật Bản, bị giáo phái Solarii săn đuổi. Lara phải sinh tồn, cứu bạn thân Sam khỏi bị hiến tế cho linh hồn Nữ hoàng Mặt Trời Himiko. Giọng điệu sinh tồn, căng thẳng, trưởng thành. Xưng hô gợi ý: Lara ↔ Roth: như cha con ('cháu – chú', Roth gọi 'cháu/Lara', xưng 'chú'); Lara ↔ Sam: bạn thân ('tớ – cậu'); Lara ↔ Jonah/Reyes/Grim: 'tôi – anh/chị/ông'; Lara ↔ Whitman: 'tôi – ông' (dần nghi ngờ); Mathias ↔ Lara: 'ta – cô' (phản diện).",
+   "tu": [
+    {
+     "tu": "Lara",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; nhân vật chính; Lara Croft, nhà khảo cổ trẻ, thông minh, lần đầu phải chiến đấu sinh tồn",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Roth",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; Conrad Roth, cựu lính thuỷ, người thầy như cha của Lara",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Sam",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; Samantha Nishimura, bạn thân Lara, hậu duệ Himiko, hay quay phim",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Jonah",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; Jonah Maiava, đầu bếp, to lớn, hiền, tin chuyện tâm linh",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Reyes",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; Joslin Reyes, kỹ sư, cứng rắn, hay cằn nhằn",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Grim",
+     "loai": "Tên nhân vật",
+     "mo_ta": "già; Angus Grimaldi, thuyền viên Scotland gan lì",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Alex",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; Alex Weiss, kỹ thuật viên, thầm thích Lara",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Whitman",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; Dr. James Whitman, nhà khảo cổ nổi tiếng, ham danh, hèn nhát",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Mathias",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; thủ lĩnh giáo phái Solarii, phản diện",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Himiko",
+     "loai": "Tên nhân vật",
+     "mo_ta": "Nữ hoàng Mặt Trời của Yamatai cổ đại; linh hồn điều khiển bão tố",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Yamatai",
+     "loai": "Địa danh",
+     "mo_ta": "vương quốc cổ Yamatai / hòn đảo"
+    },
+    {
+     "tu": "Solarii Brotherhood",
+     "loai": "Phe phái / Tổ chức",
+     "mo_ta": "giáo phái Solarii"
+    },
+    {
+     "tu": "Stormguard",
+     "loai": "Phe phái / Tổ chức",
+     "mo_ta": "Đội Hộ Vệ Bão (lính Oni cổ đại bảo vệ Himiko)"
+    },
+    {
+     "tu": "Oni",
+     "loai": "Quái vật / Sinh vật",
+     "mo_ta": "quỷ Oni"
+    },
+    {
+     "tu": "Endurance",
+     "loai": "Khác",
+     "mo_ta": "tên con tàu của đoàn thám hiểm"
+    },
+    {
+     "tu": "Sun Queen",
+     "loai": "Khác",
+     "mo_ta": "Nữ hoàng Mặt Trời (Himiko)"
+    }
+   ]
+  },
+  {
+   "ten": "Rise of the Tomb Raider",
+   "nen_tang": "PS4 / PS5 / Xbox / PC",
+   "phong_cach": "hien_dai",
+   "mo_ta_game": "Lara tiếp tục nghiên cứu dang dở của cha (Lord Richard Croft) về Nguồn Thần (Divine Source) ban sự bất tử, đến Siberia tìm thành phố mất tích Kitezh, đua với tổ chức Trinity. Giọng điệu phiêu lưu, bí ẩn, có yếu tố gia đình. Xưng hô gợi ý: Lara ↔ Ana: mẹ kế ('tôi – dì', lạnh nhạt dần thù địch); Lara ↔ Jonah: bạn thân ('tôi – anh'); Lara ↔ Jacob: 'tôi – ông' (kính trọng); Lara ↔ Nadia: Lara như chị ('chị – em'); Konstantin ↔ Lara: 'ta – cô/ngươi'.",
+   "tu": [
+    {
+     "tu": "Lara",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; nhân vật chính; Lara Croft, quyết tâm minh oan cho cha",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Jonah",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; Jonah Maiava, bạn thân trung thành của Lara",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Ana",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; mẹ kế của Lara, thực ra làm cho Trinity",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Konstantin",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; chỉ huy Trinity, em trai Ana, cuồng tín, tin mình được thần chọn",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Jacob",
+     "loai": "Tên nhân vật",
+     "mo_ta": "già (trông trung niên); Nhà Tiên tri Bất tử, thủ lĩnh người Remnant",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Nadia",
+     "loai": "Tên nhân vật",
+     "mo_ta": "thiếu nữ; con gái Jacob",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Sofia",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; thủ lĩnh chiến binh Remnant",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Lord Croft",
+     "loai": "Tên nhân vật",
+     "mo_ta": "Richard Croft, cha Lara (đã mất), nhà nghiên cứu",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Trinity",
+     "loai": "Phe phái / Tổ chức",
+     "mo_ta": "tổ chức bí mật Trinity"
+    },
+    {
+     "tu": "Remnant",
+     "loai": "Phe phái / Tổ chức",
+     "mo_ta": "người Remnant, hậu duệ người bảo vệ Kitezh"
+    },
+    {
+     "tu": "Deathless Ones",
+     "loai": "Quái vật / Sinh vật",
+     "mo_ta": "các Chiến binh Bất tử"
+    },
+    {
+     "tu": "Divine Source",
+     "loai": "Vật phẩm",
+     "mo_ta": "Nguồn Thần (ban sự bất tử)"
+    },
+    {
+     "tu": "Kitezh",
+     "loai": "Địa danh",
+     "mo_ta": "thành phố mất tích Kitezh"
+    },
+    {
+     "tu": "Siberia",
+     "loai": "Địa danh",
+     "mo_ta": "Siberia"
+    }
+   ]
+  },
+  {
+   "ten": "Shadow of the Tomb Raider",
+   "nen_tang": "PS4 / PS5 / Xbox / PC",
+   "phong_cach": "hien_dai",
+   "mo_ta_game": "Lara lấy con dao Chak Chel ở Mexico, vô tình kích hoạt Ngày Tận Thế của người Maya (Cleansing). Cô cùng Jonah tới Peru tìm thành phố ẩn Paititi, chặn Trinity và Dominguez chiếm Hộp Bạc Ix Chel. Giọng điệu u tối, Lara đối mặt với cái tôi và lỗi lầm của mình. Xưng hô gợi ý: Lara ↔ Jonah: bạn thân ('tôi – anh', Jonah hay khuyên can); Lara ↔ Dominguez: 'tôi – ông' → thù địch 'ta – ngươi'; Lara ↔ Unuratu: kính trọng ('tôi – bà/nữ hoàng'); Lara ↔ Etzli: 'chị – em'.",
+   "tu": [
+    {
+     "tu": "Lara",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; nhân vật chính; Lara Croft, bướng, ám ảnh với nhiệm vụ, học cách gánh hậu quả",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Jonah",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; Jonah Maiava, bạn thân, người giữ Lara tỉnh táo",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Dominguez",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; Pedro Dominguez, thủ lĩnh Trinity, thực là Amaru của Giáo phái Kukulkan",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Amaru",
+     "loai": "Tên nhân vật",
+     "mo_ta": "danh hiệu của Dominguez trong giáo phái Kukulkan",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Unuratu",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; nữ hoàng của Paititi, lãnh đạo phe nổi dậy",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Etzli",
+     "loai": "Tên nhân vật",
+     "mo_ta": "thiếu niên; con trai Unuratu",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Abby",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trung niên; Abigail, người dẫn đường ở Peru",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Paititi",
+     "loai": "Địa danh",
+     "mo_ta": "thành phố ẩn Paititi"
+    },
+    {
+     "tu": "Cult of Kukulkan",
+     "loai": "Phe phái / Tổ chức",
+     "mo_ta": "Giáo phái Kukulkan"
+    },
+    {
+     "tu": "Trinity",
+     "loai": "Phe phái / Tổ chức",
+     "mo_ta": "tổ chức Trinity"
+    },
+    {
+     "tu": "Yaaxil",
+     "loai": "Quái vật / Sinh vật",
+     "mo_ta": "chiến binh Yaaxil canh giữ Paititi"
+    },
+    {
+     "tu": "Cleansing",
+     "loai": "Khác",
+     "mo_ta": "Cuộc Thanh Tẩy (ngày tận thế của người Maya)"
+    },
+    {
+     "tu": "Silver Box of Ix Chel",
+     "loai": "Vật phẩm",
+     "mo_ta": "Hộp Bạc Ix Chel"
+    },
+    {
+     "tu": "Dagger of Chak Chel",
+     "loai": "Vũ khí",
+     "mo_ta": "Dao găm Chak Chel"
+    }
+   ]
+  },
+  {
+   "ten": "Tomb Raider I-III Remastered",
+   "nen_tang": "PS4 / PS5 / Xbox / PC / Switch",
+   "phong_cach": "hien_dai",
+   "mo_ta_game": "Bản làm lại 3 phần Tomb Raider kinh điển (1996–1998). Lara Croft, nữ quý tộc Anh kiêm nhà thám hiểm tự tin, lạnh lùng, đi tìm Scion của Atlantis (phần I), Dao găm Tây An (phần II) và các mảnh thiên thạch (phần III). Lời thoại ngắn, có chút mỉa mai kiểu Anh. Xưng hô gợi ý: Lara xưng 'tôi', lạnh lùng, đối thủ 'ông/anh'; phản diện xưng 'ta – cô'.",
+   "tu": [
+    {
+     "tu": "Lara",
+     "loai": "Tên nhân vật",
+     "mo_ta": "Lara Croft, nữ quý tộc Anh, nhà thám hiểm tự tin, mỉa mai",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Natla",
+     "loai": "Tên nhân vật",
+     "mo_ta": "Jacqueline Natla, nữ doanh nhân, thực là nữ hoàng Atlantis; phản diện phần I",
+     "gioi": "nu"
+    },
+    {
+     "tu": "Larson",
+     "loai": "Tên nhân vật",
+     "mo_ta": "tay sai cao bồi của Natla",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Pierre",
+     "loai": "Tên nhân vật",
+     "mo_ta": "Pierre Dupont, nhà khảo cổ Pháp đối thủ",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Bartoli",
+     "loai": "Tên nhân vật",
+     "mo_ta": "Marco Bartoli, trùm Fiamma Nera, phản diện phần II",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Willard",
+     "loai": "Tên nhân vật",
+     "mo_ta": "Dr. Mark Willard, nhà khoa học, phản diện phần III",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Winston",
+     "loai": "Tên nhân vật",
+     "mo_ta": "ông quản gia già của Lara",
+     "gioi": "nam"
+    },
+    {
+     "tu": "Scion",
+     "loai": "Vật phẩm",
+     "mo_ta": "Scion của Atlantis"
+    },
+    {
+     "tu": "Atlantis",
+     "loai": "Địa danh",
+     "mo_ta": "Atlantis"
+    },
+    {
+     "tu": "Dagger of Xian",
+     "loai": "Vũ khí",
+     "mo_ta": "Dao găm Tây An"
+    },
+    {
+     "tu": "Fiamma Nera",
+     "loai": "Phe phái / Tổ chức",
+     "mo_ta": "giáo phái Ngọn Lửa Đen"
+    },
+    {
+     "tu": "Croft Manor",
+     "loai": "Địa danh",
+     "mo_ta": "dinh thự nhà Croft"
     }
    ]
   }
