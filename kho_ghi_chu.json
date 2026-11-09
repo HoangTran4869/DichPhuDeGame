@@ -1,5 +1,5 @@
 {
- "phien_ban": "2026-11-07a",
+ "phien_ban": "2026-11-09a",
  "games": [
   {
    "ten": "God of War",
@@ -11040,6 +11040,707 @@
      "tu": "Dragon Balls",
      "loai": "Vật phẩm",
      "mo_ta": "Ngọc Rồng"
+    }
+   ]
+  },
+  {
+   "ten": "Assassin's Creed Odyssey",
+   "nen_tang": "PS4 / PS5 / Xbox / PC",
+   "phong_cach": "than_thoai",
+   "mo_ta_game": "Hy Lạp cổ đại thời chiến tranh Peloponnese (431 TCN). Người lính đánh thuê (misthios) Kassandra hoặc Alexios đi tìm lại gia đình thất lạc và lật đổ Giáo phái Kosmos. Giọng điệu phiêu lưu sử thi, có chút hài. Xưng hô gợi ý: misthios ↔ Barnabas: 'tôi – ông' (Barnabas gọi 'thuyền trưởng'); misthios ↔ Myrrine: 'con – mẹ'; misthios ↔ Deimos: anh/chị em ruột, thù địch ('ta – ngươi'); misthios ↔ Sokrates/Herodotos: 'tôi – ông'.",
+   "tu": [
+    {
+     "tu": "Kassandra",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "trẻ; nhân vật chính (nếu chọn); lính đánh thuê Sparta, hậu duệ Leonidas; gan dạ, hóm hỉnh"
+    },
+    {
+     "tu": "Alexios",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "trẻ; nhân vật chính (nếu chọn); lính đánh thuê Sparta, hậu duệ Leonidas"
+    },
+    {
+     "tu": "Barnabas",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "già; thuyền trưởng tàu Adrestia, vui tính, mê chuyện huyền bí"
+    },
+    {
+     "tu": "Myrrine",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "trung niên; mẹ của nhân vật chính"
+    },
+    {
+     "tu": "Nikolaos",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "trung niên; tướng Sparta, cha nuôi của nhân vật chính, 'Sói Sparta'"
+    },
+    {
+     "tu": "Deimos",
+     "loai": "Tên nhân vật",
+     "mo_ta": "trẻ; anh/chị em ruột của nhân vật chính, bị Giáo phái Kosmos nuôi lớn thành vũ khí"
+    },
+    {
+     "tu": "Phoibe",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "bé gái mồ côi được nhân vật chính che chở"
+    },
+    {
+     "tu": "Herodotos",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "trung niên; sử gia, bạn đồng hành"
+    },
+    {
+     "tu": "Sokrates",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "trung niên; triết gia Athens, hay hỏi vặn"
+    },
+    {
+     "tu": "Perikles",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "già; nhà lãnh đạo Athens"
+    },
+    {
+     "tu": "Brasidas",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "tướng Sparta, đồng đội"
+    },
+    {
+     "tu": "Cult of Kosmos",
+     "loai": "Phe phái / Tổ chức",
+     "mo_ta": "Giáo phái Kosmos, phản diện giật dây chiến tranh"
+    },
+    {
+     "tu": "misthios",
+     "loai": "Thuật ngữ",
+     "mo_ta": "lính đánh thuê; dịch 'lính đánh thuê' (giữ 'misthios' khi là cách gọi riêng)"
+    },
+    {
+     "tu": "Adrestia",
+     "loai": "Khác",
+     "mo_ta": "tên con tàu của nhân vật chính"
+    },
+    {
+     "tu": "Spear of Leonidas",
+     "loai": "Vũ khí",
+     "mo_ta": "Giáo của Leonidas"
+    },
+    {
+     "tu": "drachmae",
+     "loai": "Khác",
+     "mo_ta": "đồng drachma (tiền)"
+    }
+   ]
+  },
+  {
+   "ten": "Assassin's Creed Origins",
+   "nen_tang": "PS4 / PS5 / Xbox / PC",
+   "phong_cach": "than_thoai",
+   "mo_ta_game": "Ai Cập thời Ptolemy (49 TCN). Bayek, người Medjay cuối cùng, cùng vợ Aya trả thù Hội Cổ Nhân (Order of the Ancients) đã giết con trai Khemu, từ đó khai sinh Hội Ẩn Giả (tiền thân Hội Sát Thủ). Giọng điệu bi tráng. Xưng hô gợi ý: Bayek ↔ Aya: vợ chồng ('anh – em'); Bayek ↔ Khemu: 'cha – con'; Bayek ↔ Cleopatra: 'tôi – bà/nữ hoàng'; Bayek ↔ kẻ thù: 'ta – ngươi'.",
+   "tu": [
+    {
+     "tu": "Bayek",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "trung niên; nhân vật chính; Medjay của Siwa, chồng Aya; trọng công lý, ấm áp với dân"
+    },
+    {
+     "tu": "Aya",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "trung niên; vợ Bayek, sau là Amunet; quyết đoán, lạnh lùng hơn"
+    },
+    {
+     "tu": "Khemu",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "bé trai; con trai Bayek và Aya"
+    },
+    {
+     "tu": "Cleopatra",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "trẻ; nữ hoàng Ai Cập, thông minh, tham vọng"
+    },
+    {
+     "tu": "Julius Caesar",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "trung niên; tướng La Mã"
+    },
+    {
+     "tu": "Ptolemy",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "thiếu niên; Ptolemy XIII, vua Ai Cập, em trai Cleopatra"
+    },
+    {
+     "tu": "Medjay",
+     "loai": "Thuật ngữ",
+     "mo_ta": "người bảo vệ dân chúng Ai Cập; giữ 'Medjay'"
+    },
+    {
+     "tu": "Order of the Ancients",
+     "loai": "Phe phái / Tổ chức",
+     "mo_ta": "Hội Cổ Nhân, phản diện"
+    },
+    {
+     "tu": "Hidden Ones",
+     "loai": "Phe phái / Tổ chức",
+     "mo_ta": "Hội Ẩn Giả, tiền thân Hội Sát Thủ"
+    },
+    {
+     "tu": "Senu",
+     "loai": "Khác",
+     "mo_ta": "con đại bàng của Bayek"
+    },
+    {
+     "tu": "Siwa",
+     "loai": "Địa danh",
+     "mo_ta": "ốc đảo quê Bayek"
+    }
+   ]
+  },
+  {
+   "ten": "Marvel's Guardians of the Galaxy",
+   "nen_tang": "PS4 / PS5 / Xbox / PC",
+   "phong_cach": "hien_dai",
+   "mo_ta_game": "Peter Quill (Star-Lord) dẫn nhóm Vệ Binh Dải Ngân Hà gồm Gamora, Drax, Rocket, Groot đi kiếm tiền trả nợ, rồi vướng vào âm mưu của Giáo hội Chân lý Vũ trụ do Grand Unifier Raker cầm đầu. Giọng điệu cực kỳ HÀI, cãi nhau liên tục, nhiều câu đùa và chửi nhẹ. Xưng hô gợi ý: cả nhóm là đồng đội suồng sã: Quill xưng 'tôi', gọi đồng đội 'mấy người/các cậu'; Rocket xưng 'tao – mày', mỉa mai; Drax nói thẳng, hiểu nghĩa đen, xưng 'ta'; Gamora xưng 'tôi', lạnh lùng; Groot chỉ nói 'Tôi là Groot'.",
+   "tu": [
+    {
+     "tu": "Peter Quill",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "trẻ; nhân vật chính; Star-Lord, thủ lĩnh, mê nhạc thập niên 80, hay pha trò"
+    },
+    {
+     "tu": "Star-Lord",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "biệt danh của Peter Quill; giữ 'Star-Lord'"
+    },
+    {
+     "tu": "Gamora",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "trẻ; sát thủ, con nuôi Thanos; lạnh lùng, nghiêm túc"
+    },
+    {
+     "tu": "Drax",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "trung niên; Kẻ Hủy Diệt, nói thẳng, hiểu mọi thứ theo nghĩa đen"
+    },
+    {
+     "tu": "Rocket",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "gấu mèo được biến đổi gen; thiên tài vũ khí, cáu kỉnh, mỉa mai"
+    },
+    {
+     "tu": "Groot",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "cây người; chỉ nói 'I am Groot' → dịch 'Tôi là Groot'"
+    },
+    {
+     "tu": "Raker",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "Grand Unifier Raker, thủ lĩnh Giáo hội; phản diện cuồng tín"
+    },
+    {
+     "tu": "Nikki",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "bé gái; Nikki Gold, sống trên trạm Knowhere"
+    },
+    {
+     "tu": "Ko-Rel",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "trung niên; sĩ quan Nova Corps"
+    },
+    {
+     "tu": "Lady Hellbender",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "nữ hoàng chiến binh, sưu tầm sinh vật"
+    },
+    {
+     "tu": "Cosmo",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "chú chó vũ trụ biết nói, chỉ huy an ninh Knowhere"
+    },
+    {
+     "tu": "Universal Church of Truth",
+     "loai": "Phe phái / Tổ chức",
+     "mo_ta": "Giáo hội Chân lý Vũ trụ"
+    },
+    {
+     "tu": "Nova Corps",
+     "loai": "Phe phái / Tổ chức",
+     "mo_ta": "quân đoàn Nova, lực lượng giữ trật tự"
+    },
+    {
+     "tu": "Milano",
+     "loai": "Khác",
+     "mo_ta": "tên phi thuyền của nhóm"
+    },
+    {
+     "tu": "Knowhere",
+     "loai": "Địa danh",
+     "mo_ta": "trạm vũ trụ trong đầu lâu thực thể Celestial"
+    }
+   ]
+  },
+  {
+   "ten": "Mass Effect Legendary Edition",
+   "nen_tang": "PS4 / PS5 / Xbox / PC",
+   "phong_cach": "hien_dai",
+   "mo_ta_game": "Bộ 3 Mass Effect. Năm 2183, Chỉ huy Shepard (nam hoặc nữ, người chơi chọn) của tàu Normandy trở thành Spectre và dẫn đồng đội nhiều chủng tộc chống lại bọn Reaper - cỗ máy cổ xưa định kỳ quét sạch sự sống trong dải ngân hà. Giọng điệu khoa học viễn tưởng quân sự, nhiều lựa chọn đối thoại. Xưng hô gợi ý: Shepard xưng 'tôi', đồng đội gọi 'Chỉ huy'; Shepard ↔ Anderson: cấp dưới – cấp trên ('tôi – ngài'); Shepard ↔ Saren/Illusive Man: đối đầu ('tôi – ông'/'ta – ngươi').",
+   "tu": [
+    {
+     "tu": "Shepard",
+     "loai": "Tên nhân vật",
+     "mo_ta": "nhân vật chính; Commander Shepard, nam hoặc nữ tuỳ người chơi; gọi 'Chỉ huy Shepard'"
+    },
+    {
+     "tu": "Garrus",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "Garrus Vakarian, người Turian, xạ thủ, bạn thân Shepard"
+    },
+    {
+     "tu": "Tali",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "Tali'Zorah, người Quarian, kỹ sư trẻ"
+    },
+    {
+     "tu": "Liara",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "Liara T'Soni, người Asari, nhà khảo cổ"
+    },
+    {
+     "tu": "Wrex",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "Urdnot Wrex, chiến binh Krogan"
+    },
+    {
+     "tu": "Ashley",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "Ashley Williams, lính thủy đánh bộ"
+    },
+    {
+     "tu": "Kaidan",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "Kaidan Alenko, lính thủy đánh bộ, có năng lực sinh học"
+    },
+    {
+     "tu": "Joker",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "Jeff 'Joker' Moreau, phi công Normandy, hay đùa"
+    },
+    {
+     "tu": "Anderson",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "Đại úy/Đô đốc David Anderson, cấp trên kiêm người thầy"
+    },
+    {
+     "tu": "Saren",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "Saren Arterius, Spectre phản bội, người Turian"
+    },
+    {
+     "tu": "Illusive Man",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "thủ lĩnh Cerberus; dịch 'Người Bí Ẩn'"
+    },
+    {
+     "tu": "Reapers",
+     "loai": "Quái vật / Sinh vật",
+     "mo_ta": "bọn Reaper, cỗ máy tận diệt; giữ 'Reaper'"
+    },
+    {
+     "tu": "Spectre",
+     "loai": "Thuật ngữ",
+     "mo_ta": "đặc vụ Spectre của Hội đồng Citadel; giữ 'Spectre'"
+    },
+    {
+     "tu": "Citadel",
+     "loai": "Địa danh",
+     "mo_ta": "trạm Citadel, thủ phủ dải ngân hà"
+    },
+    {
+     "tu": "Normandy",
+     "loai": "Khác",
+     "mo_ta": "tàu Normandy"
+    },
+    {
+     "tu": "Cerberus",
+     "loai": "Phe phái / Tổ chức",
+     "mo_ta": "tổ chức Cerberus"
+    },
+    {
+     "tu": "Krogan",
+     "loai": "Khác",
+     "mo_ta": "chủng tộc Krogan"
+    },
+    {
+     "tu": "Turian",
+     "loai": "Khác",
+     "mo_ta": "chủng tộc Turian"
+    },
+    {
+     "tu": "Asari",
+     "loai": "Khác",
+     "mo_ta": "chủng tộc Asari"
+    },
+    {
+     "tu": "Geth",
+     "loai": "Quái vật / Sinh vật",
+     "mo_ta": "người máy Geth"
+    }
+   ]
+  },
+  {
+   "ten": "Tales of Arise",
+   "nen_tang": "PS4 / PS5 / Xbox / PC",
+   "phong_cach": "than_thoai",
+   "mo_ta_game": "Hành tinh Dahna bị Rena đô hộ 300 năm. Alphen - 'Mặt Nạ Sắt' mất trí nhớ, không cảm thấy đau - gặp Shionne, cô gái Rena mang 'gai' khiến ai chạm vào cũng bị đau, và cùng các đồng đội lật đổ 5 Lãnh chúa Rena. Phong cách anime JRPG, nhiều đoạn hội thoại nhóm (skit). Xưng hô gợi ý: Alphen ↔ Shionne: 'tôi – cô' (dần thân thiết); Law ↔ Alphen: Law trẻ, nóng tính ('tôi – anh'); Rinwell xưng 'tôi', lạnh nhạt với Shionne; Kisara, Dohalim lịch sự ('tôi – anh/cô').",
+   "tu": [
+    {
+     "tu": "Alphen",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "trẻ; nhân vật chính; 'Iron Mask', mất trí nhớ, không biết đau, chính trực"
+    },
+    {
+     "tu": "Shionne",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "trẻ; người Rena, mang 'gai' gây đau khi chạm; lạnh lùng bề ngoài, tốt bụng"
+    },
+    {
+     "tu": "Rinwell",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "thiếu nữ; pháp sư Dahna, căm ghét Rena"
+    },
+    {
+     "tu": "Law",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "thiếu niên; võ sĩ, nóng tính, bộc trực"
+    },
+    {
+     "tu": "Kisara",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "trẻ; đội trưởng cận vệ, điềm đạm, nấu ăn giỏi"
+    },
+    {
+     "tu": "Dohalim",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "trẻ; Lãnh chúa Rena, tao nhã"
+    },
+    {
+     "tu": "Hootle",
+     "loai": "Tên nhân vật",
+     "mo_ta": "con cú nhỏ đi theo Rinwell"
+    },
+    {
+     "tu": "Vholran",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "Lãnh chúa Rena, phản diện"
+    },
+    {
+     "tu": "Dahna",
+     "loai": "Địa danh",
+     "mo_ta": "hành tinh của người Dahna"
+    },
+    {
+     "tu": "Rena",
+     "loai": "Địa danh",
+     "mo_ta": "hành tinh / người Rena (kẻ đô hộ)"
+    },
+    {
+     "tu": "Iron Mask",
+     "loai": "Khác",
+     "mo_ta": "biệt danh Alphen: 'Mặt Nạ Sắt'"
+    },
+    {
+     "tu": "Lord",
+     "loai": "Thuật ngữ",
+     "mo_ta": "Lãnh chúa (5 Lãnh chúa Rena)"
+    },
+    {
+     "tu": "thorns",
+     "loai": "Khác",
+     "mo_ta": "'gai' trên người Shionne, gây đau khi chạm"
+    }
+   ]
+  },
+  {
+   "ten": "Kingdom Hearts III",
+   "nen_tang": "PS4 / PS5 / Xbox / PC",
+   "phong_cach": "than_thoai",
+   "mo_ta_game": "Sora cùng Donald và Goofy đi qua các thế giới Disney/Pixar để lấy lại 'sức mạnh thức tỉnh' và tập hợp 7 người bảo vệ ánh sáng chống lại Master Xehanort và Tổ chức XIII. Giọng điệu trong sáng, vui nhộn, nhiều cảm xúc tình bạn. Xưng hô gợi ý: Sora ↔ Donald/Goofy: bạn thân ('tớ – cậu'); Sora ↔ Riku/Kairi: bạn thân ('tớ – cậu'); Sora ↔ Vua Mickey: 'cháu – bệ hạ' (Mickey xưng 'ta'); Sora ↔ Xehanort: 'tôi – ông'/'ta – ngươi'.",
+   "tu": [
+    {
+     "tu": "Sora",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "thiếu niên; nhân vật chính, cầm Keyblade, hồn nhiên, tốt bụng"
+    },
+    {
+     "tu": "Riku",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "thiếu niên; bạn thân Sora, chín chắn"
+    },
+    {
+     "tu": "Kairi",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "thiếu nữ; bạn thân Sora"
+    },
+    {
+     "tu": "Donald",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "vịt Donald, pháp sư triều đình, hay cáu"
+    },
+    {
+     "tu": "Goofy",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "chó Goofy, đội trưởng cận vệ, hiền lành"
+    },
+    {
+     "tu": "Mickey",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "Vua Mickey; gọi 'Đức vua'"
+    },
+    {
+     "tu": "Xehanort",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "già; Master Xehanort, phản diện chính"
+    },
+    {
+     "tu": "Yen Sid",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "già; phù thuỷ, thầy của Mickey"
+    },
+    {
+     "tu": "Aqua",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "trẻ; Bậc thầy Keyblade"
+    },
+    {
+     "tu": "Ventus",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "thiếu niên; người dùng Keyblade"
+    },
+    {
+     "tu": "Terra",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "trẻ; người dùng Keyblade"
+    },
+    {
+     "tu": "Roxas",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "thiếu niên; Nobody của Sora"
+    },
+    {
+     "tu": "Keyblade",
+     "loai": "Vũ khí",
+     "mo_ta": "Keyblade (thanh kiếm-chìa khoá); giữ 'Keyblade'"
+    },
+    {
+     "tu": "Heartless",
+     "loai": "Quái vật / Sinh vật",
+     "mo_ta": "bọn Heartless (Vô Tâm); giữ 'Heartless'"
+    },
+    {
+     "tu": "Nobody",
+     "loai": "Quái vật / Sinh vật",
+     "mo_ta": "Nobody (Kẻ Vô Danh); giữ 'Nobody'"
+    },
+    {
+     "tu": "Organization XIII",
+     "loai": "Phe phái / Tổ chức",
+     "mo_ta": "Tổ chức XIII"
+    }
+   ]
+  },
+  {
+   "ten": "Uncharted: The Lost Legacy",
+   "nen_tang": "PS4 / PS5 / PC",
+   "phong_cach": "hien_dai",
+   "mo_ta_game": "Chloe Frazer bắt tay với lính đánh thuê Nadine Ross đi tìm Ngà của thần Ganesh ở vùng Tây Ghats, Ấn Độ, đua với tên phiến quân Asav. Giọng điệu phiêu lưu hành động, đối thoại dí dỏm. Xưng hô gợi ý: Chloe ↔ Nadine: lúc đầu không ưa nhau ('tôi – cô'), dần thành bạn; Chloe ↔ Sam: 'tôi – anh', suồng sã; Asav ↔ Chloe: 'ta – cô' (phản diện).",
+   "tu": [
+    {
+     "tu": "Chloe",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "trẻ; nhân vật chính; Chloe Frazer, thợ săn kho báu gốc Ấn, tinh quái"
+    },
+    {
+     "tu": "Nadine",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "trẻ; Nadine Ross, cựu chỉ huy lính đánh thuê Shoreline, cứng rắn"
+    },
+    {
+     "tu": "Asav",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "trung niên; thủ lĩnh phiến quân, phản diện"
+    },
+    {
+     "tu": "Sam",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "trung niên; Sam Drake, anh trai Nathan Drake"
+    },
+    {
+     "tu": "Nate",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "Nathan Drake, được nhắc tới"
+    },
+    {
+     "tu": "Tusk of Ganesh",
+     "loai": "Vật phẩm",
+     "mo_ta": "Ngà của thần Ganesh"
+    },
+    {
+     "tu": "Hoysala Empire",
+     "loai": "Địa danh",
+     "mo_ta": "đế chế Hoysala"
+    },
+    {
+     "tu": "Western Ghats",
+     "loai": "Địa danh",
+     "mo_ta": "dãy Tây Ghats, Ấn Độ"
+    },
+    {
+     "tu": "Shoreline",
+     "loai": "Phe phái / Tổ chức",
+     "mo_ta": "nhóm lính đánh thuê Shoreline"
+    }
+   ]
+  },
+  {
+   "ten": "Bloodborne",
+   "nen_tang": "PS4 / PS5",
+   "phong_cach": "than_thoai",
+   "mo_ta_game": "Người thợ săn đến thành phố Yharnam kiểu Gothic để tìm 'Huyết Nhạt' (Paleblood) giữa Đêm Săn, khi dân chúng hoá quái thú. Không khí u ám, kinh dị, lời thoại cổ kính, bí ẩn. Xưng hô gợi ý: thợ săn ít nói; NPC gọi 'thợ săn' (hunter), lời thoại trang trọng cổ kính ('ta – ngươi' với kẻ bí ẩn; 'tôi – ngài' với dân thường); Plain Doll gọi 'ngài thợ săn'.",
+   "tu": [
+    {
+     "tu": "Gehrman",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "già; thợ săn đầu tiên, người dẫn dắt trong Giấc Mơ Thợ Săn"
+    },
+    {
+     "tu": "Plain Doll",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "búp bê trong Giấc Mơ Thợ Săn, dịu dàng; dịch 'Búp bê'"
+    },
+    {
+     "tu": "Lady Maria",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "nữ thợ săn của Tháp Đồng Hồ Thiên Văn"
+    },
+    {
+     "tu": "Ludwig",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "thợ săn của Giáo hội Chữa Lành"
+    },
+    {
+     "tu": "Eileen",
+     "loai": "Tên nhân vật",
+     "gioi": "nu",
+     "mo_ta": "Eileen the Crow, thợ săn săn thợ săn"
+    },
+    {
+     "tu": "Micolash",
+     "loai": "Tên nhân vật",
+     "gioi": "nam",
+     "mo_ta": "Chủ nhân Nightmare, kẻ điên"
+    },
+    {
+     "tu": "Yharnam",
+     "loai": "Địa danh",
+     "mo_ta": "thành phố Yharnam"
+    },
+    {
+     "tu": "Hunter's Dream",
+     "loai": "Địa danh",
+     "mo_ta": "Giấc Mơ Thợ Săn"
+    },
+    {
+     "tu": "Healing Church",
+     "loai": "Phe phái / Tổ chức",
+     "mo_ta": "Giáo hội Chữa Lành"
+    },
+    {
+     "tu": "Paleblood",
+     "loai": "Thuật ngữ",
+     "mo_ta": "Huyết Nhạt"
+    },
+    {
+     "tu": "Great Ones",
+     "loai": "Quái vật / Sinh vật",
+     "mo_ta": "các Đấng Vĩ Đại (thực thể ngoài vũ trụ)"
+    },
+    {
+     "tu": "Blood Echoes",
+     "loai": "Khác",
+     "mo_ta": "Tiếng Vọng Máu (tiền tệ)"
+    },
+    {
+     "tu": "Insight",
+     "loai": "Thuật ngữ",
+     "mo_ta": "Tri Thức Huyền Bí (Insight)"
+    },
+    {
+     "tu": "The Hunt",
+     "loai": "Khác",
+     "mo_ta": "Đêm Săn"
     }
    ]
   }
