@@ -1,6 +1,6 @@
 {
-  "phien_ban": "1.1.5",
-  "ma_so": 115,
-  "ghi_chu": "Bản 1.1.5:\n- Bấm Mic: dịch toàn bộ màn hình, chữ Việt đè đúng chỗ chữ gốc.\n- Phụ đề đè đúng lên câu Anh, tên nhân vật nằm dòng riêng.\n- Cỡ chữ, màu, nền dùng chung cho phụ đề và dịch toàn màn hình.\n- Ứng dụng TV mới: TV 0.18 / LG 1.1.6.\n\nTải bản mới trên GitHub: https://github.com/HoangTran4869/DichPhuDeGame-Android/releases/latest",
+  "phien_ban": "1.1.6",
+  "ma_so": 116,
+  "ghi_chu": "🍎 Đã có bản dịch PS5 cho iPhone (iOS) — sẵn sàng phục vụ GTA 6! Tải trên App Store: https://apps.apple.com/app/id6830687736\n\nBản 1.1.6:\n- Vẫn dịch, đọc và gửi TV khi Bạn thoát ra màn hình chính hoặc tắt màn hình.\n- Giọng đọc không còn nuốt chữ khi đọc nhanh.\n- Sửa bỏ sót thoại (RDR2), câu chửi thề / bạo lực không còn bị chặn dịch.\n- Chỉnh được thời gian giữ bản dịch toàn màn hình.\n\nTải bản mới trên GitHub: https://github.com/HoangTran4869/DichPhuDeGame-Android/releases/latest",
   "tai_ve_apk": "https://github.com/HoangTran4869/DichPhuDeGame-Android/releases/latest"
 }
