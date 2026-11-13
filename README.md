@@ -4,7 +4,7 @@
 Có bản cho **Windows** (gồm cả chế độ **chơi PS5 dịch trên TV**) và **macOS**.
 
 ## ⬇️ Tải ứng dụng
-- **🪟 Windows 10/11 — v4.3:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v4.3) → chọn file `DichPhuDeGame_Windows_Setup_v4.3.exe` (khoảng 221 MB)
+- **🪟 Windows 10/11 — v4.4:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v4.4) → chọn file `DichPhuDeGame_Windows_Setup_v4.4.exe` (khoảng 211 MB)
 - **📺 Ứng dụng TV (Android TV / Google TV):** cùng trang trên → file `DichGameTV.apk`, hoặc ứng dụng **Downloader** trên TV nhập mã **1314378**
 - **🍎 macOS (chip Apple M1 trở lên) — v4.2:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v4.2) → chọn file `DichPhuDeGame_MacOS_v4.2.dmg`
 
@@ -30,7 +30,15 @@ Có bản cho **Windows** (gồm cả chế độ **chơi PS5 dịch trên TV**)
 - Mở Ứng dụng lúc Windows chưa nạp xong giọng đọc → Ứng dụng tự tìm lại giọng, không phải mở lại.
 - Game để **Fullscreen độc quyền** (Exclusive Fullscreen) bị thu nhỏ khi chữ đè hiện lên → Ứng dụng tự nhận ra, tạm tắt chữ đè và hướng dẫn chuyển sang **Borderless**.
 
-### ✨ v4.3 (mới)
+### ✨ v4.4 (mới)
+- **🗣 Giọng VieNeu đọc đủ chữ:** câu dài được chia đoạn ở dấu câu, đọc tốc độ tự nhiên rồi tua nhanh giữ giọng — không còn nuốt chữ khi đọc nhanh; câu dài nghe tiếng đầu sớm hơn.
+- **🎮 Tay cầm dịch toàn màn hình:** chơi game trên máy tính, bấm **L1 + R1** (Xbox: **LB + RB**) gần như cùng lúc (đổi được sang L2 + R2 / L3 + R3 trong Cài đặt) → dịch toàn bộ chữ trên màn hình, đè lên chữ gốc như nút Mic, **phần nào dịch xong hiện trước**; muốn kiểu cũ (đứng hình, D-pad kéo khung) chọn **"Dịch từng vùng"**. Chuột / phím tắt vẫn kéo khung chỗ nào dịch chỗ đó.
+- **⏱ Giữ bản dịch toàn màn hình:** ⚙️ Cài đặt → **− / +** (2–40 giây). Nút Mic: bấm tiếp là dịch tiếp, không phải chờ biểu tượng mic tắt; không tắt nhầm ở menu nền chuyển động.
+- **🤠 Không bỏ sót thoại:** dòng hướng dẫn nút (RDR2) hay tên người làm game in hoa không còn làm câu thoại bị bỏ; câu chửi thề / bạo lực không bị chặn dịch; không dịch nhầm đoạn mô tả dài trong khung phụ đề.
+- **📺 TV Android:** phụ đề đè đúng câu gốc, đúng màu chữ / kiểu nền.
+- **🔑 Tự lấy mã Gemini** dùng được với Chrome / Brave · **▶ Nghe thử** luôn phát loa máy tính · **🆘 Báo lỗi** gửi thẳng nhóm Zalo.
+
+### ✨ v4.3
 - **🎬 Phụ đề đè đúng lên câu tiếng Anh:** câu 2 dòng thì chữ Việt cũng 2 dòng; **tên nhân vật nằm riêng 1 dòng** (kể cả tên nhiều chữ như "Man in White"). Áp dụng trên cửa sổ máy tính và TV LG.
 - **🎙 Dịch toàn màn hình:** 2 nút cùng hàng (vd "Khôi phục mặc định" và "Đóng") không còn bị gộp làm một; chữ Việt dài tới nút bên cạnh thì tự xuống dòng, không đè lên nhau; sửa vài chữ menu bị gộp / phóng to nhầm.
 - **📺 ỨNG DỤNG TV MỚI (Android TV 0.18 / LG 1.1.6) — BẠN NHỚ CẬP NHẬT:** Ứng dụng trên máy tính tự nhắc khi TV còn bản cũ. TV LG: Ứng dụng tự cài bản mới. Android TV / Google TV: mở **Downloader**, mã **1314378**.
@@ -197,7 +205,7 @@ Có bản cho **Windows** (gồm cả chế độ **chơi PS5 dịch trên TV**)
 - Chế độ **📺 Chơi PS5 trên TV**: cần TV **Android TV / Google TV** (cài ứng dụng Dịch Game TV) và 2 tài khoản PSN trên PS5.
 
 ### Cài đặt
-1. Bấm đúp file **DichPhuDeGame_Windows_Setup_v4.3.exe**.
+1. Bấm đúp file **DichPhuDeGame_Windows_Setup_v4.4.exe**.
 2. Nếu Windows hiện màn hình xanh **"Windows protected your PC"**: bấm **More info** → **Run anyway**.
    (Windows cảnh báo vì ứng dụng chưa mua chứng chỉ, chỉ cần làm 1 lần.)
 3. Bấm **Next** → **Install**, xong bấm **Finish** là ứng dụng mở lên. Trên Desktop có biểu tượng app.
