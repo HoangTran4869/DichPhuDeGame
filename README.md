@@ -4,7 +4,7 @@
 Có bản cho **Windows** (gồm cả chế độ **chơi PS5 dịch trên TV**) và **macOS**.
 
 ## ⬇️ Tải ứng dụng
-- **🪟 Windows 10/11 — v4.4:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v4.4) → chọn file `DichPhuDeGame_Windows_Setup_v4.4.exe` (khoảng 211 MB)
+- **🪟 Windows 10/11 — v4.5:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v4.5) → chọn file `DichPhuDeGame_Windows_Setup_v4.5.1.exe` (khoảng 214 MB)
 - **📺 Ứng dụng TV (Android TV / Google TV):** cùng trang trên → file `DichGameTV.apk`, hoặc ứng dụng **Downloader** trên TV nhập mã **1314378**
 - **🍎 macOS (chip Apple M1 trở lên) — v4.2:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v4.2) → chọn file `DichPhuDeGame_MacOS_v4.2.dmg`
 
@@ -30,7 +30,12 @@ Có bản cho **Windows** (gồm cả chế độ **chơi PS5 dịch trên TV**)
 - Mở Ứng dụng lúc Windows chưa nạp xong giọng đọc → Ứng dụng tự tìm lại giọng, không phải mở lại.
 - Game để **Fullscreen độc quyền** (Exclusive Fullscreen) bị thu nhỏ khi chữ đè hiện lên → Ứng dụng tự nhận ra, tạm tắt chữ đè và hướng dẫn chuyển sang **Borderless**.
 
-### ✨ v4.4 (mới)
+### ✨ v4.5 (mới)
+- **📺 TV Samsung:** Cài đặt → TV → **TV Samsung (Tizen)** → chuẩn bị TV (Developer mode, Host PC IP = IP máy tính) → **cài ứng dụng lên TV thẳng từ máy tính**. Chữ Việt + giọng đọc lên TV Samsung.
+- **🔠 Kiểu chữ "Viền mờ"** (Không nền) dễ đọc hơn, **tên nhân vật màu riêng** (mặc định vàng) — máy tính + TV. Ứng dụng TV mới: Android TV 0.19 · LG 1.1.8 · Samsung 1.0.2.
+- **🔍 Tự tìm TV LG** khi cài ứng dụng · **🎙 Nút Mic** dùng được cả khi dịch trên máy tính (nguồn PS5 / capture card) · **🗑 Xoá giọng đã phân vai**.
+
+### ✨ v4.4
 - **🗣 Giọng VieNeu đọc đủ chữ:** câu dài được chia đoạn ở dấu câu, đọc tốc độ tự nhiên rồi tua nhanh giữ giọng — không còn nuốt chữ khi đọc nhanh; câu dài nghe tiếng đầu sớm hơn.
 - **🎮 Tay cầm dịch toàn màn hình:** chơi game trên máy tính, bấm **L1 + R1** (Xbox: **LB + RB**) gần như cùng lúc (đổi được sang L2 + R2 / L3 + R3 trong Cài đặt) → dịch toàn bộ chữ trên màn hình, đè lên chữ gốc như nút Mic, **phần nào dịch xong hiện trước**; muốn kiểu cũ (đứng hình, D-pad kéo khung) chọn **"Dịch từng vùng"**. Chuột / phím tắt vẫn kéo khung chỗ nào dịch chỗ đó.
 - **⏱ Giữ bản dịch toàn màn hình:** ⚙️ Cài đặt → **− / +** (2–40 giây). Nút Mic: bấm tiếp là dịch tiếp, không phải chờ biểu tượng mic tắt; không tắt nhầm ở menu nền chuyển động.
@@ -205,7 +210,7 @@ Có bản cho **Windows** (gồm cả chế độ **chơi PS5 dịch trên TV**)
 - Chế độ **📺 Chơi PS5 trên TV**: cần TV **Android TV / Google TV** (cài ứng dụng Dịch Game TV) và 2 tài khoản PSN trên PS5.
 
 ### Cài đặt
-1. Bấm đúp file **DichPhuDeGame_Windows_Setup_v4.4.exe**.
+1. Bấm đúp file **DichPhuDeGame_Windows_Setup_v4.5.1.exe**.
 2. Nếu Windows hiện màn hình xanh **"Windows protected your PC"**: bấm **More info** → **Run anyway**.
    (Windows cảnh báo vì ứng dụng chưa mua chứng chỉ, chỉ cần làm 1 lần.)
 3. Bấm **Next** → **Install**, xong bấm **Finish** là ứng dụng mở lên. Trên Desktop có biểu tượng app.
