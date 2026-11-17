@@ -1,5 +1,5 @@
 {
-  "phien_ban": "2026-11-10",
+  "phien_ban": "2026-11-17a",
   "games": [
     {
       "ten": "God of War",
@@ -12670,6 +12670,623 @@
           "tu": "Wizardry Spell",
           "loai": "Kỹ năng / Phép",
           "mo_ta": "phép thuật Ngũ Hành"
+        }
+      ]
+    },
+    {
+      "ten": "Red Dead Redemption",
+      "nen_tang": "PS3 / PS4 / PS5 / Xbox / Switch / PC",
+      "phong_cach": "vien_tay",
+      "mo_ta_game": "Năm 1911, miền Tây nước Mỹ đang được 'văn minh hoá'. John Marston, cựu thành viên băng Van der Linde đã hoàn lương, bị đặc vụ chính phủ bắt giữ vợ con, ép đi săn lùng các đồng bọn cũ (Bill Williamson, Javier Escuella, Dutch van der Linde) từ New Austin, sang Mexico (Nuevo Paraíso) tới West Elizabeth. Có bản mở rộng Undead Nightmare (xác sống). Giọng điệu trầm buồn, cay đắng, thoại cao bồi cổ, nhiều tiếng lóng. Xưng hô gợi ý: John ↔ Abigail: vợ chồng 'anh – em'; John ↔ Jack: cha – con ('bố – con'); John ↔ Uncle: 'tôi – ông' (hay cà khịa); John ↔ Bonnie: 'tôi – cô', lịch sự, quý mến; John ↔ Edgar Ross: 'tôi – ông', căm ghét; John ↔ Dutch/Bill/Javier: 'tao – mày' (đồng bọn cũ, nay đối đầu); Dutch gọi John 'son'/'con trai'.",
+      "tu": [
+        {
+          "tu": "John",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "~38 tuổi; nhân vật chính; John Marston, cựu tay súng băng Van der Linde, mặt có sẹo, ít nói, châm biếm, thương vợ con; xưng 'tôi'/'tao'"
+        },
+        {
+          "tu": "Abigail",
+          "loai": "Tên nhân vật",
+          "gioi": "nu",
+          "mo_ta": "vợ của John, mẹ của Jack; cứng cỏi, đanh đá; bị chính phủ giữ làm con tin"
+        },
+        {
+          "tu": "Jack",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "16 tuổi; con trai John và Abigail; mê đọc sách phiêu lưu; gọi John 'bố'/'cha'"
+        },
+        {
+          "tu": "Uncle",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "già; người ở cùng gia đình John, lười, nghiện rượu, lắm mồm; tên gọi chung 'Uncle' (chú/ông chú)"
+        },
+        {
+          "tu": "Bonnie",
+          "loai": "Tên nhân vật",
+          "gioi": "nu",
+          "mo_ta": "~25 tuổi; Bonnie MacFarlane, con gái chủ trang trại MacFarlane ở New Austin, mạnh mẽ, tốt bụng; cứu John lúc đầu game"
+        },
+        {
+          "tu": "Drew MacFarlane",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "già; chủ trang trại, cha của Bonnie"
+        },
+        {
+          "tu": "Marshal Johnson",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "trung niên; Leigh Johnson, cảnh sát trưởng Armadillo, ngay thẳng"
+        },
+        {
+          "tu": "Edgar Ross",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "trung niên; phản diện; đặc vụ Cục Điều tra, lạnh lùng, đạo đức giả; ép John săn đồng bọn cũ"
+        },
+        {
+          "tu": "Archer Fordham",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "trung niên; đặc vụ cấp dưới của Edgar Ross, hống hách"
+        },
+        {
+          "tu": "Bill Williamson",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "trung niên; đồng bọn cũ của John, nay cầm đầu băng cướp ở Fort Mercer; thô lỗ, hèn"
+        },
+        {
+          "tu": "Javier Escuella",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "trung niên; đồng bọn cũ người Mexico, chạy sang Nuevo Paraíso"
+        },
+        {
+          "tu": "Dutch",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "già; Dutch van der Linde, thủ lĩnh cũ của băng, lôi cuốn mà điên loạn, triết lý 'không thể chống lại tương lai'; gọi John 'son'"
+        },
+        {
+          "tu": "Irish",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "trung niên; gã Ireland nghiện rượu, lừa lọc, giúp John đánh Fort Mercer"
+        },
+        {
+          "tu": "Nigel West Dickens",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "già; Nigel West Dickens, lang băm bán 'thuốc tiên', nói hoa mỹ"
+        },
+        {
+          "tu": "Seth",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "già; Seth Briars, gã đào mộ tìm kho báu, quái gở"
+        },
+        {
+          "tu": "Landon Ricketts",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "già; tay súng huyền thoại ở Chuparosa, Mexico; dạy John vài điều"
+        },
+        {
+          "tu": "Abraham Reyes",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "trẻ; thủ lĩnh quân nổi dậy Mexico, đào hoa, đầy tham vọng"
+        },
+        {
+          "tu": "Allende",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "trung niên; Colonel Agustin Allende, đại tá cầm quyền tàn bạo ở Nuevo Paraíso"
+        },
+        {
+          "tu": "Luisa",
+          "loai": "Tên nhân vật",
+          "gioi": "nu",
+          "mo_ta": "trẻ; Luisa Fortuna, cô gái theo quân nổi dậy, lý tưởng, yêu Reyes"
+        },
+        {
+          "tu": "Van der Linde gang",
+          "loai": "Phe phái / Tổ chức",
+          "mo_ta": "băng của Dutch ngày trước (John từng ở trong)"
+        },
+        {
+          "tu": "Bureau of Investigation",
+          "loai": "Phe phái / Tổ chức",
+          "mo_ta": "Cục Điều tra (chính phủ) - Edgar Ross"
+        },
+        {
+          "tu": "New Austin",
+          "loai": "Địa danh",
+          "mo_ta": "vùng sa mạc miền Tây (Armadillo, Fort Mercer, Thieves' Landing)"
+        },
+        {
+          "tu": "Armadillo",
+          "loai": "Địa danh",
+          "mo_ta": "thị trấn ở New Austin"
+        },
+        {
+          "tu": "Nuevo Paraíso",
+          "loai": "Địa danh",
+          "mo_ta": "vùng Mexico"
+        },
+        {
+          "tu": "West Elizabeth",
+          "loai": "Địa danh",
+          "mo_ta": "vùng có thành phố Blackwater"
+        },
+        {
+          "tu": "Blackwater",
+          "loai": "Địa danh",
+          "mo_ta": "thành phố hiện đại ở West Elizabeth"
+        },
+        {
+          "tu": "Beecher's Hope",
+          "loai": "Địa danh",
+          "mo_ta": "trang trại nhà John"
+        },
+        {
+          "tu": "Dead Eye",
+          "loai": "Kỹ năng / Phép",
+          "mo_ta": "chế độ làm chậm thời gian để ngắm bắn"
+        }
+      ]
+    },
+    {
+      "ten": "Grand Theft Auto III",
+      "nen_tang": "PS2 / PS4 / PS5 / Xbox / Switch / PC (Definitive Edition)",
+      "phong_cach": "duong_pho",
+      "mo_ta_game": "Năm 2001, thành phố Liberty City (nhại New York). Claude, tay cướp câm lặng, bị bạn gái Catalina phản bội bắn bỏ trong vụ cướp nhà băng, vào tù rồi trốn thoát và làm thuê cho mafia, Yakuza, băng đảng… để trả thù. Thuộc bộ GTA The Trilogy. Giọng điệu thô bạo, hài hước đen, đầy tiếng lóng và chửi thề. Xưng hô gợi ý: các trùm gọi Claude 'mày'/'thằng nhóc' (Claude không nói); Catalina ↔ Claude: 'tao – mày' (phản bội); Joey/Toni/Salvatore Leone ↔ Claude: 'tao – mày'; Maria: 'tôi – anh'; Asuka: 'tôi – anh' lạnh lùng.",
+      "tu": [
+        {
+          "tu": "Claude",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "~25 tuổi; nhân vật chính; tay cướp KHÔNG BAO GIỜ nói"
+        },
+        {
+          "tu": "Catalina",
+          "loai": "Tên nhân vật",
+          "gioi": "nu",
+          "mo_ta": "trẻ; phản diện; bạn gái cũ của Claude, phản bội hắn, nóng nảy, nói pha tiếng Tây Ban Nha"
+        },
+        {
+          "tu": "Miguel",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "trung niên; bạn trai của Catalina, người băng Colombia"
+        },
+        {
+          "tu": "8-Ball",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "trung niên; tay chơi chất nổ, vượt ngục cùng Claude"
+        },
+        {
+          "tu": "Luigi",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "trung niên; Luigi Goterelli, ma cô mở câu lạc bộ, làm cho nhà Leone"
+        },
+        {
+          "tu": "Joey Leone",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "trẻ; con trai trùm Salvatore, thợ máy, giao việc cho Claude"
+        },
+        {
+          "tu": "Toni Cipriani",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "trung niên; tay chân nhà Leone, sợ mẹ"
+        },
+        {
+          "tu": "Salvatore",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "già; Salvatore Leone, trùm mafia nhà Leone, đa nghi"
+        },
+        {
+          "tu": "Maria",
+          "loai": "Tên nhân vật",
+          "gioi": "nu",
+          "mo_ta": "trẻ; Maria Latore, vợ Salvatore, lắm lời, phê thuốc"
+        },
+        {
+          "tu": "Asuka",
+          "loai": "Tên nhân vật",
+          "gioi": "nu",
+          "mo_ta": "trẻ; Asuka Kasen, đồng thủ lĩnh Yakuza, lạnh lùng"
+        },
+        {
+          "tu": "Kenji",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "trẻ; Kenji Kasen, em Asuka, Yakuza, sĩ diện"
+        },
+        {
+          "tu": "Ray",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "trung niên; Ray Machowski, cảnh sát tham nhũng, hoang tưởng"
+        },
+        {
+          "tu": "Donald Love",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "trung niên; tỷ phú bất động sản, lạnh lùng"
+        },
+        {
+          "tu": "King Courtney",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "trung niên; thủ lĩnh băng Yardies"
+        },
+        {
+          "tu": "El Burro",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "trung niên; thủ lĩnh băng Diablos"
+        },
+        {
+          "tu": "Liberty City",
+          "loai": "Địa danh",
+          "mo_ta": "thành phố trong game (gồm Portland, Staunton Island, Shoreside Vale)"
+        },
+        {
+          "tu": "Portland",
+          "loai": "Địa danh",
+          "mo_ta": "khu công nghiệp"
+        },
+        {
+          "tu": "Staunton Island",
+          "loai": "Địa danh",
+          "mo_ta": "khu trung tâm"
+        },
+        {
+          "tu": "Shoreside Vale",
+          "loai": "Địa danh",
+          "mo_ta": "khu ngoại ô, có sân bay"
+        },
+        {
+          "tu": "Leone family",
+          "loai": "Phe phái / Tổ chức",
+          "mo_ta": "gia đình mafia Leone"
+        },
+        {
+          "tu": "Yakuza",
+          "loai": "Phe phái / Tổ chức",
+          "mo_ta": "băng xã hội đen Nhật"
+        },
+        {
+          "tu": "Colombian Cartel",
+          "loai": "Phe phái / Tổ chức",
+          "mo_ta": "băng buôn ma tuý Colombia (Catalina, Miguel)"
+        },
+        {
+          "tu": "Triads",
+          "loai": "Phe phái / Tổ chức",
+          "mo_ta": "Hội Tam Hoàng"
+        },
+        {
+          "tu": "SPANK",
+          "loai": "Vật phẩm",
+          "mo_ta": "loại ma tuý mới trong game"
+        }
+      ]
+    },
+    {
+      "ten": "Grand Theft Auto: Vice City",
+      "nen_tang": "PS2 / PS4 / PS5 / Xbox / Switch / PC (Definitive Edition)",
+      "phong_cach": "duong_pho",
+      "mo_ta_game": "Năm 1986, Vice City (nhại Miami thập niên 80). Tommy Vercetti vừa ra tù sau 15 năm, được trùm Sonny Forelli cử xuống phố biển mua bán ma tuý; phi vụ bị phục kích mất sạch tiền và hàng, Tommy phải truy kẻ chủ mưu rồi dựng đế chế riêng. Thuộc bộ GTA The Trilogy. Giọng điệu châm biếm, phong cách 'Scarface', nhạc 80s, thoại thô, nhiều chửi thề. Xưng hô gợi ý: Tommy ↔ Ken Rosenberg: 'tao – mày' (Ken hay gọi 'Tommy' rối rít, xưng 'tôi'); Tommy ↔ Lance: bạn chí cốt 'tao – mày'; Tommy ↔ Sonny: đàn em – trùm 'tôi – ông' rồi 'tao – mày'; Tommy ↔ Diaz: 'tao – mày'; Tommy ↔ Mercedes: 'anh – em'.",
+      "tu": [
+        {
+          "tu": "Tommy",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "~35 tuổi; nhân vật chính; Tommy Vercetti, gã mafia vừa ra tù, nóng nảy, tham vọng; xưng 'tao'"
+        },
+        {
+          "tu": "Ken Rosenberg",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "trung niên; luật sư nghiện ngập, hay hoảng loạn, lắp bắp; xưng 'tôi'"
+        },
+        {
+          "tu": "Lance",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "~30 tuổi; Lance Vance, bạn đồng hành của Tommy, sĩ diện, ăn mặc loè loẹt"
+        },
+        {
+          "tu": "Sonny",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "trung niên; Sonny Forelli, trùm mafia Liberty City, tham lam, coi Tommy là con tốt"
+        },
+        {
+          "tu": "Diaz",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "trung niên; Ricardo Diaz, trùm ma tuý điên loạn, chửi bới liên tục"
+        },
+        {
+          "tu": "Kent Paul",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "trẻ; gã quản lý ban nhạc người Anh, lắm mồm"
+        },
+        {
+          "tu": "Avery Carrington",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "già; trùm bất động sản Texas, nói giọng cao bồi"
+        },
+        {
+          "tu": "Umberto",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "trung niên; Umberto Robina, thủ lĩnh băng Cuba, hay khoe 'đàn ông thật thụ'"
+        },
+        {
+          "tu": "Auntie Poulet",
+          "loai": "Tên nhân vật",
+          "gioi": "nu",
+          "mo_ta": "già; thủ lĩnh băng Haiti, bí ẩn, gọi Tommy 'child'"
+        },
+        {
+          "tu": "Phil Cassidy",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "trung niên; tay buôn súng nghiện rượu, cụt tay"
+        },
+        {
+          "tu": "Mercedes",
+          "loai": "Tên nhân vật",
+          "gioi": "nu",
+          "mo_ta": "trẻ; Mercedes Cortez, con gái đại tá Cortez, quyến rũ"
+        },
+        {
+          "tu": "Colonel Cortez",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "già; Juan Garcia Cortez, đại tá buôn vũ khí, lịch sự"
+        },
+        {
+          "tu": "Steve Scott",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "trung niên; đạo diễn phim người lớn"
+        },
+        {
+          "tu": "Cam Jones",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "trung niên; chuyên gia phá két, cùng Tommy cướp nhà băng"
+        },
+        {
+          "tu": "Vice City",
+          "loai": "Địa danh",
+          "mo_ta": "thành phố biển trong game"
+        },
+        {
+          "tu": "Ocean Beach",
+          "loai": "Địa danh",
+          "mo_ta": "khu bãi biển"
+        },
+        {
+          "tu": "Little Havana",
+          "loai": "Địa danh",
+          "mo_ta": "khu người Cuba"
+        },
+        {
+          "tu": "Little Haiti",
+          "loai": "Địa danh",
+          "mo_ta": "khu người Haiti"
+        },
+        {
+          "tu": "Starfish Island",
+          "loai": "Địa danh",
+          "mo_ta": "đảo biệt thự"
+        },
+        {
+          "tu": "Vercetti Estate",
+          "loai": "Địa danh",
+          "mo_ta": "dinh thự của Tommy"
+        },
+        {
+          "tu": "Malibu Club",
+          "loai": "Địa danh",
+          "mo_ta": "hộp đêm"
+        },
+        {
+          "tu": "Forelli family",
+          "loai": "Phe phái / Tổ chức",
+          "mo_ta": "gia đình mafia của Sonny"
+        },
+        {
+          "tu": "Cubans",
+          "loai": "Phe phái / Tổ chức",
+          "mo_ta": "băng Cuba của Umberto"
+        },
+        {
+          "tu": "Haitians",
+          "loai": "Phe phái / Tổ chức",
+          "mo_ta": "băng Haiti"
+        }
+      ]
+    },
+    {
+      "ten": "Grand Theft Auto: San Andreas",
+      "nen_tang": "PS2 / PS4 / PS5 / Xbox / Switch / PC (Definitive Edition)",
+      "phong_cach": "duong_pho",
+      "mo_ta_game": "Năm 1992, bang San Andreas (Los Santos, San Fierro, Las Venturas). Carl 'CJ' Johnson trở về Los Santos dự đám tang mẹ, bị cảnh sát biến chất Tenpenny gài bẫy, rồi giúp anh trai Sweet vực dậy băng Grove Street Families, phát hiện bạn thân phản bội và vươn ra cả bang. Thuộc bộ GTA The Trilogy. Giọng điệu đường phố hip-hop đầu 90s, nhiều tiếng lóng ('homie', 'dawg', 'Grove Street 4 life'), chửi thề nhiều. Xưng hô gợi ý: CJ ↔ Sweet: em – anh ruột ('tao – mày' hoặc 'em – anh'); CJ ↔ Kendl: anh – em gái; CJ ↔ Big Smoke/Ryder: bạn băng 'tao – mày'; CJ ↔ Tenpenny/Pulaski: 'tao – mày' (cảnh sát chửi CJ); CJ ↔ Cesar: bạn 'tao – mày'; CJ ↔ Woozie: 'tôi – anh'.",
+      "tu": [
+        {
+          "tu": "CJ",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "~25 tuổi; nhân vật chính; Carl Johnson, thành viên Grove Street Families vừa từ Liberty City về; xưng 'tao'"
+        },
+        {
+          "tu": "Carl",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "tên thật của CJ"
+        },
+        {
+          "tu": "Sweet",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "~30 tuổi; Sean 'Sweet' Johnson, anh trai CJ, thủ lĩnh Grove Street, nghiêm khắc, trọng băng"
+        },
+        {
+          "tu": "Kendl",
+          "loai": "Tên nhân vật",
+          "gioi": "nu",
+          "mo_ta": "~20 tuổi; em gái CJ, cá tính, yêu Cesar"
+        },
+        {
+          "tu": "Big Smoke",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "trung niên; Melvin 'Big Smoke' Harris, đàn anh trong băng, mập, nói triết lý; sau phản bội"
+        },
+        {
+          "tu": "Ryder",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "trẻ; Lance 'Ryder' Wilson, bạn băng, nóng tính, nghiện; sau phản bội"
+        },
+        {
+          "tu": "OG Loc",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "trẻ; Jeffrey 'OG Loc' Martin, rapper dở, ảo tưởng"
+        },
+        {
+          "tu": "Tenpenny",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "trung niên; phản diện; Frank Tenpenny, cảnh sát C.R.A.S.H. tham nhũng, ác độc"
+        },
+        {
+          "tu": "Pulaski",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "trung niên; Eddie Pulaski, cảnh sát đồng bọn Tenpenny, hung hăng"
+        },
+        {
+          "tu": "Hernandez",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "trung niên; Jimmy Hernandez, cảnh sát cấp dưới, lương thiện"
+        },
+        {
+          "tu": "Cesar",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "trẻ; Cesar Vialpando, thủ lĩnh Varrios Los Aztecas, bạn trai Kendl"
+        },
+        {
+          "tu": "Catalina",
+          "loai": "Tên nhân vật",
+          "gioi": "nu",
+          "mo_ta": "trẻ; em họ Cesar, nóng nảy, điên loạn (cũng có trong GTA III)"
+        },
+        {
+          "tu": "The Truth",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "già; dân hippie trồng cần sa, lý thuyết âm mưu"
+        },
+        {
+          "tu": "Woozie",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "trung niên; Wu Zi Mu, thủ lĩnh Hội Tam Hoàng bị mù, điềm tĩnh"
+        },
+        {
+          "tu": "Mike Toreno",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "trung niên; đặc vụ chính phủ bí ẩn, giao việc khó"
+        },
+        {
+          "tu": "Zero",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "trẻ; chủ tiệm đồ chơi điều khiển từ xa, mọt máy"
+        },
+        {
+          "tu": "Madd Dogg",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "trẻ; rapper nổi tiếng, CJ làm quản lý"
+        },
+        {
+          "tu": "Grove Street Families",
+          "loai": "Phe phái / Tổ chức",
+          "mo_ta": "băng của CJ (màu xanh lá)"
+        },
+        {
+          "tu": "Ballas",
+          "loai": "Phe phái / Tổ chức",
+          "mo_ta": "băng đối thủ (màu tím)"
+        },
+        {
+          "tu": "Vagos",
+          "loai": "Phe phái / Tổ chức",
+          "mo_ta": "băng gốc Mexico (màu vàng)"
+        },
+        {
+          "tu": "Varrios Los Aztecas",
+          "loai": "Phe phái / Tổ chức",
+          "mo_ta": "băng của Cesar"
+        },
+        {
+          "tu": "C.R.A.S.H.",
+          "loai": "Phe phái / Tổ chức",
+          "mo_ta": "đội cảnh sát biến chất của Tenpenny"
+        },
+        {
+          "tu": "Triads",
+          "loai": "Phe phái / Tổ chức",
+          "mo_ta": "Hội Tam Hoàng (Woozie)"
+        },
+        {
+          "tu": "Los Santos",
+          "loai": "Địa danh",
+          "mo_ta": "thành phố (nhại Los Angeles)"
+        },
+        {
+          "tu": "San Fierro",
+          "loai": "Địa danh",
+          "mo_ta": "thành phố (nhại San Francisco)"
+        },
+        {
+          "tu": "Las Venturas",
+          "loai": "Địa danh",
+          "mo_ta": "thành phố (nhại Las Vegas)"
+        },
+        {
+          "tu": "Grove Street",
+          "loai": "Địa danh",
+          "mo_ta": "con phố nhà CJ"
+        },
+        {
+          "tu": "Red County",
+          "loai": "Địa danh",
+          "mo_ta": "vùng nông thôn"
         }
       ]
     }
