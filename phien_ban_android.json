@@ -1,6 +1,6 @@
 {
-  "phien_ban": "1.1.7",
-  "ma_so": 117,
-  "ghi_chu": "Bản 1.1.7:\n- Hỗ trợ TV Samsung: cài ứng dụng lên TV ngay từ điện thoại, chữ dịch và giọng đọc hiện trên TV.\n- Tự tìm TV trong mạng nhà, không cần nhập IP (TV Samsung, TV LG, Android TV).\n- Mục Tivi gọn gàng, dễ dùng hơn.\n- Báo lỗi gửi thẳng vào nhóm Zalo.\n\nHướng dẫn cài TV Samsung: https://dichphudegame.github.io/huong-dan-tv-samsung.html\nTải bản mới trên GitHub: https://github.com/HoangTran4869/DichPhuDeGame-Android/releases/latest",
+  "phien_ban": "1.1.8",
+  "ma_so": 118,
+  "ghi_chu": "Bản 1.1.8:\n- Sửa lỗi tắt màn hình không dịch\n- Sửa lại font chữ\n\nTải bản mới trên GitHub: https://github.com/HoangTran4869/DichPhuDeGame-Android/releases/latest",
   "tai_ve_apk": "https://github.com/HoangTran4869/DichPhuDeGame-Android/releases/latest"
 }
