@@ -1,6 +1,6 @@
 {
-  "phien_ban": "1.1.10",
-  "ma_so": 120,
-  "ghi_chu": "Bản 1.1.10:\n- Bản dịch toàn màn hình giữ ổn định hơn, không tắt oan\n- Mỗi nhân vật giữ đúng 1 giọng đọc, không bị trùng tên\n- Tự tìm và kết nối TV khi đổi sang TV khác\n- Hướng dẫn rõ hơn khi PS5 từ chối Chơi từ xa\n\nTải bản mới trên GitHub: https://github.com/HoangTran4869/DichPhuDeGame-Android/releases/latest",
+  "phien_ban": "1.1.11",
+  "ma_so": 121,
+  "ghi_chu": "Bản 1.1.11:\n- Sửa lỗi tắt màn hình lần thứ 2 trở đi thì không dịch\n\nTải bản mới trên GitHub: https://github.com/HoangTran4869/DichPhuDeGame-Android/releases/latest",
   "tai_ve_apk": "https://github.com/HoangTran4869/DichPhuDeGame-Android/releases/latest"
 }
