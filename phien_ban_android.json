@@ -1,6 +1,6 @@
 {
-  "phien_ban": "1.1.8",
-  "ma_so": 118,
-  "ghi_chu": "Bản 1.1.8:\n- Sửa lỗi tắt màn hình không dịch\n- Sửa lại font chữ\n\nTải bản mới trên GitHub: https://github.com/HoangTran4869/DichPhuDeGame-Android/releases/latest",
+  "phien_ban": "1.1.9",
+  "ma_so": 119,
+  "ghi_chu": "Bản 1.1.9:\n- Bản dịch toàn màn hình không còn tự tắt khi menu có nền chuyển động\n- Bỏ qua chữ quá to (biển hiệu, tên nhiệm vụ) lọt vào khung phụ đề\n- Dịch được cả những câu thoại bị đọc sai nhiều chữ\n- Xưng hô giữa các nhân vật thống nhất hơn\n\nTải bản mới trên GitHub: https://github.com/HoangTran4869/DichPhuDeGame-Android/releases/latest",
   "tai_ve_apk": "https://github.com/HoangTran4869/DichPhuDeGame-Android/releases/latest"
 }
