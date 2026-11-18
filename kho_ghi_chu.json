@@ -13289,6 +13289,395 @@
           "mo_ta": "vùng nông thôn"
         }
       ]
+    },
+    {
+      "ten": "The Legend of Zelda: Ocarina of Time",
+      "nen_tang": "N64 / 3DS / Switch 2 (bản làm lại 2026, có lồng tiếng)",
+      "phong_cach": "gia_tuong",
+      "mo_ta_game": "Vương quốc Hyrule. Cậu bé Link sống ở rừng Kokiri được Cây Deku Vĩ Đại giao nhiệm vụ cùng tiên nữ Navi đi thu thập 3 Viên Đá Linh Thiêng, gặp công chúa Zelda và ngăn tên vua Gerudo Ganondorf chiếm Triforce. Link rút Master Sword, ngủ 7 năm, tỉnh dậy thành thanh niên trong một Hyrule đã bị Ganondorf thống trị, phải đánh thức 6 Hiền Giả qua các đền. Có Ocarina (sáo) để chơi các bài hát phép, du hành giữa thời thơ ấu và trưởng thành. Giọng điệu cổ tích, phiêu lưu, lời thoại trong sáng, có chất sử thi. Xưng hô gợi ý: Navi ↔ Link: bạn đồng hành 'mình – cậu' ('Hey! Listen!' = 'Này! Nghe này!'); Zelda ↔ Link: 'tôi – cậu' (lúc nhỏ), sau trang trọng hơn; Ganondorf ↔ Link/Zelda: 'ta – ngươi', ngạo mạn; Cây Deku ↔ Link: 'ta – con'; Saria ↔ Link: bạn thân 'mình – cậu'; Darunia ↔ Link: 'ta – chú em' (gọi Link là 'Brother' = 'người anh em'); Impa ↔ Link: 'ta – cậu'; Rauru: 'ta – con'.",
+      "tu": [
+        {
+          "tu": "Link",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "10 tuổi rồi 17 tuổi; nhân vật chính; cậu bé rừng Kokiri không có tiên, KHÔNG NÓI"
+        },
+        {
+          "tu": "Navi",
+          "loai": "Tên nhân vật",
+          "gioi": "nu",
+          "mo_ta": "tiên nữ dẫn đường của Link, hay nhắc 'Hey! Listen!'; xưng 'mình', gọi Link 'cậu'"
+        },
+        {
+          "tu": "Zelda",
+          "loai": "Tên nhân vật",
+          "gioi": "nu",
+          "mo_ta": "10 tuổi rồi 17 tuổi; công chúa Hyrule, thông minh, có giấc mơ tiên tri; giữ Triforce Trí Tuệ"
+        },
+        {
+          "tu": "Sheik",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "chàng Sheikah bí ẩn giúp Link ở thời trưởng thành, dạy bài hát (thực ra là Zelda cải trang); nói ngắn gọn"
+        },
+        {
+          "tu": "Ganondorf",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "trung niên; phản diện; vua của tộc Gerudo, tham vọng, xảo quyệt; giữ Triforce Sức Mạnh; sau hoá quái vật Ganon; xưng 'ta'"
+        },
+        {
+          "tu": "Great Deku Tree",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "già (cây thần); Cây Deku Vĩ Đại, người bảo hộ rừng Kokiri; gọi Link 'con'"
+        },
+        {
+          "tu": "Saria",
+          "loai": "Tên nhân vật",
+          "gioi": "nu",
+          "mo_ta": "trẻ; bạn thân nhất của Link ở rừng Kokiri, hiền, thích thổi sáo; Hiền Giả Rừng"
+        },
+        {
+          "tu": "Mido",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "trẻ; thủ lĩnh tự xưng của bọn trẻ Kokiri, hay bắt nạt Link"
+        },
+        {
+          "tu": "Darunia",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "trung niên; tù trưởng tộc Goron, to lớn, hào sảng, mê nhảy; gọi Link 'Brother'; Hiền Giả Lửa"
+        },
+        {
+          "tu": "Ruto",
+          "loai": "Tên nhân vật",
+          "gioi": "nu",
+          "mo_ta": "trẻ; công chúa tộc Zora, kiêu kỳ, tự coi mình là hôn thê của Link; Hiền Giả Nước"
+        },
+        {
+          "tu": "Impa",
+          "loai": "Tên nhân vật",
+          "gioi": "nu",
+          "mo_ta": "trung niên; vệ sĩ của Zelda, tộc Sheikah; Hiền Giả Bóng Tối"
+        },
+        {
+          "tu": "Nabooru",
+          "loai": "Tên nhân vật",
+          "gioi": "nu",
+          "mo_ta": "trẻ; nữ đạo tặc Gerudo chống lại Ganondorf; Hiền Giả Tinh Thần"
+        },
+        {
+          "tu": "Rauru",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "già; Hiền Giả Ánh Sáng, ở Đền Ánh Sáng; gọi Link 'con'"
+        },
+        {
+          "tu": "Malon",
+          "loai": "Tên nhân vật",
+          "gioi": "nu",
+          "mo_ta": "trẻ; con gái chủ trang trại Lon Lon, hay hát, yêu ngựa"
+        },
+        {
+          "tu": "Talon",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "trung niên; chủ trang trại Lon Lon, cha Malon, lười"
+        },
+        {
+          "tu": "Ingo",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "trung niên; người làm ở trang trại Lon Lon, sau làm tay sai cho Ganondorf"
+        },
+        {
+          "tu": "King Zora",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "già; vua tộc Zora, cha Ruto, chậm chạp"
+        },
+        {
+          "tu": "Kaepora Gaebora",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "già; con cú biết nói, cho lời khuyên, nói rất dài"
+        },
+        {
+          "tu": "Dampé",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "già; ông đào mộ ở Kakariko"
+        },
+        {
+          "tu": "Twinrova",
+          "loai": "Tên nhân vật",
+          "gioi": "nu",
+          "mo_ta": "già; Koume và Kotake, hai mụ phù thuỷ sinh đôi, mẹ nuôi Ganondorf"
+        },
+        {
+          "tu": "Epona",
+          "loai": "Khác",
+          "mo_ta": "con ngựa của Link (cái)"
+        },
+        {
+          "tu": "Hyrule",
+          "loai": "Địa danh",
+          "mo_ta": "vương quốc"
+        },
+        {
+          "tu": "Kokiri Forest",
+          "loai": "Địa danh",
+          "mo_ta": "rừng Kokiri, quê Link"
+        },
+        {
+          "tu": "Hyrule Castle",
+          "loai": "Địa danh",
+          "mo_ta": "lâu đài Hyrule"
+        },
+        {
+          "tu": "Kakariko Village",
+          "loai": "Địa danh",
+          "mo_ta": "làng Kakariko"
+        },
+        {
+          "tu": "Death Mountain",
+          "loai": "Địa danh",
+          "mo_ta": "núi lửa, nơi tộc Goron sống"
+        },
+        {
+          "tu": "Zora's Domain",
+          "loai": "Địa danh",
+          "mo_ta": "lãnh địa tộc Zora"
+        },
+        {
+          "tu": "Lake Hylia",
+          "loai": "Địa danh",
+          "mo_ta": "hồ Hylia"
+        },
+        {
+          "tu": "Gerudo Valley",
+          "loai": "Địa danh",
+          "mo_ta": "thung lũng Gerudo"
+        },
+        {
+          "tu": "Lon Lon Ranch",
+          "loai": "Địa danh",
+          "mo_ta": "trang trại Lon Lon"
+        },
+        {
+          "tu": "Temple of Time",
+          "loai": "Địa danh",
+          "mo_ta": "Đền Thời Gian"
+        },
+        {
+          "tu": "Sacred Realm",
+          "loai": "Địa danh",
+          "mo_ta": "Thánh Địa, nơi giữ Triforce"
+        },
+        {
+          "tu": "Triforce",
+          "loai": "Vật phẩm",
+          "mo_ta": "Tam Giác Thần (Sức Mạnh, Trí Tuệ, Dũng Cảm)"
+        },
+        {
+          "tu": "Master Sword",
+          "loai": "Vũ khí",
+          "mo_ta": "Thanh Kiếm Thánh"
+        },
+        {
+          "tu": "Ocarina of Time",
+          "loai": "Vật phẩm",
+          "mo_ta": "Sáo Thời Gian"
+        },
+        {
+          "tu": "Spiritual Stone",
+          "loai": "Vật phẩm",
+          "mo_ta": "Viên Đá Linh Thiêng"
+        },
+        {
+          "tu": "Medallion",
+          "loai": "Vật phẩm",
+          "mo_ta": "Huy Chương của các Hiền Giả"
+        },
+        {
+          "tu": "Rupee",
+          "loai": "Vật phẩm",
+          "mo_ta": "tiền trong game"
+        },
+        {
+          "tu": "Sage",
+          "loai": "Thuật ngữ",
+          "mo_ta": "Hiền Giả"
+        },
+        {
+          "tu": "Gerudo",
+          "loai": "Phe phái / Tổ chức",
+          "mo_ta": "tộc nữ đạo tặc sa mạc"
+        },
+        {
+          "tu": "Goron",
+          "loai": "Phe phái / Tổ chức",
+          "mo_ta": "tộc người đá ăn đá"
+        },
+        {
+          "tu": "Zora",
+          "loai": "Phe phái / Tổ chức",
+          "mo_ta": "tộc người cá"
+        },
+        {
+          "tu": "Sheikah",
+          "loai": "Phe phái / Tổ chức",
+          "mo_ta": "tộc bóng tối, bảo vệ hoàng gia"
+        },
+        {
+          "tu": "Kokiri",
+          "loai": "Phe phái / Tổ chức",
+          "mo_ta": "tộc trẻ con sống trong rừng, mỗi người có 1 tiên"
+        }
+      ]
+    },
+    {
+      "ten": "CONTROL Resonant",
+      "nen_tang": "PS5 / Xbox / PC / Mac",
+      "phong_cach": "hien_dai",
+      "mo_ta_game": "Phần tiếp theo của Control (2019), diễn ra khoảng 7 năm sau, thuộc vũ trụ Remedy (có liên hệ Alan Wake). Một dị thường vũ trụ gọi là The Pattern xuất hiện ở Manhattan; the Hiss thoát khỏi Oldest House, nấm Mold lan khắp phố, Cục Kiểm Soát Liên Bang (FBC) cô lập người sống sót. Dylan Faden — em/anh ruột của Jesse, từng bị FBC giam giữ vì năng lực siêu nhiên — được thả ra để ngăn thảm hoạ và tìm Jesse đang mất tích. Đánh cận chiến bằng vũ khí biến hình Aberrant + siêu năng lực. Giọng điệu kỳ dị, bí ẩn, siêu thực kiểu Remedy, nhiều thuật ngữ 'paranatural'. Xưng hô gợi ý: Dylan ↔ Zoe De Vera: 'tôi – cô' (Zoe gọi 'anh', là người điều phối ân cần mà cứng rắn); Dylan ↔ Jesse: anh chị em ruột, gọi tên nhau; Emily Pope / Simon Arish ↔ Dylan: 'tôi – anh' (nhân viên FBC); Dr. Darling (băng ghi hình): giọng nhà khoa học hào hứng, 'tôi – các bạn'.",
+      "tu": [
+        {
+          "tu": "Dylan",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "~30 tuổi; nhân vật chính; Dylan Faden, anh/em ruột của Jesse, từng bị FBC giam và thí nghiệm nhiều năm vì năng lực; rụt rè, khép kín lúc đầu"
+        },
+        {
+          "tu": "Jesse",
+          "loai": "Tên nhân vật",
+          "gioi": "nu",
+          "mo_ta": "~35 tuổi; Jesse Faden, Giám đốc FBC ở phần trước, nay MẤT TÍCH; vai trò then chốt, không điều khiển được"
+        },
+        {
+          "tu": "Zoe",
+          "loai": "Tên nhân vật",
+          "gioi": "nu",
+          "mo_ta": "trẻ; Zoe De Vera (Zoé), đặc vụ hiện trường FBC, người điều phối của Dylan, chỗ dựa tinh thần; gọi Dylan 'anh'"
+        },
+        {
+          "tu": "Emily Pope",
+          "loai": "Tên nhân vật",
+          "gioi": "nu",
+          "mo_ta": "trẻ; nhà nghiên cứu, quyền đồng giám đốc FBC; giao nhiệm vụ"
+        },
+        {
+          "tu": "Simon Arish",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "trẻ; nhân viên FBC (phụ trách nấm Mold ở phần trước), vui tính; giao nhiệm vụ"
+        },
+        {
+          "tu": "Ahti",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "già; ông lao công người Phần Lan bí ẩn, nói lẫn tiếng Phần Lan, hay ngâm nga"
+        },
+        {
+          "tu": "Dr. Darling",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "trung niên; Dr. Casper Darling, nhà khoa học trưởng FBC, xuất hiện qua băng ghi hình, hào hứng"
+        },
+        {
+          "tu": "Langston",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "trung niên; Frederick Langston, nhân viên FBC phụ trách Vật Thể Quyền Năng"
+        },
+        {
+          "tu": "FBC",
+          "loai": "Phe phái / Tổ chức",
+          "mo_ta": "Federal Bureau of Control - Cục Kiểm Soát Liên Bang"
+        },
+        {
+          "tu": "Federal Bureau of Control",
+          "loai": "Phe phái / Tổ chức",
+          "mo_ta": "Cục Kiểm Soát Liên Bang"
+        },
+        {
+          "tu": "The Hiss",
+          "loai": "Quái vật / Sinh vật",
+          "mo_ta": "thực thể chiếm xác người, nói lẩm bẩm vang vọng"
+        },
+        {
+          "tu": "Hiss",
+          "loai": "Quái vật / Sinh vật",
+          "mo_ta": "the Hiss"
+        },
+        {
+          "tu": "The Mold",
+          "loai": "Quái vật / Sinh vật",
+          "mo_ta": "nấm Mold lan nhiễm"
+        },
+        {
+          "tu": "The Pattern",
+          "loai": "Quái vật / Sinh vật",
+          "mo_ta": "dị thường vũ trụ, mối đe doạ chính"
+        },
+        {
+          "tu": "Resonant",
+          "loai": "Quái vật / Sinh vật",
+          "mo_ta": "kẻ có năng lực đã biến chất; hạ chúng để lấy năng lực"
+        },
+        {
+          "tu": "Oldest House",
+          "loai": "Địa danh",
+          "mo_ta": "Ngôi Nhà Cổ Nhất, trụ sở FBC"
+        },
+        {
+          "tu": "Manhattan",
+          "loai": "Địa danh",
+          "mo_ta": "thành phố bị bóp méo"
+        },
+        {
+          "tu": "The Gap",
+          "loai": "Địa danh",
+          "mo_ta": "không gian trong tâm trí Dylan, nơi nâng cấp"
+        },
+        {
+          "tu": "Aberrant",
+          "loai": "Vũ khí",
+          "mo_ta": "Vật Thể Quyền Năng biến hình của Dylan (dao đôi, lưỡi hái, găng, búa)"
+        },
+        {
+          "tu": "Object of Power",
+          "loai": "Thuật ngữ",
+          "mo_ta": "Vật Thể Quyền Năng"
+        },
+        {
+          "tu": "Altered World Event",
+          "loai": "Thuật ngữ",
+          "mo_ta": "Sự Kiện Thế Giới Biến Đổi (AWE)"
+        },
+        {
+          "tu": "paranatural",
+          "loai": "Thuật ngữ",
+          "mo_ta": "siêu nhiên (thuật ngữ FBC)"
+        },
+        {
+          "tu": "Barrage",
+          "loai": "Kỹ năng / Phép",
+          "mo_ta": "bắn đá vào kẻ địch"
+        },
+        {
+          "tu": "Seekers",
+          "loai": "Kỹ năng / Phép",
+          "mo_ta": "ụ bắn tự động, ném ra phát nổ"
+        },
+        {
+          "tu": "Shield",
+          "loai": "Kỹ năng / Phép",
+          "mo_ta": "khiên chắn, đổi thành lướt tấn công"
+        }
+      ]
     }
   ]
 }
