@@ -4,7 +4,7 @@
 Có bản cho **Windows** (gồm cả chế độ **chơi PS5 dịch trên TV**) và **macOS**.
 
 ## ⬇️ Tải ứng dụng
-- **🪟 Windows 10/11 — v4.5:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v4.5) → chọn file `DichPhuDeGame_Windows_Setup_v4.5.1.exe` (khoảng 214 MB)
+- **🪟 Windows 10/11 — v4.6:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v4.6) → chọn file `DichPhuDeGame_Windows_Setup_v4.6.exe` (khoảng 224 MB)
 - **📺 Ứng dụng TV (Android TV / Google TV):** cùng trang trên → file `DichGameTV.apk`, hoặc ứng dụng **Downloader** trên TV nhập mã **1314378**
 - **🍎 macOS (chip Apple M1 trở lên) — v4.2:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v4.2) → chọn file `DichPhuDeGame_MacOS_v4.2.dmg`
 
@@ -30,18 +30,32 @@ Có bản cho **Windows** (gồm cả chế độ **chơi PS5 dịch trên TV**)
 - Mở Ứng dụng lúc Windows chưa nạp xong giọng đọc → Ứng dụng tự tìm lại giọng, không phải mở lại.
 - Game để **Fullscreen độc quyền** (Exclusive Fullscreen) bị thu nhỏ khi chữ đè hiện lên → Ứng dụng tự nhận ra, tạm tắt chữ đè và hướng dẫn chuyển sang **Borderless**.
 
-### ✨ v4.5 (mới)
-- **📺 TV Samsung:** Cài đặt → TV → **TV Samsung (Tizen)** → chuẩn bị TV (Developer mode, Host PC IP = IP máy tính) → **cài ứng dụng lên TV thẳng từ máy tính**. Chữ Việt + giọng đọc lên TV Samsung.
-- **🔠 Kiểu chữ "Viền mờ"** (Không nền) dễ đọc hơn, **tên nhân vật màu riêng** (mặc định vàng) — máy tính + TV. Ứng dụng TV mới: Android TV 0.19 · LG 1.1.8 · Samsung 1.0.2.
-- **🔍 Tự tìm TV LG** khi cài ứng dụng · **🎙 Nút Mic** dùng được cả khi dịch trên máy tính (nguồn PS5 / capture card) · **🗑 Xoá giọng đã phân vai**.
+### ✨ v4.6 (mới)
+- **🎙 Nút Mic / tay cầm dịch toàn màn hình:** bản dịch chỉ tắt khi **chữ trên màn hình đổi thật** (đọc lại 2 lần liên tiếp) — menu có nền chuyển động / nền mờ không còn làm bản dịch tắt sau chưa tới 1 giây.
+- **🎬 Phụ đề:** biển hiệu, tên nhiệm vụ chữ to lọt vào khung không còn bị dịch / đọc; chữ Việt có giới hạn cỡ (máy tính + TV).
+- **🤖 Dịch:** câu dài bị đọc sai vài chữ vẫn được dịch (AI tự sửa); xưng hô giữ đúng như các câu trước.
+- **🗣 Giọng nhân vật:** tên có ký tự thừa ("- May") hoặc đọc lệch ("Atrus" ↔ "Atreus") dùng đúng giọng nhân vật đó; danh sách phân vai cũ tự gộp tên trùng.
+- **🎮 PS5:** báo mã 0x80108b12 → hướng dẫn riêng (tắt hẳn PS5, đăng nhập đúng tài khoản, kiểm tra Kiểm soát của phụ huynh).
+
+### ✨ v4.5
+- **📺 TV Samsung:** Cài đặt → TV → chọn **TV Samsung (Tizen)** → Bước 1 chuẩn bị TV (Developer mode, Host PC IP = IP máy tính) → Bước 2 **cài ứng dụng lên TV thẳng từ máy tính** (lần đầu đăng nhập tài khoản Samsung). Chữ Việt + giọng đọc hiện trên TV Samsung.
+- **🔠 Kiểu chữ "Viền mờ"** (Không nền): chữ trắng viền đen + viền ngoài tím nhạt + bóng, trên dải nền mờ — dễ đọc hơn. **Tên nhân vật màu riêng** (mặc định vàng, chỉnh ở Cài đặt → Tên nhân vật). Áp cho máy tính và TV.
+- **📺 Ứng dụng TV mới:** Android TV 0.19 · LG 1.1.8 · Samsung 1.0.2 (máy tính tự nhắc cập nhật TV).
+- **🔍 Tự tìm TV LG** khi cài ứng dụng, không cần gõ IP.
+- **🎙 Nút Mic** dùng được cả ở chế độ dịch trên máy tính (nguồn PS5 / capture card), có **Học nút mic** trong Cài đặt. Tổ hợp tay cầm L1 + R1 chỉ dùng khi chơi game PC (nguồn Màn hình).
+- **🗑 Xoá giọng đã phân vai** từng nhân vật hoặc xoá tất cả.
 
 ### ✨ v4.4
 - **🗣 Giọng VieNeu đọc đủ chữ:** câu dài được chia đoạn ở dấu câu, đọc tốc độ tự nhiên rồi tua nhanh giữ giọng — không còn nuốt chữ khi đọc nhanh; câu dài nghe tiếng đầu sớm hơn.
-- **🎮 Tay cầm dịch toàn màn hình:** chơi game trên máy tính, bấm **L1 + R1** (Xbox: **LB + RB**) gần như cùng lúc (đổi được sang L2 + R2 / L3 + R3 trong Cài đặt) → dịch toàn bộ chữ trên màn hình, đè lên chữ gốc như nút Mic, **phần nào dịch xong hiện trước**; muốn kiểu cũ (đứng hình, D-pad kéo khung) chọn **"Dịch từng vùng"**. Chuột / phím tắt vẫn kéo khung chỗ nào dịch chỗ đó.
-- **⏱ Giữ bản dịch toàn màn hình:** ⚙️ Cài đặt → **− / +** (2–40 giây). Nút Mic: bấm tiếp là dịch tiếp, không phải chờ biểu tượng mic tắt; không tắt nhầm ở menu nền chuyển động.
-- **🤠 Không bỏ sót thoại:** dòng hướng dẫn nút (RDR2) hay tên người làm game in hoa không còn làm câu thoại bị bỏ; câu chửi thề / bạo lực không bị chặn dịch; không dịch nhầm đoạn mô tả dài trong khung phụ đề.
-- **📺 TV Android:** phụ đề đè đúng câu gốc, đúng màu chữ / kiểu nền.
-- **🔑 Tự lấy mã Gemini** dùng được với Chrome / Brave · **▶ Nghe thử** luôn phát loa máy tính · **🆘 Báo lỗi** gửi thẳng nhóm Zalo.
+- **🎮 Tay cầm dịch toàn màn hình:** chơi game trên máy tính, bấm **L1 + R1** (Xbox: **LB + RB**) gần như cùng lúc (đổi được sang L2 + R2 / L3 + R3 trong Cài đặt) → dịch toàn bộ chữ trên màn hình, đè lên chữ gốc như nút Mic, **phần nào dịch xong hiện trước**; muốn kiểu cũ (đứng hình, D-pad kéo khung) chọn **"Tay cầm: dịch từng vùng"**; bấm lại để tắt, di chuyển / đổi màn hình thì tự tắt. Chuột / phím tắt vẫn kéo khung chỗ nào dịch chỗ đó.
+- **⏱ Giữ bản dịch toàn màn hình:** ⚙️ Cài đặt → **− / +** (2–40 giây, mặc định 10 giây). Nút Mic không còn tắt nhầm ở menu có nền chuyển động.
+- **🔑 Tự lấy mã Gemini:** máy không có Edge thì dùng Chrome / Brave.
+- **🎬 Khung phụ đề:** không dịch nhầm đoạn mô tả dài (trên 4 dòng).
+- **🎙 Nút Mic:** đang hiện biểu tượng mic mà bấm Mic tiếp → dịch tiếp ngay (không phải chờ biểu tượng tắt).
+- **🤠 Không bỏ sót thoại:** dòng hướng dẫn nút dưới phụ đề (RDR2: "Tap to ride faster"…) hay tên người làm game in hoa không còn làm câu thoại bị bỏ; câu chửi thề / bạo lực không bị Gemini chặn.
+- **📺 TV Android:** phụ đề đè đúng lên câu gốc (tên nhân vật đúng dòng tên), đúng màu chữ / kiểu nền.
+- **▶ Nghe thử giọng** luôn phát ở loa máy tính (không chen vào giọng đang đọc trên TV).
+- **🆘 Báo lỗi:** gửi thẳng nhóm Zalo.
 
 ### ✨ v4.3
 - **🎬 Phụ đề đè đúng lên câu tiếng Anh:** câu 2 dòng thì chữ Việt cũng 2 dòng; **tên nhân vật nằm riêng 1 dòng** (kể cả tên nhiều chữ như "Man in White"). Áp dụng trên cửa sổ máy tính và TV LG.
@@ -128,7 +142,7 @@ Có bản cho **Windows** (gồm cả chế độ **chơi PS5 dịch trên TV**)
 
 ### 🎮 Tay cầm, phím tắt, báo lỗi
 - Dịch màn hình bằng tay cầm: **L3 + R3**, **D-pad Xuống + R3** hoặc **LB + R3** → phím mũi tên di chuyển, **A / ▢ Vuông** chọn điểm đầu – điểm cuối, **B / ○** huỷ. Thêm phím **Ctrl+Shift+Z / X**.
-- Nút **🐞 Báo lỗi**: tạo file nhật ký (đã che mã) và mở nhóm Telegram để gửi.
+- Nút **🐞 Báo lỗi**: tạo file nhật ký (đã che mã) và mở nhóm Zalo báo lỗi để gửi.
 - Game có sẵn phụ đề tiếng Việt → tự chuyển **Chỉ đọc thoại** (không tốn lượt dịch), thấy lại phụ đề tiếng Anh thì tự quay về.
 - Bỏ qua chữ hướng dẫn phím của menu ("WASD Move", "Esc Back"…), không đọc đi đọc lại.
 
@@ -210,7 +224,7 @@ Có bản cho **Windows** (gồm cả chế độ **chơi PS5 dịch trên TV**)
 - Chế độ **📺 Chơi PS5 trên TV**: cần TV **Android TV / Google TV** (cài ứng dụng Dịch Game TV) và 2 tài khoản PSN trên PS5.
 
 ### Cài đặt
-1. Bấm đúp file **DichPhuDeGame_Windows_Setup_v4.5.1.exe**.
+1. Bấm đúp file **DichPhuDeGame_Windows_Setup_v4.6.exe**.
 2. Nếu Windows hiện màn hình xanh **"Windows protected your PC"**: bấm **More info** → **Run anyway**.
    (Windows cảnh báo vì ứng dụng chưa mua chứng chỉ, chỉ cần làm 1 lần.)
 3. Bấm **Next** → **Install**, xong bấm **Finish** là ứng dụng mở lên. Trên Desktop có biểu tượng app.

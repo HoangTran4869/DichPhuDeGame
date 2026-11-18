@@ -1,7 +1,7 @@
 {
-  "phien_ban": "4.5",
-  "ten_phien_ban": "4.5",
-  "ghi_chu": "Bản 4.5:\n- Hỗ trợ TV Samsung: cài ứng dụng lên TV thẳng từ máy tính, chữ + giọng lên TV.\n- Kiểu chữ mới \"Viền mờ\" dễ đọc hơn, tên nhân vật có màu riêng (máy tính + TV).\n- Tự tìm TV LG, không cần gõ IP.\n- Nút Mic dùng được cả khi dịch trên máy tính (nguồn PS5 / capture card).\n- Xoá được giọng đã phân vai cho nhân vật.\n\nTải nhanh bản mới trên GitHub: https://github.com/HoangTran4869/DichPhuDeGame/releases/latest",
-  "tai_ve_exe": "https://github.com/HoangTran4869/DichPhuDeGame/releases/download/v4.5/DichPhuDeGame_Windows_Setup_v4.5.1.exe",
-  "sha256_exe": "49c0b14e0a754d84919ebd55f4428b760474f5c3439ea456a29ed6fb8b6efe3e"
+  "phien_ban": "4.6",
+  "ten_phien_ban": "4.6",
+  "ghi_chu": "Bản 4.6:\n- Nút Mic / tay cầm dịch toàn màn hình: bản dịch không còn tự tắt ở menu có nền chuyển động.\n- Biển hiệu, tên nhiệm vụ chữ to không còn bị dịch nhầm; chữ Việt không còn to quá cỡ.\n- Câu bị đọc sai vài chữ vẫn được dịch; xưng hô giữ nhất quán hơn.\n- Tên nhân vật đọc lệch (\"- May\", \"Atrus\") dùng đúng giọng của nhân vật đó.\n- Hướng dẫn riêng khi PS5 từ chối Chơi từ xa.\n\nTải nhanh bản mới trên GitHub: https://github.com/HoangTran4869/DichPhuDeGame/releases/latest",
+  "tai_ve_exe": "https://github.com/HoangTran4869/DichPhuDeGame/releases/download/v4.6/DichPhuDeGame_Windows_Setup_v4.6.exe",
+  "sha256_exe": "794824c79a86727573cba66507b4f48a8a5e6e9bc6c65858f72d6c727065c2fe"
 }
