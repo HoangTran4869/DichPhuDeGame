@@ -1,6 +1,6 @@
 {
-  "phien_ban": "1.1.11",
-  "ma_so": 121,
-  "ghi_chu": "Bản 1.1.11:\n- Sửa lỗi tắt màn hình lần thứ 2 trở đi thì không dịch\n\nTải bản mới trên GitHub: https://github.com/HoangTran4869/DichPhuDeGame-Android/releases/latest",
+  "phien_ban": "1.1.12",
+  "ma_so": 122,
+  "ghi_chu": "Bản 1.1.12:\n- Sửa lỗi chữ dịch bị phóng to quá cỡ trên TV\n- Tách cỡ chữ TV: phụ đề và dịch toàn màn hình\n- Thêm \"Ẩn chữ dịch\" (chỉ nghe giọng đọc)\n- Học nút Mic nhanh và chắc hơn\n- Không bỏ sót câu ngắn như \"Damn it!\", \"Wait!\"\n- Báo khi 2 mã dịch tạo cùng 1 tài khoản / dự án\n- Google quá tải thì tự chuyển sang Groq và báo rõ lý do\n\nTải bản mới trên GitHub: https://github.com/HoangTran4869/DichPhuDeGame-Android/releases/latest",
   "tai_ve_apk": "https://github.com/HoangTran4869/DichPhuDeGame-Android/releases/latest"
 }
