@@ -4,7 +4,7 @@
 Có bản cho **Windows** (gồm cả chế độ **chơi PS5 dịch trên TV**) và **macOS**.
 
 ## ⬇️ Tải ứng dụng
-- **🪟 Windows 10/11 — v4.6:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v4.6) → chọn file `DichPhuDeGame_Windows_Setup_v4.6.exe` (khoảng 224 MB)
+- **🪟 Windows 10/11 — v4.7:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v4.7) → chọn file `DichPhuDeGame_Windows_Setup_v4.7.exe` (khoảng 224 MB)
 - **📺 Ứng dụng TV (Android TV / Google TV):** cùng trang trên → file `DichGameTV.apk`, hoặc ứng dụng **Downloader** trên TV nhập mã **1314378**
 - **🍎 macOS (chip Apple M1 trở lên) — v4.2:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v4.2) → chọn file `DichPhuDeGame_MacOS_v4.2.dmg`
 
@@ -30,7 +30,16 @@ Có bản cho **Windows** (gồm cả chế độ **chơi PS5 dịch trên TV**)
 - Mở Ứng dụng lúc Windows chưa nạp xong giọng đọc → Ứng dụng tự tìm lại giọng, không phải mở lại.
 - Game để **Fullscreen độc quyền** (Exclusive Fullscreen) bị thu nhỏ khi chữ đè hiện lên → Ứng dụng tự nhận ra, tạm tắt chữ đè và hướng dẫn chuyển sang **Borderless**.
 
-### ✨ v4.6 (mới)
+### ✨ v4.7 (mới)
+- **🔑 Hết mã "giả":** Google quá tải không còn bị báo nhầm là *hết lượt* (nhiều Bạn thêm cả chục mã vì lỗi này) — Ứng dụng tự chuyển sang Groq và báo đúng "Google đang quá tải, mã của Bạn vẫn còn lượt".
+- **📺 Không còn chữ tiếng Anh lên TV:** câu chưa dịch được thì để nguyên phụ đề gốc của game, không vẽ lại tiếng Anh bằng chữ của Ứng dụng.
+- **🎙 Bấm Mic khi chưa bật cửa sổ xem hình PS5:** ảnh dịch tắt được bằng **Mic lần nữa / Esc / bấm chuột**, tự tắt khi chữ trên PS5 đổi hoặc hết thời gian giữ (trước đây không thoát được).
+- **⚠ Mã Groq trùng tài khoản:** danh sách mã báo dòng cam nếu 2 mã cùng 1 tài khoản (dùng chung lượt). Mã hết lượt hôm nay chỉ báo nhỏ ở góc màn hình, không chặn lúc chơi.
+- **🙈 Ẩn chữ dịch (chỉ nghe giọng):** nút 🔊 → ẩn trên Máy tính / TV / Cả hai.
+- **⏱ Giữ bản dịch** − / + ngay trong menu nút 🔍 Dịch màn hình; **🔠 Chữ dịch toàn màn hình trên TV** chỉnh riêng (⚙️ Cài đặt → TV).
+- Không bỏ nhầm câu ngắn ("Hey!", "Come on") sát mép khung; nút Mic không giữ nguyên câu tiếng Anh.
+
+### ✨ v4.6
 - **🎙 Nút Mic / tay cầm dịch toàn màn hình:** bản dịch chỉ tắt khi **chữ trên màn hình đổi thật** (đọc lại 2 lần liên tiếp) — menu có nền chuyển động / nền mờ không còn làm bản dịch tắt sau chưa tới 1 giây.
 - **🎬 Phụ đề:** biển hiệu, tên nhiệm vụ chữ to lọt vào khung không còn bị dịch / đọc; chữ Việt có giới hạn cỡ (máy tính + TV).
 - **🤖 Dịch:** câu dài bị đọc sai vài chữ vẫn được dịch (AI tự sửa); xưng hô giữ đúng như các câu trước.
@@ -224,7 +233,7 @@ Có bản cho **Windows** (gồm cả chế độ **chơi PS5 dịch trên TV**)
 - Chế độ **📺 Chơi PS5 trên TV**: cần TV **Android TV / Google TV** (cài ứng dụng Dịch Game TV) và 2 tài khoản PSN trên PS5.
 
 ### Cài đặt
-1. Bấm đúp file **DichPhuDeGame_Windows_Setup_v4.6.exe**.
+1. Bấm đúp file **DichPhuDeGame_Windows_Setup_v4.7.exe**.
 2. Nếu Windows hiện màn hình xanh **"Windows protected your PC"**: bấm **More info** → **Run anyway**.
    (Windows cảnh báo vì ứng dụng chưa mua chứng chỉ, chỉ cần làm 1 lần.)
 3. Bấm **Next** → **Install**, xong bấm **Finish** là ứng dụng mở lên. Trên Desktop có biểu tượng app.
