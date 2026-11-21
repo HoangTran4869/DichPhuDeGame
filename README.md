@@ -4,7 +4,7 @@
 Có bản cho **Windows** (gồm cả chế độ **chơi PS5 dịch trên TV**) và **macOS**.
 
 ## ⬇️ Tải ứng dụng
-- **🪟 Windows 10/11 — v4.7.1:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v4.7.1) → chọn file `DichPhuDeGame_Windows_Setup_v4.7.1.exe` (khoảng 224 MB)
+- **🪟 Windows 10/11 — v4.8:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v4.8) → chọn file `DichPhuDeGame_Windows_Setup_v4.8.exe` (khoảng 224 MB)
 - **📺 Ứng dụng TV (Android TV / Google TV):** cùng trang trên → file `DichGameTV.apk`, hoặc ứng dụng **Downloader** trên TV nhập mã **1314378**
 - **🍎 macOS (chip Apple M1 trở lên) — v4.2:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v4.2) → chọn file `DichPhuDeGame_MacOS_v4.2.dmg`
 
@@ -30,7 +30,14 @@ Có bản cho **Windows** (gồm cả chế độ **chơi PS5 dịch trên TV**)
 - Mở Ứng dụng lúc Windows chưa nạp xong giọng đọc → Ứng dụng tự tìm lại giọng, không phải mở lại.
 - Game để **Fullscreen độc quyền** (Exclusive Fullscreen) bị thu nhỏ khi chữ đè hiện lên → Ứng dụng tự nhận ra, tạm tắt chữ đè và hướng dẫn chuyển sang **Borderless**.
 
-### ✨ v4.7.1 (mới)
+### ✨ v4.8 (mới)
+- **📚 Thư viện Việt hoá:** game có bản dịch sẵn (đầu tiên: **GTA VI**) — câu có trong thư viện hiện ngay, **không tốn lượt mã**. Chọn game là Ứng dụng tự tải (⚙️ Cài đặt → Game có dòng trạng thái); danh sách chọn game có nhóm "GAME ĐÃ CÓ VIỆT HOÁ".
+- **🎮 PS5 không kết nối được:** Ứng dụng báo rõ lý do (PS5 tắt / chế độ nghỉ / khác mạng) thay vì "thử lại sau vài giây", và **tự tìm PS5 khi PS5 đổi địa chỉ IP** rồi kết nối lại.
+- **⚠ Mã trùng:** thêm mã Gemini cùng 1 dự án, hoặc mã Groq cùng 1 tài khoản, Ứng dụng báo ngay (2 mã dùng chung lượt).
+- **🔠 Cỡ chữ đè lên chữ gốc không còn nhảy** to nhỏ giữa các câu.
+- Chú thích kiểu "[In Spanish]:" không còn bị coi là tên nhân vật.
+
+### ✨ v4.7.1
 - **🛠 Sửa lỗi dịch toàn màn hình (Mic / tay cầm) tự tắt sau 1–2 giây** ở game chữ nhỏ, mờ (Sekiro...): bản dịch chỉ tắt khi chữ trên màn hình đổi THẬT.
 
 ### ✨ v4.7
@@ -236,7 +243,7 @@ Có bản cho **Windows** (gồm cả chế độ **chơi PS5 dịch trên TV**)
 - Chế độ **📺 Chơi PS5 trên TV**: cần TV **Android TV / Google TV** (cài ứng dụng Dịch Game TV) và 2 tài khoản PSN trên PS5.
 
 ### Cài đặt
-1. Bấm đúp file **DichPhuDeGame_Windows_Setup_v4.7.1.exe**.
+1. Bấm đúp file **DichPhuDeGame_Windows_Setup_v4.8.exe**.
 2. Nếu Windows hiện màn hình xanh **"Windows protected your PC"**: bấm **More info** → **Run anyway**.
    (Windows cảnh báo vì ứng dụng chưa mua chứng chỉ, chỉ cần làm 1 lần.)
 3. Bấm **Next** → **Install**, xong bấm **Finish** là ứng dụng mở lên. Trên Desktop có biểu tượng app.
