@@ -6,7 +6,7 @@ Có bản cho **Windows** (gồm cả chế độ **chơi PS5 dịch trên TV**)
 ## ⬇️ Tải ứng dụng
 - **🪟 Windows 10/11 — v4.8:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v4.8) → chọn file `DichPhuDeGame_Windows_Setup_v4.8.exe` (khoảng 224 MB)
 - **📺 Ứng dụng TV (Android TV / Google TV):** cùng trang trên → file `DichGameTV.apk`, hoặc ứng dụng **Downloader** trên TV nhập mã **1314378**
-- **🍎 macOS (chip Apple M1 trở lên) — v4.2:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v4.2) → chọn file `DichPhuDeGame_MacOS_v4.2.dmg`
+- **🍎 macOS (chip Apple M1 trở lên) — v4.8:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v4.8) → chọn file `DichPhuDeGame_MacOS_v4.8.dmg` (khoảng 91 MB)
 
 ---
 
@@ -184,7 +184,15 @@ Có bản cho **Windows** (gồm cả chế độ **chơi PS5 dịch trên TV**)
 - Kiểu mới **🔤 Không nền, chữ viền bóng** (như phụ đề phim) và **chọn màu chữ** (trắng, vàng, xanh…).
 - Bỏ phím tắt Ctrl+Shift+H (hay trùng phím của trình duyệt / game). Chỉ còn phím riêng cho Dịch màn hình.
 
-## 🍎 macOS (v4.2)
+## 🍎 macOS (v4.8)
+### ✨ Mới trong 4.8 (Mac) — gồm mọi cải tiến của bản Windows 4.3 → 4.8
+- **🎮 Dịch màn hình bằng tay cầm** (nguồn Màn hình): nối tay cầm PS5 / PS4 / Xbox với Mac, bấm **L1 + R1** cùng lúc → màn hình đứng yên và dịch toàn bộ chữ. Bấm lại, Esc hoặc bấm chuột để thoát. Đổi tổ hợp nút trong ⚙️ Cài đặt.
+- **📚 Thư viện Việt hoá:** game có bản Việt hoá thì phụ đề, nút Mic và dịch màn hình lấy đúng câu Việt hoá trước — chuẩn và nhanh hơn.
+- **🎨 Chữ dịch trên hình PS5** theo kiểu chữ trong Cài đặt: đè lên câu tiếng Anh gốc, màu chữ, ô nền, kiểu **Viền mờ**, màu tên nhân vật.
+- **📺 TV Samsung:** tìm TV, mở và cài Ứng dụng lên TV từ máy tính. Tự tìm TV LG.
+- **📡 PS5:** mất kết nối thì tự tìm lại địa chỉ mới; nút Tìm PS5 trong mạng nhà.
+- Nút Mic chỉ tắt bản dịch khi chữ trên màn hình đổi thật; cỡ chữ không nhảy; giọng VieNeu đọc đủ chữ; báo trùng mã Gemini / Groq ngay khi thêm; Google quá tải không còn báo nhầm hết lượt.
+
 ### ✨ Mới trong 4.2 (Mac)
 - **⌨ Phím tắt Dịch màn hình** (⚙️ Cài đặt → Phím tắt dịch màn hình): Ctrl + Shift + Option (mặc định), Ctrl + Shift + Z, Ctrl + Shift + X, Ctrl + Option + T. Lần đầu macOS hỏi quyền **Giám sát đầu vào (Input Monitoring)** → bật cho Dịch Phụ Đề Game rồi mở lại Ứng dụng.
 - **🖥 Nguồn Màn hình Mac:** bấm phím tắt → màn hình đứng yên → **kéo chuột / trackpad** quanh chỗ cần dịch (kéo tiếp chỗ khác được). Bấm phím tắt lần nữa, Esc hoặc chuột phải để thoát.

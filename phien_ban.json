@@ -1,6 +1,6 @@
 {
-  "phien_ban": "4.2",
-  "ghi_chu": "Bản 4.2:\n- Thêm phím tắt Dịch màn hình (mặc định Ctrl + Shift + Option).\n- Nguồn Màn hình Mac: bấm phím tắt rồi kéo chuột / trackpad chỗ cần dịch.\n\nTải nhanh bản mới trên GitHub: https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v4.2",
-  "tai_ve_dmg": "https://github.com/HoangTran4869/DichPhuDeGame/releases/download/v4.2/DichPhuDeGame_MacOS_v4.2.dmg",
-  "sha256_dmg": "9bc6acd3444c929e4c1e713eb81dd771eadfa84c089fc970b12ba18400b83130"
+  "phien_ban": "4.8",
+  "ghi_chu": "Bản 4.8:\n- Dịch màn hình bằng tay cầm: bấm L1 + R1 cùng lúc (nguồn Màn hình).\n- Thư viện Việt hoá: game có bản Việt hoá dịch đúng chuẩn, nhanh hơn.\n- Chữ dịch trên hình PS5 có kiểu Viền mờ, màu tên nhân vật.\n- Thêm TV Samsung, PS5 mất kết nối tự tìm lại, sửa nhiều lỗi dịch và giọng đọc.\n\nTải nhanh bản mới trên GitHub: https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v4.8",
+  "tai_ve_dmg": "https://github.com/HoangTran4869/DichPhuDeGame/releases/download/v4.8/DichPhuDeGame_MacOS_v4.8.dmg",
+  "sha256_dmg": "d48129142f1823fcf784f2df8c452cee1ed40cbd6c63c4d345da66d429977b2a"
 }
