@@ -1,6 +1,6 @@
 {
-  "phien_ban": "1.1.13",
-  "ma_so": 123,
-  "ghi_chu": "Bản 1.1.13:\n- Có bản Việt hoá GTA VI: dịch tức thì, không chờ\n- 8 giọng đọc mới tự nhiên hơn (vào Giọng & tốc độ để tải)\n- Đọc nhanh kịp thoại hơn\n- Chữ dịch không còn nhảy cỡ\n\nTải bản mới trên GitHub: https://github.com/HoangTran4869/DichPhuDeGame-Android/releases/latest",
+  "phien_ban": "1.1.14",
+  "ma_so": 124,
+  "ghi_chu": "Bản 1.1.14:\n- SỬA LỖI XƯNG HÔ CHƯA ĐÚNG (khắc phục 80%)\n- SỬA LỖI GIỌNG ĐỌC MẤT CHỮ CUỐI\n\nHướng dẫn bật tên nhân vật GTA6 (để xưng hô chuẩn hơn): trong game vào Settings → UI → Subtitles & Captions, bật mục Speaker Names.\n\nTải bản mới trên GitHub: https://github.com/HoangTran4869/DichPhuDeGame-Android/releases/latest",
   "tai_ve_apk": "https://github.com/HoangTran4869/DichPhuDeGame-Android/releases/latest"
 }
