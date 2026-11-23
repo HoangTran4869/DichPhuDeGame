@@ -4,9 +4,9 @@
 Có bản cho **Windows** (gồm cả chế độ **chơi PS5 dịch trên TV**) và **macOS**.
 
 ## ⬇️ Tải ứng dụng
-- **🪟 Windows 10/11 — v4.8:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v4.8) → chọn file `DichPhuDeGame_Windows_Setup_v4.8.exe` (khoảng 224 MB)
+- **🪟 Windows 10/11 — v4.9:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v4.9) → chọn file `DichPhuDeGame_Windows_Setup_v4.9.exe` (khoảng 225 MB)
 - **📺 Ứng dụng TV (Android TV / Google TV):** cùng trang trên → file `DichGameTV.apk`, hoặc ứng dụng **Downloader** trên TV nhập mã **1314378**
-- **🍎 macOS (chip Apple M1 trở lên) — v4.8:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v4.8) → chọn file `DichPhuDeGame_MacOS_v4.8.dmg` (khoảng 91 MB)
+- **🍎 macOS (chip Apple M1 trở lên) — v4.8:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v4.8) → chọn file `DichPhuDeGame_MacOS_v4.8.dmg`
 
 ---
 
@@ -30,7 +30,14 @@ Có bản cho **Windows** (gồm cả chế độ **chơi PS5 dịch trên TV**)
 - Mở Ứng dụng lúc Windows chưa nạp xong giọng đọc → Ứng dụng tự tìm lại giọng, không phải mở lại.
 - Game để **Fullscreen độc quyền** (Exclusive Fullscreen) bị thu nhỏ khi chữ đè hiện lên → Ứng dụng tự nhận ra, tạm tắt chữ đè và hướng dẫn chuyển sang **Borderless**.
 
-### ✨ v4.8 (mới)
+### ✨ v4.9 (mới)
+- **🎙 8 giọng đọc mới** tự nhiên như người thật (3 nam, 5 nữ — mặc định **Quốc Khánh**): ⚙️ Cài đặt → Giọng đọc → **Tải giọng đọc mới**, tải từng giọng tuỳ ý. Đã tải giọng mới thì giọng mới xếp đầu danh sách.
+- **🖥 Toàn màn hình khi Dịch bằng chuột** (PS5 / capture card): nút **⛶ Toàn màn hình** góc dưới bên phải hình, hoặc phím **F11** / bấm đúp lên hình. Bấm lại để về cửa sổ thường.
+- **💬 GTA VI — Lucia và Jason xưng "anh – em"** khi game bật **Speaker Names** (Settings → UI → Subtitles & Captions). Câu "Tên: thoại" có trong thư viện Việt hoá giữ đúng tên nhân vật.
+- **📱 Nút Mic dịch chữ nghiêng** (điện thoại trong game...): ô dịch nghiêng theo chữ gốc, xuống dòng trong khung chữ gốc.
+- **🔊 Giọng đọc không còn mất chữ cuối** ở giọng nhỏ tiếng / khi đọc nhanh.
+
+### ✨ v4.8
 - **📚 Thư viện Việt hoá:** game có bản dịch sẵn (đầu tiên: **GTA VI**) — câu có trong thư viện hiện ngay, **không tốn lượt mã**. Chọn game là Ứng dụng tự tải (⚙️ Cài đặt → Game có dòng trạng thái); danh sách chọn game có nhóm "GAME ĐÃ CÓ VIỆT HOÁ".
 - **🎮 PS5 không kết nối được:** Ứng dụng báo rõ lý do (PS5 tắt / chế độ nghỉ / khác mạng) thay vì "thử lại sau vài giây", và **tự tìm PS5 khi PS5 đổi địa chỉ IP** rồi kết nối lại.
 - **⚠ Mã trùng:** thêm mã Gemini cùng 1 dự án, hoặc mã Groq cùng 1 tài khoản, Ứng dụng báo ngay (2 mã dùng chung lượt).
@@ -251,7 +258,7 @@ Có bản cho **Windows** (gồm cả chế độ **chơi PS5 dịch trên TV**)
 - Chế độ **📺 Chơi PS5 trên TV**: cần TV **Android TV / Google TV** (cài ứng dụng Dịch Game TV) và 2 tài khoản PSN trên PS5.
 
 ### Cài đặt
-1. Bấm đúp file **DichPhuDeGame_Windows_Setup_v4.8.exe**.
+1. Bấm đúp file **DichPhuDeGame_Windows_Setup_v4.9.exe**.
 2. Nếu Windows hiện màn hình xanh **"Windows protected your PC"**: bấm **More info** → **Run anyway**.
    (Windows cảnh báo vì ứng dụng chưa mua chứng chỉ, chỉ cần làm 1 lần.)
 3. Bấm **Next** → **Install**, xong bấm **Finish** là ứng dụng mở lên. Trên Desktop có biểu tượng app.
