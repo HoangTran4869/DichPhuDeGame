@@ -1,5 +1,5 @@
 {
-  "phien_ban": "2026-11-23a",
+  "phien_ban": "2026-11-23b",
   "games": [
     {
       "ten": "God of War",
@@ -13676,6 +13676,84 @@
           "tu": "Shield",
           "loai": "Kỹ năng / Phép",
           "mo_ta": "khiên chắn, đổi thành lướt tấn công"
+        }
+      ]
+    },
+    {
+      "ten": "A Way Out",
+      "nen_tang": "PS4 / PS5 / Xbox / PC",
+      "phong_cach": "duong_pho",
+      "mo_ta_game": "Game co-op 2 người (Hazelight, 2018), bối cảnh Mỹ cuối thập niên 1970. Vincent Moretti vào tù vì lừa đảo và giết người, gặp Leo Caruso đang thụ án vì trộm cướp có vũ khí. Cả hai từng bị cùng một kẻ là Harvey hãm hại nên hợp sức vượt ngục, về thăm gia đình rồi truy lùng Harvey tới tận Mexico. Giọng điệu phim tội phạm, thoại đời thường, Leo nóng nảy, chửi thề nhiều. Xưng hô gợi ý: Leo ↔ Vincent: lúc đầu 'tôi – anh', thân rồi 'tao – mày' kiểu bạn tù (Leo hay gọi trống không, cộc); Leo ↔ Linda: 'anh – em' (vợ chồng); Leo ↔ Alex: 'bố – con'; Vincent ↔ Carol: 'anh – em' (vợ chồng đang lục đục); Vincent/Leo ↔ Emily: 'tôi – cô'; Harvey ↔ Leo/Vincent: 'tao – mày' (thù địch); Ray ↔ Leo/Vincent: 'tao – mày' khi bị tra hỏi.",
+      "tu": [
+        {
+          "tu": "Leo",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "~30–35 tuổi; nhân vật chính (người chơi 1); Leo Caruso, ngồi tù vì trộm xe, hành hung, cướp có vũ khí; nóng nảy, liều lĩnh, hài hước, rất thương vợ con; xưng 'tao'/'tôi'"
+        },
+        {
+          "tu": "Vincent",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "~35–40 tuổi; nhân vật chính (người chơi 2); Vincent Moretti, vào tù vì lừa đảo và giết người; điềm tĩnh, tính toán, ít nói; chồng của Carol; anh trai của Gary"
+        },
+        {
+          "tu": "Harvey",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "trung niên; phản diện chính; trùm tội phạm, đồng bọn cũ đã phản bội Leo và giết Gary (em trai Vincent); ẩn náu ở biệt thự tại Mexico"
+        },
+        {
+          "tu": "Linda",
+          "loai": "Tên nhân vật",
+          "gioi": "nu",
+          "mo_ta": "~30 tuổi; vợ của Leo, mẹ của Alex; sống ở khu nhà di động (trailer park); lo lắng cho chồng"
+        },
+        {
+          "tu": "Alex",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "~12 tuổi; con trai của Leo và Linda; xưng 'con', gọi Leo 'bố'"
+        },
+        {
+          "tu": "Carol",
+          "loai": "Tên nhân vật",
+          "gioi": "nu",
+          "mo_ta": "~30–35 tuổi; vợ của Vincent, đang mang thai rồi sinh con gái trong game; quan hệ vợ chồng căng thẳng"
+        },
+        {
+          "tu": "Emily",
+          "loai": "Tên nhân vật",
+          "gioi": "nu",
+          "mo_ta": "~30 tuổi; nữ phi công chở Leo và Vincent sang Mexico; bình tĩnh, chuyên nghiệp"
+        },
+        {
+          "tu": "Ray",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "trung niên; tay chân của Harvey, làm quản đốc công trường; bị Leo và Vincent bắt tra hỏi chỗ ở của Harvey"
+        },
+        {
+          "tu": "Gary",
+          "loai": "Tên nhân vật",
+          "gioi": "nam",
+          "mo_ta": "đã chết trước khi game bắt đầu (chỉ được nhắc tới); em trai của Vincent, bị Harvey giết"
+        },
+        {
+          "tu": "Jasmine",
+          "loai": "Tên nhân vật",
+          "gioi": "nu",
+          "mo_ta": "người quen của Harvey, sau bán đứng chỗ trốn của Leo và Vincent cho Harvey"
+        },
+        {
+          "tu": "Black Orlov",
+          "loai": "Vật phẩm",
+          "mo_ta": "viên kim cương đen quý (giữ nguyên tên) mà Harvey cướp trong phi vụ khiến Leo vào tù"
+        },
+        {
+          "tu": "Mexico",
+          "loai": "Địa danh",
+          "mo_ta": "nơi Harvey ẩn náu trong một biệt thự; dịch 'Mê-hi-cô' hoặc giữ 'Mexico'"
         }
       ]
     }
