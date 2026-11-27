@@ -4,7 +4,7 @@
 Có bản cho **Windows** (gồm cả chế độ **chơi PS5 dịch trên TV**) và **macOS**.
 
 ## ⬇️ Tải ứng dụng
-- **🪟 Windows 10/11 — v5.0:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v5.0) → chọn file `DichPhuDeGame_Windows_Setup_v5.0.exe` (khoảng 225 MB)
+- **🪟 Windows 10/11 — v5.0.1:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v5.0.1) → chọn file `DichPhuDeGame_Windows_Setup_v5.0.1.exe` (khoảng 225 MB)
 - **📺 Ứng dụng TV (Android TV / Google TV):** cùng trang trên → file `DichGameTV.apk`, hoặc ứng dụng **Downloader** trên TV nhập mã **1314378**
 - **🍎 macOS (chip Apple M1 trở lên) — v4.8:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v4.8) → chọn file `DichPhuDeGame_MacOS_v4.8.dmg`
 
@@ -30,7 +30,10 @@ Có bản cho **Windows** (gồm cả chế độ **chơi PS5 dịch trên TV**)
 - Mở Ứng dụng lúc Windows chưa nạp xong giọng đọc → Ứng dụng tự tìm lại giọng, không phải mở lại.
 - Game để **Fullscreen độc quyền** (Exclusive Fullscreen) bị thu nhỏ khi chữ đè hiện lên → Ứng dụng tự nhận ra, tạm tắt chữ đè và hướng dẫn chuyển sang **Borderless**.
 
-### ✨ v5.0 (mới)
+### ✨ v5.0.1 (mới)
+- **📺 Sửa:** nút **Cài lên TV LG / TV Samsung** cài đúng bản app TV mới (**LG 1.1.10**, **Samsung 1.0.3** – chữ dịch nghiêng theo chữ gốc). Bản 5.0 cài nhầm bản cũ và nhắc cập nhật mỗi lần mở.
+
+### ✨ v5.0
 - **🎙 Nút Mic cho nguồn Màn hình** (Chơi từ xa PS5 trên máy tính): ⚙️ Cài đặt → **🎙 Học nút mic**. Nút mic chỉ có biểu tượng (không có tên) cũng học được. Bấm Mic trên tay cầm = dịch toàn màn hình, bấm lại để tắt.
 - **📍 Vị trí chữ dịch phụ đề** (nguồn Màn hình): **Đè lên chữ gốc** hoặc **Tự chọn** — kéo 1 khung, chữ dịch luôn hiện ở đó.
 - **↗ Dịch toàn màn hình:** chữ gốc nghiêng thì chữ dịch nghiêng theo, 1 đoạn chữ nghiêng (tin nhắn điện thoại trong game) dịch trọn trong 1 ô; theo đúng **kiểu chữ, nền chữ** trong Cài đặt; các khung dịch không còn đè lên nhau. App TV bản mới cũng hiện chữ nghiêng.
@@ -269,7 +272,7 @@ Có bản cho **Windows** (gồm cả chế độ **chơi PS5 dịch trên TV**)
 - Chế độ **📺 Chơi PS5 trên TV**: cần TV **Android TV / Google TV** (cài ứng dụng Dịch Game TV) và 2 tài khoản PSN trên PS5.
 
 ### Cài đặt
-1. Bấm đúp file **DichPhuDeGame_Windows_Setup_v5.0.exe**.
+1. Bấm đúp file **DichPhuDeGame_Windows_Setup_v5.0.1.exe**.
 2. Nếu Windows hiện màn hình xanh **"Windows protected your PC"**: bấm **More info** → **Run anyway**.
    (Windows cảnh báo vì ứng dụng chưa mua chứng chỉ, chỉ cần làm 1 lần.)
 3. Bấm **Next** → **Install**, xong bấm **Finish** là ứng dụng mở lên. Trên Desktop có biểu tượng app.
