@@ -4,7 +4,7 @@
 Có bản cho **Windows** (gồm cả chế độ **chơi PS5 dịch trên TV**) và **macOS**.
 
 ## ⬇️ Tải ứng dụng
-- **🪟 Windows 10/11 — v4.9:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v4.9) → chọn file `DichPhuDeGame_Windows_Setup_v4.9.exe` (khoảng 225 MB)
+- **🪟 Windows 10/11 — v5.0:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v5.0) → chọn file `DichPhuDeGame_Windows_Setup_v5.0.exe` (khoảng 225 MB)
 - **📺 Ứng dụng TV (Android TV / Google TV):** cùng trang trên → file `DichGameTV.apk`, hoặc ứng dụng **Downloader** trên TV nhập mã **1314378**
 - **🍎 macOS (chip Apple M1 trở lên) — v4.8:** [bấm vào đây](https://github.com/HoangTran4869/DichPhuDeGame/releases/tag/v4.8) → chọn file `DichPhuDeGame_MacOS_v4.8.dmg`
 
@@ -30,7 +30,18 @@ Có bản cho **Windows** (gồm cả chế độ **chơi PS5 dịch trên TV**)
 - Mở Ứng dụng lúc Windows chưa nạp xong giọng đọc → Ứng dụng tự tìm lại giọng, không phải mở lại.
 - Game để **Fullscreen độc quyền** (Exclusive Fullscreen) bị thu nhỏ khi chữ đè hiện lên → Ứng dụng tự nhận ra, tạm tắt chữ đè và hướng dẫn chuyển sang **Borderless**.
 
-### ✨ v4.9 (mới)
+### ✨ v5.0 (mới)
+- **🎙 Nút Mic cho nguồn Màn hình** (Chơi từ xa PS5 trên máy tính): ⚙️ Cài đặt → **🎙 Học nút mic**. Nút mic chỉ có biểu tượng (không có tên) cũng học được. Bấm Mic trên tay cầm = dịch toàn màn hình, bấm lại để tắt.
+- **📍 Vị trí chữ dịch phụ đề** (nguồn Màn hình): **Đè lên chữ gốc** hoặc **Tự chọn** — kéo 1 khung, chữ dịch luôn hiện ở đó.
+- **↗ Dịch toàn màn hình:** chữ gốc nghiêng thì chữ dịch nghiêng theo, 1 đoạn chữ nghiêng (tin nhắn điện thoại trong game) dịch trọn trong 1 ô; theo đúng **kiểu chữ, nền chữ** trong Cài đặt; các khung dịch không còn đè lên nhau. App TV bản mới cũng hiện chữ nghiêng.
+- **🇻🇳 Kho game đã Việt hoá:** ⚙️ Cài đặt → Game → nút **Kho game đã Việt hoá** (ngay dưới Kho ghi chú) — tìm game có bản Việt hoá, bấm Dùng là xong. Game Việt hoá cũng hiện ở bảng chọn game lúc vào chơi.
+- **📺 Android TV 0.21 tự cập nhật:** từ bản này, có bản mới thì mở app TV là hiện bảng cập nhật, không cần Downloader nữa.
+- **🎥 Livestream:** dịch toàn màn hình không còn nháy Anh/Việt khi phát trực tiếp.
+- **⛶ Toàn màn hình khi chỉ xem phụ đề** (tắt Dịch bằng chuột): nút góc dưới bên phải hoặc **F11**; nền theo chế độ ngày/đêm.
+- **🔊 Các giọng đọc (cũ và mới) to đều nhau.**
+- **🔠 Cỡ chữ phụ đề ổn định hơn**, không lúc to lúc nhỏ. Chế độ **Anh – Việt**: chữ Anh nhỏ hơn chữ Việt.
+
+### ✨ v4.9
 - **🎙 8 giọng đọc mới** tự nhiên như người thật (3 nam, 5 nữ — mặc định **Quốc Khánh**): ⚙️ Cài đặt → Giọng đọc → **Tải giọng đọc mới**, tải từng giọng tuỳ ý. Đã tải giọng mới thì giọng mới xếp đầu danh sách.
 - **🖥 Toàn màn hình khi Dịch bằng chuột** (PS5 / capture card): nút **⛶ Toàn màn hình** góc dưới bên phải hình, hoặc phím **F11** / bấm đúp lên hình. Bấm lại để về cửa sổ thường.
 - **💬 GTA VI — Lucia và Jason xưng "anh – em"** khi game bật **Speaker Names** (Settings → UI → Subtitles & Captions). Câu "Tên: thoại" có trong thư viện Việt hoá giữ đúng tên nhân vật.
@@ -258,7 +269,7 @@ Có bản cho **Windows** (gồm cả chế độ **chơi PS5 dịch trên TV**)
 - Chế độ **📺 Chơi PS5 trên TV**: cần TV **Android TV / Google TV** (cài ứng dụng Dịch Game TV) và 2 tài khoản PSN trên PS5.
 
 ### Cài đặt
-1. Bấm đúp file **DichPhuDeGame_Windows_Setup_v4.9.exe**.
+1. Bấm đúp file **DichPhuDeGame_Windows_Setup_v5.0.exe**.
 2. Nếu Windows hiện màn hình xanh **"Windows protected your PC"**: bấm **More info** → **Run anyway**.
    (Windows cảnh báo vì ứng dụng chưa mua chứng chỉ, chỉ cần làm 1 lần.)
 3. Bấm **Next** → **Install**, xong bấm **Finish** là ứng dụng mở lên. Trên Desktop có biểu tượng app.

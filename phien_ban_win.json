@@ -1,7 +1,7 @@
 {
-  "phien_ban": "4.9",
-  "ten_phien_ban": "4.9",
-  "ghi_chu": "Bản 4.9:\n- 🎙 8 giọng đọc mới tự nhiên (Quốc Khánh, Mai Linh...): ⚙️ Cài đặt → Giọng đọc, tải từng giọng.\n- 🖥 Nút Toàn màn hình cho hình PS5 khi Dịch bằng chuột.\n- GTA VI: Lucia và Jason xưng anh – em (bật Speaker Names trong game).\n- Nút Mic dịch được chữ nghiêng; giọng đọc không còn mất chữ cuối.\n\nTải nhanh bản mới trên GitHub: https://github.com/HoangTran4869/DichPhuDeGame/releases/latest",
-  "tai_ve_exe": "https://github.com/HoangTran4869/DichPhuDeGame/releases/download/v4.9/DichPhuDeGame_Windows_Setup_v4.9.exe",
-  "sha256_exe": "df5020596db89bba6b955a3171a22bbf4b6bdc95f679922d8120d1dc2c9c8d45"
+  "phien_ban": "5.0",
+  "ten_phien_ban": "5.0",
+  "ghi_chu": "Bản 5.0:\n- 🎙 Nguồn Màn hình: bấm Mic trên tay cầm để dịch toàn màn hình (⚙️ Cài đặt → Học nút mic).\n- ↗ Chữ dịch nghiêng theo chữ gốc, theo kiểu chữ/nền trong Cài đặt, không đè lên nhau.\n- 🇻🇳 Kho game đã Việt hoá: tìm game có bản Việt hoá cho dễ.\n- ⛶ Toàn màn hình khi chỉ xem phụ đề (F11).\n- 🔊 Các giọng đọc to đều nhau; cỡ chữ ổn định hơn.\n\nTải nhanh bản mới trên GitHub: https://github.com/HoangTran4869/DichPhuDeGame/releases/latest",
+  "tai_ve_exe": "https://github.com/HoangTran4869/DichPhuDeGame/releases/download/v5.0/DichPhuDeGame_Windows_Setup_v5.0.exe",
+  "sha256_exe": "6e7566aad1193cb4fe1721dab6b1d8c82640df3216bdfad275a689dc6904c3c9"
 }
